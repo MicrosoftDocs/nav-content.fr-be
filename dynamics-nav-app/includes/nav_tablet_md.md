@@ -1,0 +1,1 @@
+Client tablette Microsoft Dynamics NAV
