@@ -1,6 +1,6 @@
 
 ---
-title: Fichiers inclus
+title: <span data-ttu-id="f7a27-101">Fichiers inclus</span><span class="sxs-lookup"><span data-stu-id="f7a27-101">Include Files</span></span>
 ms.custom: na
 ms.date: 09/28/2016
 ms.reviewer: na
@@ -19,66 +19,66 @@ ms.lasthandoff: 06/26/2017
 
 ---
 
-# <a name="include-files"></a>Fichiers inclus
+# <a name="include-files"></a><span data-ttu-id="f7a27-102">Fichiers inclus</span><span class="sxs-lookup"><span data-stu-id="f7a27-102">Include Files</span></span>
 
-Cette table contient les expressions INCLUDE associées au contenu du fichier inclus pour faciliter la copie/le collage dans la documentation.
+<span data-ttu-id="f7a27-103">Cette table contient les expressions INCLUDE associées au contenu du fichier inclus pour faciliter la copie/le collage dans la documentation.</span><span class="sxs-lookup"><span data-stu-id="f7a27-103">This table contains the INCLUDE expressions associated with the content of the include file for easier copy/paste in documentation.</span></span>
 
-|Emplacement   |Contenu  |
+|<span data-ttu-id="f7a27-104">Emplacement</span><span class="sxs-lookup"><span data-stu-id="f7a27-104">File Name</span></span>   |<span data-ttu-id="f7a27-105">Contenu</span><span class="sxs-lookup"><span data-stu-id="f7a27-105">Content</span></span>  |
 |------------|---------|
-|`[!INCLUDE[bn_windows_md](includes/bn_windows_md.md)]`|Pour visualiser les rubriques de présentation des fenêtres de cette section, choisissez les sous-entrées dans la table des matières.|
-|`[!INCLUDE[bp_fieldnoneditable_md](includes/bp_fieldnoneditable_md.md)]`|Vous ne pouvez pas modifier le contenu de ce champ.|
-|`[!INCLUDE[bp_supcli_head_md](includes/bp_supcli_head_md.md)]`|Cibles d'affichage prises en charge|
-|`[!INCLUDE[bp_supcli_rtc_md](includes/bp_supcli_rtc_md.md)]`|Client Windows Microsoft Dynamics NAV uniquement|
-|`[!INCLUDE[bp_tabledescription_md](includes/bp_tabledescription_md.md)]`|Désignation| 
-|`[!INCLUDE[bp_tablefield_md](includes/bp_tablefield_md.md)]`|Champ|
-|`[!INCLUDE[bp_tableoption_md](includes/bp_tableoption_md.md)]`|Option|
-|`[!INCLUDE[bp_windownoneditable_md](includes/bp_windownoneditable_md.md)]`|Vous ne pouvez pas modifier le contenu de cette fenêtre.|
-|`[!INCLUDE[crm_md](includes/crm_md.md)]`|Microsoft Dynamics CRM|
-|`[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]`|Dynamics 365 for Financials|
-|`[!INCLUDE[d365fin_md](includes/d365fin_md.md)]`|Finances|
-|`[!INCLUDE[demo_md](includes/demo_md.md)]`|CRONUS|
-|`[!INCLUDE[demolong_md](includes/demolong_md.md)]`|Base de données de démonstration CRONUS Danmark A/S|
-|`[!INCLUDE[demolonglight_md](includes/demolonglight_md.md)]`|Base de données de démonstration CRONUS|
-|`[!INCLUDE[demoname_md](includes/demoname_md.md)]`|CRONUS Danmark A/S|
-|`[!INCLUDE[dyn_nav_md](includes/dyn_nav_md.md)]`|Microsoft Dynamics NAV|
-|`[!INCLUDE[nav_4_md](includes/nav_4_md.md)]`|Microsoft Dynamics NAV 4.0|
-|`[!INCLUDE[nav_5_md](includes/nav_5_md.md)]`|Microsoft Dynamics NAV 5.0|
-|`[!INCLUDE[nav_2009_long_md](includes/nav_2009_long_md.md)]`|Microsoft Dynamics NAV 2009|
-|`[!INCLUDE[nav_2009_short_md](includes/nav_2009_short_md.md)]`|Microsoft Dynamics NAV|
-|`[!INCLUDE[nav_admin_md](includes/nav_admin_md.md)]`|Outil d'administration de Microsoft Dynamics NAV Server|
-|`[!INCLUDE[nav_current_long_md](includes/nav_current_long_md.md)]`|Microsoft Dynamics NAV 2013|
-|`[!INCLUDE[nav_current_short_md](includes/nav_current_short_md.md)]`|Microsoft Dynamics NAV|
-|`[!INCLUDE[nav_dev_long_md](includes/nav_dev_long_md.md)]`|Microsoft Dynamics NAV Development Environment|
-|`[!INCLUDE[nav_dev_shell_md](includes/nav_dev_shell_md.md)]`|Shell de développement Microsoft Dynamics NAV 2017|
-|`[!INCLUDE[nav_dev_short_md](includes/nav_dev_short_md.md)]`|environnement de développement|
-|`[!INCLUDE[nav_phone_md](includes/nav_phone_md.md)]`|Client Microsoft Dynamics NAV Phone|
-|`[!INCLUDE[nav_prov_long_md](includes/nav_prov_long_md.md)]`|Microsoft Dynamics NAV Provisioning Tools for Microsoft Azure|
-|`[!INCLUDE[nav_prov_short_md](includes/nav_prov_short_md.md)]`|outils d'approvisionnement|
-|`[!INCLUDE[nav_server_instance_md](includes/nav_server_instance_md.md)]`|DynamicsNAV100|
-|`[!INCLUDE[nav_server_md](includes/nav_server_md.md)]`|Microsoft Dynamics NAV Server|
-|`[!INCLUDE[nav_setup_md](includes/nav_setup_md.md)]`|Installation de Microsoft Dynamics NAV 2017|
-|`[!INCLUDE[nav_shell_md](includes/nav_shell_md.md)]`|Administration Shell de Microsoft Dynamics NAV 2017|
-|`[!INCLUDE[nav_tablet_md](includes/nav_tablet_md.md)]`|Client tablette Microsoft Dynamics NAV|
-|`[!INCLUDE[nav_uni_app_md](includes/nav_uni_app_md.md)]`|Application universelle Microsoft Dynamics NAV|
-|`[!INCLUDE[nav_web_md](includes/nav_web_md.md)]`|Client Web Microsoft Dynamics NAV|
-|`[!INCLUDE[nav_web_server_md](includes/nav_web_server_md.md)]`|Composants de serveur Web Microsoft Dynamics NAV|
-|`[!INCLUDE[nav_windows_md](includes/nav_windows_md.md)]`|Client Windows Microsoft Dynamics NAV|
-|`[!INCLUDE[nav7long_md](includes/nav7long_md.md)]`|Microsoft Dynamics NAV 2013|
-|`[!INCLUDE[nav2009_md](includes/nav2009_md.md)]`|Microsoft Dynamics NAV 2009|
-|`[!INCLUDE[nav2009r2_md](includes/nav2009r2_md.md)]`|Microsoft Dynamics NAV 2009 R2|
-|`[!INCLUDE[nav2009sp1_md](includes/nav2009sp1_md.md)]`|Microsoft Dynamics NAV 2009 SP1|
-|`[!INCLUDE[navcorfu_md](includes/navcorfu_md.md)]`|Microsoft Dynamics NAV 2016|
-|`[!INCLUDE[navcrete_md](includes/navcrete_md.md)]`|Microsoft Dynamics NAV 2015|
-|`[!INCLUDE[nav2017](includes/nav2017.md)]`|Microsoft Dynamics NAV 2017|
-|`[!INCLUDE[navnow_install_md](includes/navnow_install_md.md)]`|C:\\Program Files\\Microsoft Dynamics NAV\\100|
-|`[!INCLUDE[navnow_md](includes/navnow_md.md)]`|Microsoft Dynamics NAV|
-|`[!INCLUDE[navnow_x86install_md](includes/navnow_x86install_md.md)]`|C:\\Program Files \((x86)\)\\Microsoft Dynamics NAV\\100|
-|`[!INCLUDE[navnowlong_md](includes/navnowlong_md.md)]`|Microsoft Dynamics NAV 2017|
-|`[!INCLUDE[navsicily_md](includes/navsicily_md.md)]`|Microsoft Dynamics NAV 2013 R2|
-|`[!INCLUDE[navxapp_md](includes/navxapp_md.md)]`|Extension NAV|
-|`[!INCLUDE[paymentsvcs_md](includes/paymentsvcs_md.md)]`|Services de paiement pour Microsoft Dynamics ERP|
-|`[!INCLUDE[rim_md](includes/rim_md.md)]`|Services RapidStart|
-|`[!INCLUDE[rimlong_md](includes/rimlong_md.md)]`|Services RapidStart pour Microsoft Dynamics NAV|
-|`[!INCLUDE[rtc_md](includes/rtc_md.md)]`|Client personnalisé|
-|`[!INCLUDE[wps_2_md](includes/wps_2_md.md)]`|Windows PowerShell|
+|`[!INCLUDE[bn_windows_md](includes/bn_windows_md.md)]`|<span data-ttu-id="f7a27-106">Pour visualiser les rubriques de présentation des fenêtres de cette section, choisissez les sous-entrées dans la table des matières.</span><span class="sxs-lookup"><span data-stu-id="f7a27-106">To see the window topics in this section, choose the subentries in the table of contents.</span></span>|
+|`[!INCLUDE[bp_fieldnoneditable_md](includes/bp_fieldnoneditable_md.md)]`|<span data-ttu-id="f7a27-107">Vous ne pouvez pas modifier le contenu de ce champ.</span><span class="sxs-lookup"><span data-stu-id="f7a27-107">You cannot change the contents of this field.</span></span>|
+|`[!INCLUDE[bp_supcli_head_md](includes/bp_supcli_head_md.md)]`|<span data-ttu-id="f7a27-108">Cibles d'affichage prises en charge</span><span class="sxs-lookup"><span data-stu-id="f7a27-108">Supported Display Targets</span></span>|
+|`[!INCLUDE[bp_supcli_rtc_md](includes/bp_supcli_rtc_md.md)]`|<span data-ttu-id="f7a27-109">Client Windows Microsoft Dynamics NAV uniquement</span><span class="sxs-lookup"><span data-stu-id="f7a27-109">Microsoft Dynamics NAV Windows client only</span></span>|
+|`[!INCLUDE[bp_tabledescription_md](includes/bp_tabledescription_md.md)]`|<span data-ttu-id="f7a27-110">Désignation</span><span class="sxs-lookup"><span data-stu-id="f7a27-110">Description</span></span>| 
+|`[!INCLUDE[bp_tablefield_md](includes/bp_tablefield_md.md)]`|<span data-ttu-id="f7a27-111">Champ</span><span class="sxs-lookup"><span data-stu-id="f7a27-111">Field</span></span>|
+|`[!INCLUDE[bp_tableoption_md](includes/bp_tableoption_md.md)]`|<span data-ttu-id="f7a27-112">Option</span><span class="sxs-lookup"><span data-stu-id="f7a27-112">Option</span></span>|
+|`[!INCLUDE[bp_windownoneditable_md](includes/bp_windownoneditable_md.md)]`|<span data-ttu-id="f7a27-113">Vous ne pouvez pas modifier le contenu de cette fenêtre.</span><span class="sxs-lookup"><span data-stu-id="f7a27-113">You cannot change the contents of this window.</span></span>|
+|`[!INCLUDE[crm_md](includes/crm_md.md)]`|<span data-ttu-id="f7a27-114">Microsoft Dynamics CRM</span><span class="sxs-lookup"><span data-stu-id="f7a27-114">Microsoft Dynamics CRM</span></span>|
+|`[!INCLUDE[d365fin_long_md](includes/d365fin_long_md.md)]`|<span data-ttu-id="f7a27-115">Dynamics 365 for Financials</span><span class="sxs-lookup"><span data-stu-id="f7a27-115">Dynamics 365 for Financials</span></span>|
+|`[!INCLUDE[d365fin_md](includes/d365fin_md.md)]`|<span data-ttu-id="f7a27-116">Finances</span><span class="sxs-lookup"><span data-stu-id="f7a27-116">Financials</span></span>|
+|`[!INCLUDE[demo_md](includes/demo_md.md)]`|<span data-ttu-id="f7a27-117">CRONUS</span><span class="sxs-lookup"><span data-stu-id="f7a27-117">CRONUS</span></span>|
+|`[!INCLUDE[demolong_md](includes/demolong_md.md)]`|<span data-ttu-id="f7a27-118">Base de données de démonstration CRONUS Danmark A/S</span><span class="sxs-lookup"><span data-stu-id="f7a27-118">CRONUS Danmark A/S demonstration database</span></span>|
+|`[!INCLUDE[demolonglight_md](includes/demolonglight_md.md)]`|<span data-ttu-id="f7a27-119">Base de données de démonstration CRONUS</span><span class="sxs-lookup"><span data-stu-id="f7a27-119">CRONUS demonstration database</span></span>|
+|`[!INCLUDE[demoname_md](includes/demoname_md.md)]`|<span data-ttu-id="f7a27-120">CRONUS Danmark A/S</span><span class="sxs-lookup"><span data-stu-id="f7a27-120">CRONUS Danmark A/S</span></span>|
+|`[!INCLUDE[dyn_nav_md](includes/dyn_nav_md.md)]`|<span data-ttu-id="f7a27-121">Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-121">Microsoft Dynamics NAV</span></span>|
+|`[!INCLUDE[nav_4_md](includes/nav_4_md.md)]`|<span data-ttu-id="f7a27-122">Microsoft Dynamics NAV 4.0</span><span class="sxs-lookup"><span data-stu-id="f7a27-122">Microsoft Dynamics NAV 4.0</span></span>|
+|`[!INCLUDE[nav_5_md](includes/nav_5_md.md)]`|<span data-ttu-id="f7a27-123">Microsoft Dynamics NAV 5.0</span><span class="sxs-lookup"><span data-stu-id="f7a27-123">Microsoft Dynamics NAV 5.0</span></span>|
+|`[!INCLUDE[nav_2009_long_md](includes/nav_2009_long_md.md)]`|<span data-ttu-id="f7a27-124">Microsoft Dynamics NAV 2009</span><span class="sxs-lookup"><span data-stu-id="f7a27-124">Microsoft Dynamics NAV 2009</span></span>|
+|`[!INCLUDE[nav_2009_short_md](includes/nav_2009_short_md.md)]`|<span data-ttu-id="f7a27-125">Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-125">Microsoft Dynamics NAV</span></span>|
+|`[!INCLUDE[nav_admin_md](includes/nav_admin_md.md)]`|<span data-ttu-id="f7a27-126">Outil d'administration de Microsoft Dynamics NAV Server</span><span class="sxs-lookup"><span data-stu-id="f7a27-126">Microsoft Dynamics NAV Server Administration tool</span></span>|
+|`[!INCLUDE[nav_current_long_md](includes/nav_current_long_md.md)]`|<span data-ttu-id="f7a27-127">Microsoft Dynamics NAV 2013</span><span class="sxs-lookup"><span data-stu-id="f7a27-127">Microsoft Dynamics NAV 2013</span></span>|
+|`[!INCLUDE[nav_current_short_md](includes/nav_current_short_md.md)]`|<span data-ttu-id="f7a27-128">Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-128">Microsoft Dynamics NAV</span></span>|
+|`[!INCLUDE[nav_dev_long_md](includes/nav_dev_long_md.md)]`|<span data-ttu-id="f7a27-129">Microsoft Dynamics NAV Development Environment</span><span class="sxs-lookup"><span data-stu-id="f7a27-129">Microsoft Dynamics NAV Development Environment</span></span>|
+|`[!INCLUDE[nav_dev_shell_md](includes/nav_dev_shell_md.md)]`|<span data-ttu-id="f7a27-130">Shell de développement Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="f7a27-130">Microsoft Dynamics NAV 2017 Development Shell</span></span>|
+|`[!INCLUDE[nav_dev_short_md](includes/nav_dev_short_md.md)]`|<span data-ttu-id="f7a27-131">environnement de développement</span><span class="sxs-lookup"><span data-stu-id="f7a27-131">development environment</span></span>|
+|`[!INCLUDE[nav_phone_md](includes/nav_phone_md.md)]`|<span data-ttu-id="f7a27-132">Client Microsoft Dynamics NAV Phone</span><span class="sxs-lookup"><span data-stu-id="f7a27-132">Microsoft Dynamics NAV Phone client</span></span>|
+|`[!INCLUDE[nav_prov_long_md](includes/nav_prov_long_md.md)]`|<span data-ttu-id="f7a27-133">Microsoft Dynamics NAV Provisioning Tools for Microsoft Azure</span><span class="sxs-lookup"><span data-stu-id="f7a27-133">Microsoft Dynamics NAV Provisioning Tools for Microsoft Azure</span></span>|
+|`[!INCLUDE[nav_prov_short_md](includes/nav_prov_short_md.md)]`|<span data-ttu-id="f7a27-134">outils d'approvisionnement</span><span class="sxs-lookup"><span data-stu-id="f7a27-134">provisioning tools</span></span>|
+|`[!INCLUDE[nav_server_instance_md](includes/nav_server_instance_md.md)]`|<span data-ttu-id="f7a27-135">DynamicsNAV100</span><span class="sxs-lookup"><span data-stu-id="f7a27-135">DynamicsNAV100</span></span>|
+|`[!INCLUDE[nav_server_md](includes/nav_server_md.md)]`|<span data-ttu-id="f7a27-136">Microsoft Dynamics NAV Server</span><span class="sxs-lookup"><span data-stu-id="f7a27-136">Microsoft Dynamics NAV Server</span></span>|
+|`[!INCLUDE[nav_setup_md](includes/nav_setup_md.md)]`|<span data-ttu-id="f7a27-137">Installation de Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="f7a27-137">Microsoft Dynamics NAV 2017 Setup</span></span>|
+|`[!INCLUDE[nav_shell_md](includes/nav_shell_md.md)]`|<span data-ttu-id="f7a27-138">Administration Shell de Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="f7a27-138">Microsoft Dynamics NAV 2017 Administration Shell</span></span>|
+|`[!INCLUDE[nav_tablet_md](includes/nav_tablet_md.md)]`|<span data-ttu-id="f7a27-139">Client tablette Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-139">Microsoft Dynamics NAV Tablet client</span></span>|
+|`[!INCLUDE[nav_uni_app_md](includes/nav_uni_app_md.md)]`|<span data-ttu-id="f7a27-140">Application universelle Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-140">Microsoft Dynamics NAV Universal App</span></span>|
+|`[!INCLUDE[nav_web_md](includes/nav_web_md.md)]`|<span data-ttu-id="f7a27-141">Client Web Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-141">Microsoft Dynamics NAV Web client</span></span>|
+|`[!INCLUDE[nav_web_server_md](includes/nav_web_server_md.md)]`|<span data-ttu-id="f7a27-142">Composants de serveur Web Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-142">Microsoft Dynamics NAV Web Server components</span></span>|
+|`[!INCLUDE[nav_windows_md](includes/nav_windows_md.md)]`|<span data-ttu-id="f7a27-143">Client Windows Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-143">Microsoft Dynamics NAV Windows client</span></span>|
+|`[!INCLUDE[nav7long_md](includes/nav7long_md.md)]`|<span data-ttu-id="f7a27-144">Microsoft Dynamics NAV 2013</span><span class="sxs-lookup"><span data-stu-id="f7a27-144">Microsoft Dynamics NAV 2013</span></span>|
+|`[!INCLUDE[nav2009_md](includes/nav2009_md.md)]`|<span data-ttu-id="f7a27-145">Microsoft Dynamics NAV 2009</span><span class="sxs-lookup"><span data-stu-id="f7a27-145">Microsoft Dynamics NAV 2009</span></span>|
+|`[!INCLUDE[nav2009r2_md](includes/nav2009r2_md.md)]`|<span data-ttu-id="f7a27-146">Microsoft Dynamics NAV 2009 R2</span><span class="sxs-lookup"><span data-stu-id="f7a27-146">Microsoft Dynamics NAV 2009 R2</span></span>|
+|`[!INCLUDE[nav2009sp1_md](includes/nav2009sp1_md.md)]`|<span data-ttu-id="f7a27-147">Microsoft Dynamics NAV 2009 SP1</span><span class="sxs-lookup"><span data-stu-id="f7a27-147">Microsoft Dynamics NAV 2009 SP1</span></span>|
+|`[!INCLUDE[navcorfu_md](includes/navcorfu_md.md)]`|<span data-ttu-id="f7a27-148">Microsoft Dynamics NAV 2016</span><span class="sxs-lookup"><span data-stu-id="f7a27-148">Microsoft Dynamics NAV 2016</span></span>|
+|`[!INCLUDE[navcrete_md](includes/navcrete_md.md)]`|<span data-ttu-id="f7a27-149">Microsoft Dynamics NAV 2015</span><span class="sxs-lookup"><span data-stu-id="f7a27-149">Microsoft Dynamics NAV 2015</span></span>|
+|`[!INCLUDE[nav2017](includes/nav2017.md)]`|<span data-ttu-id="f7a27-150">Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="f7a27-150">Microsoft Dynamics NAV 2017</span></span>|
+|`[!INCLUDE[navnow_install_md](includes/navnow_install_md.md)]`|<span data-ttu-id="f7a27-151">C:\\Program Files\\Microsoft Dynamics NAV\\100</span><span class="sxs-lookup"><span data-stu-id="f7a27-151">C:\\Program Files\\Microsoft Dynamics NAV\\100</span></span>|
+|`[!INCLUDE[navnow_md](includes/navnow_md.md)]`|<span data-ttu-id="f7a27-152">Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-152">Microsoft Dynamics NAV</span></span>|
+|`[!INCLUDE[navnow_x86install_md](includes/navnow_x86install_md.md)]`|<span data-ttu-id="f7a27-153">C:\\Program Files \((x86)\)\\Microsoft Dynamics NAV\\100</span><span class="sxs-lookup"><span data-stu-id="f7a27-153">C:\\Program Files \(x86\)\\Microsoft Dynamics NAV\\100</span></span>|
+|`[!INCLUDE[navnowlong_md](includes/navnowlong_md.md)]`|<span data-ttu-id="f7a27-154">Microsoft Dynamics NAV 2017</span><span class="sxs-lookup"><span data-stu-id="f7a27-154">Microsoft Dynamics NAV 2017</span></span>|
+|`[!INCLUDE[navsicily_md](includes/navsicily_md.md)]`|<span data-ttu-id="f7a27-155">Microsoft Dynamics NAV 2013 R2</span><span class="sxs-lookup"><span data-stu-id="f7a27-155">Microsoft Dynamics NAV 2013 R2</span></span>|
+|`[!INCLUDE[navxapp_md](includes/navxapp_md.md)]`|<span data-ttu-id="f7a27-156">Extension NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-156">NAV extension</span></span>|
+|`[!INCLUDE[paymentsvcs_md](includes/paymentsvcs_md.md)]`|<span data-ttu-id="f7a27-157">Services de paiement pour Microsoft Dynamics ERP</span><span class="sxs-lookup"><span data-stu-id="f7a27-157">Payment Services for Microsoft Dynamics ERP</span></span>|
+|`[!INCLUDE[rim_md](includes/rim_md.md)]`|<span data-ttu-id="f7a27-158">Services RapidStart</span><span class="sxs-lookup"><span data-stu-id="f7a27-158">RapidStart Services</span></span>|
+|`[!INCLUDE[rimlong_md](includes/rimlong_md.md)]`|<span data-ttu-id="f7a27-159">Services RapidStart pour Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="f7a27-159">RapidStart Services for Microsoft Dynamics NAV</span></span>|
+|`[!INCLUDE[rtc_md](includes/rtc_md.md)]`|<span data-ttu-id="f7a27-160">Client personnalisé</span><span class="sxs-lookup"><span data-stu-id="f7a27-160">RoleTailored client</span></span>|
+|`[!INCLUDE[wps_2_md](includes/wps_2_md.md)]`|<span data-ttu-id="f7a27-161">Windows PowerShell</span><span class="sxs-lookup"><span data-stu-id="f7a27-161">Windows PowerShell</span></span>|
 

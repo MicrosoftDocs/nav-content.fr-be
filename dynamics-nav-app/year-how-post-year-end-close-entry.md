@@ -9,24 +9,24 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a8fdb459a2b98066bb93bb47cc0bd9721b992d94
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: fe32ee973c90ba857852ae092acf03db09e648ee
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="how-to-post-year-end-closing-entry"></a>Procédure : valider une écriture de clôture d'exercice
-Dans le cadre de la clôture des comptes pour un exercice comptable, vous allez exécuter le traitement par lots Clôturer exercice comptable pour transférer le résultat annuel vers un compte de bilan et clôturer les comptes de gestion. Après avoir utilisé le traitement par lots Solder les comptes de gestion, vous devez ouvrir la feuille spécifiée dans le traitement par lots, puis consulter et valider les écritures.
+# <a name="how-to-post-year-end-closing-entry"></a><span data-ttu-id="1c5e7-102">Procédure : valider une écriture de clôture d'exercice</span><span class="sxs-lookup"><span data-stu-id="1c5e7-102">How to: Post Year-End Closing Entry</span></span>
+<span data-ttu-id="1c5e7-103">Dans le cadre de la clôture des comptes pour un exercice comptable, vous allez exécuter le traitement par lots Clôturer exercice comptable pour transférer le résultat annuel vers un compte de bilan et clôturer les comptes de gestion.</span><span class="sxs-lookup"><span data-stu-id="1c5e7-103">As part of closing the books for a fiscal year, you will run the Close Income Statement batch job to transfer the year's result to an account in the balance sheet and close the income statement accounts.</span></span> <span data-ttu-id="1c5e7-104">Après avoir utilisé le traitement par lots Solder les comptes de gestion, vous devez ouvrir la feuille spécifiée dans le traitement par lots, puis consulter et valider les écritures.</span><span class="sxs-lookup"><span data-stu-id="1c5e7-104">After you run the Close Income Statement batch job, you must open the journal you specified in the batch job, and then review and post the entries.</span></span>
 
-## <a name="to-post-the-year-end-closing-entry"></a>Pour valider l'écriture de clôture d'exercice
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Feuille comptabilité**, puis sélectionnez le lien connexe.
-2. Dans la fenêtre **Feuille comptabilité**, dans le champ **Nom de la feuille**, sélectionnez la feuille qui contient les écritures de clôture.
-3. Examinez les écritures.
-4. Pour valider la feuille, sélectionnez l'action **Valider**.
+## <a name="to-post-the-year-end-closing-entry"></a><span data-ttu-id="1c5e7-105">Pour valider l'écriture de clôture d'exercice</span><span class="sxs-lookup"><span data-stu-id="1c5e7-105">To post the year end closing entry</span></span>
+1. <span data-ttu-id="1c5e7-106">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Feuille comptabilité**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="1c5e7-106">In the top right corner, choose the **Search for Page or Report** icon, enter **General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="1c5e7-107">Dans la fenêtre **Feuille comptabilité**, dans le champ **Nom de la feuille**, sélectionnez la feuille qui contient les écritures de clôture.</span><span class="sxs-lookup"><span data-stu-id="1c5e7-107">In the **General Journal** window, in the **Batch Name** field, select the batch that contains the closing entries.</span></span>
+3. <span data-ttu-id="1c5e7-108">Examinez les écritures.</span><span class="sxs-lookup"><span data-stu-id="1c5e7-108">Review the entries.</span></span>
+4. <span data-ttu-id="1c5e7-109">Pour valider la feuille, sélectionnez l'action **Valider**.</span><span class="sxs-lookup"><span data-stu-id="1c5e7-109">To post the journal, choose the **Post** action.</span></span>
 
-**Remarque** : en cas de détection d'une erreur, un message d'erreur s'affiche. Si la validation réussit, les entrées validées sont supprimées de la feuille. Une fois la validation terminée, une entrée est validée dans chaque compte résultats, de façon à ce que son solde indique zéro et à ce que les résultats de l'exercice soient transférés vers le bilan.
+<span data-ttu-id="1c5e7-110">**Remarque** : en cas de détection d'une erreur, un message d'erreur s'affiche.</span><span class="sxs-lookup"><span data-stu-id="1c5e7-110">**Note**: If an error is detected, an error message is displayed.</span></span> <span data-ttu-id="1c5e7-111">Si la validation réussit, les entrées validées sont supprimées de la feuille.</span><span class="sxs-lookup"><span data-stu-id="1c5e7-111">If the posting is successful, the posted entries are removed from the journal.</span></span> <span data-ttu-id="1c5e7-112">Une fois la validation terminée, une entrée est validée dans chaque compte résultats, de façon à ce que son solde indique zéro et à ce que les résultats de l'exercice soient transférés vers le bilan.</span><span class="sxs-lookup"><span data-stu-id="1c5e7-112">After posting is complete, an entry is posted to each income statement account so that its balance becomes zero and the year's result is transferred to the balance sheet.</span></span>
 
-## <a name="see-also"></a>Voir aussi
-[Clôture des livres](year-close-books.md)  
-[Clôturer exercice comptable](year-close-income-statement.md)  
-[Procédure : clôture des périodes comptables](year-close-account-periods.md)  
+## <a name="see-also"></a><span data-ttu-id="1c5e7-113">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="1c5e7-113">See Also</span></span>
+[<span data-ttu-id="1c5e7-114">Clôture des livres</span><span class="sxs-lookup"><span data-stu-id="1c5e7-114">Close Books</span></span>](year-close-books.md)  
+[<span data-ttu-id="1c5e7-115">Clôturer exercice comptable</span><span class="sxs-lookup"><span data-stu-id="1c5e7-115">Close Income Statement</span></span>](year-close-income-statement.md)  
+[<span data-ttu-id="1c5e7-116">Procédure : clôture des périodes comptables</span><span class="sxs-lookup"><span data-stu-id="1c5e7-116">How to: Close Accounting Periods</span></span>](year-close-account-periods.md)  

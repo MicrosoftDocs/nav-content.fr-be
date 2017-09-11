@@ -1,1 +1,1 @@
-Pour visualiser les rubriques de présentation des fenêtres de cette section, choisissez les sous-entrées dans la table des matières.
+<span data-ttu-id="9ff36-101">Pour visualiser les rubriques de présentation des fenêtres de cette section, choisissez les sous-entrées dans la table des matières.</span><span class="sxs-lookup"><span data-stu-id="9ff36-101">To see the window topics in this section, choose the subentries in the table of contents.</span></span>

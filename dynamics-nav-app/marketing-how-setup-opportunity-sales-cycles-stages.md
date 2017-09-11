@@ -9,34 +9,34 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f71a92dfd6b65e314ead052bc088ce1b32f088b4
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 756e9b2f33fe66cd4c2b4e26ca4390683bd087af
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
-# <a name="how-to-set-up-opportunity-sales-cycles-and-cycle-stages"></a>Procédure : configurer des cycles de vente opportunité et des étapes de cycle
-Avant de pouvoir utiliser les opportunités de vente, vous devez configurer les cycles de vente et les étapes correspondantes. Un cycle de vente est composé d'une série d'étapes allant du contact initial à la fermeture d'une vente. Chaque étape peut avoir certaines exigences à respecter, par exemple pour un devis, avant qu'une opportunité puisse accéder à l'étape suivante. Vous pouvez également spécifier si une étape peut être ignorée. Vous pouvez configurer autant de cycles de vente et d'étapes que nécessaire.
+# <a name="how-to-set-up-opportunity-sales-cycles-and-cycle-stages"></a><span data-ttu-id="67019-102">Procédure : configurer des cycles de vente opportunité et des étapes de cycle</span><span class="sxs-lookup"><span data-stu-id="67019-102">How to: Set Up Opportunity Sales Cycles and Cycle Stages</span></span>
+<span data-ttu-id="67019-103">Avant de pouvoir utiliser les opportunités de vente, vous devez configurer les cycles de vente et les étapes correspondantes.</span><span class="sxs-lookup"><span data-stu-id="67019-103">Before you can start using sales opportunities, you must set up sales cycles and sales cycle stages.</span></span> <span data-ttu-id="67019-104">Un cycle de vente est composé d'une série d'étapes allant du contact initial à la fermeture d'une vente.</span><span class="sxs-lookup"><span data-stu-id="67019-104">A sales cycle is made up of a series of stages that go from the initial contact to the closing of a sale.</span></span> <span data-ttu-id="67019-105">Chaque étape peut avoir certaines exigences à respecter, par exemple pour un devis, avant qu'une opportunité puisse accéder à l'étape suivante.</span><span class="sxs-lookup"><span data-stu-id="67019-105">Each stage can have certain requirements that must be met, such as requiring a sales quote, before an opportunity can go to the next stage.</span></span> <span data-ttu-id="67019-106">Vous pouvez également spécifier si une étape peut être ignorée.</span><span class="sxs-lookup"><span data-stu-id="67019-106">You can also specify whether a stage can be skipped.</span></span> <span data-ttu-id="67019-107">Vous pouvez configurer autant de cycles de vente et d'étapes que nécessaire.</span><span class="sxs-lookup"><span data-stu-id="67019-107">You can setup as many sales cycles as you need, and you can set up as many sales cycle stages as necessary within a sales cycle.</span></span>
 
-Mettre en œuvre des cycles de vente opportunité implique la création d'un code cycle de vente, la définition des différentes étapes du cycle, puis l'affectation du cycle à des opportunités.
+<span data-ttu-id="67019-108">Mettre en œuvre des cycles de vente opportunité implique la création d'un code cycle de vente, la définition des différentes étapes du cycle, puis l'affectation du cycle à des opportunités.</span><span class="sxs-lookup"><span data-stu-id="67019-108">Implementing opportunity sales cycles involves setting up the sales cycle code, defining the different stages of the cycle, and then assigning the cycle to opportunities.</span></span>
 
-## <a name="to-set-up-an-opportunity-sales-cycle-code"></a>Pour configurer un code cycle de vente opportunité
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Cycles de vente**, puis sélectionnez le lien connexe. La fenêtre **Cycles de vente** s'affiche, et répertorie tous les cycles de vente existants.
-2. Sélectionnez l'action **Nouveau**, et renseignez les champs .
+## <a name="to-set-up-an-opportunity-sales-cycle-code"></a><span data-ttu-id="67019-109">Pour configurer un code cycle de vente opportunité</span><span class="sxs-lookup"><span data-stu-id="67019-109">To set up an opportunity sales cycle code</span></span>
+1. <span data-ttu-id="67019-110">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Cycles de vente**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="67019-110">In the top right corner, choose the **Search for Page or Report** icon, enter **Sales Cycles**, and then choose the related link.</span></span> <span data-ttu-id="67019-111">La fenêtre **Cycles de vente** s'affiche, et répertorie tous les cycles de vente existants.</span><span class="sxs-lookup"><span data-stu-id="67019-111">The **Sales Cycles** window opens, and lists all the existing sales cycles.</span></span>
+2. <span data-ttu-id="67019-112">Sélectionnez l'action **Nouveau**, et renseignez les champs .</span><span class="sxs-lookup"><span data-stu-id="67019-112">Choose the **New** action, and fill in the fields.</span></span>
 
-Répétez ces étapes pour chaque cycle de vente à configurer. Une fois les cycles de vente opportunité configurés, vous pouvez définir les différentes étapes de chaque cycle.
+<span data-ttu-id="67019-113">Répétez ces étapes pour chaque cycle de vente à configurer.</span><span class="sxs-lookup"><span data-stu-id="67019-113">Repeat these steps to set up as many sales cycles as you want.</span></span> <span data-ttu-id="67019-114">Une fois les cycles de vente opportunité configurés, vous pouvez définir les différentes étapes de chaque cycle.</span><span class="sxs-lookup"><span data-stu-id="67019-114">After you have set up opportunity sales cycles, you may want to set up the different stages within each cycle.</span></span>
 
-## <a name="to-define-opportunity-sales-cycle-stages"></a>Pour définir les étapes du cycle de vente opportunité
-1. Dans la fenêtre **Cycles de vente**, sélectionnez le cycle de vente opportunité pour lequel vous souhaitez définir des étapes, puis sélectionnez l'action **Etapes**. La fenêtre **Etapes cycle de vente** s'affiche.
-2. Sélectionnez l'action **Nouveau** pour intégrer une nouvelle étape dans le cycle de vente.
+## <a name="to-define-opportunity-sales-cycle-stages"></a><span data-ttu-id="67019-115">Pour définir les étapes du cycle de vente opportunité</span><span class="sxs-lookup"><span data-stu-id="67019-115">To define opportunity sales cycle stages</span></span>
+1. <span data-ttu-id="67019-116">Dans la fenêtre **Cycles de vente**, sélectionnez le cycle de vente opportunité pour lequel vous souhaitez définir des étapes, puis sélectionnez l'action **Etapes**.</span><span class="sxs-lookup"><span data-stu-id="67019-116">In the **Sales Cycles** window, select the opportunity sales cycle for which you want to set up stages, and then choose the **Stages** action.</span></span> <span data-ttu-id="67019-117">La fenêtre **Etapes cycle de vente** s'affiche.</span><span class="sxs-lookup"><span data-stu-id="67019-117">The **Sales Cycle Stages** window opens.</span></span>
+2. <span data-ttu-id="67019-118">Sélectionnez l'action **Nouveau** pour intégrer une nouvelle étape dans le cycle de vente.</span><span class="sxs-lookup"><span data-stu-id="67019-118">Choose the **New** action to enter a new stage in the sales cycle.</span></span>
 
-Répétez ces étapes pour définir toutes les étapes du cycle de vente.
+<span data-ttu-id="67019-119">Répétez ces étapes pour définir toutes les étapes du cycle de vente.</span><span class="sxs-lookup"><span data-stu-id="67019-119">Repeat these steps to set up as many stages as you want within the sales cycle.</span></span>
 
-## <a name="to-assign-stage-cycle-to-an-opportunity"></a>Pour affecter un cycle d'étapes à une opportunité
-Après avoir ajouté le cycle d'étapes opportunité, vous pouvez commencer à ajouter des opportunités de vente, puis affecter le cycle d'étapes aux opportunités en définissant le champ **Code cycle de vente**. Pour plus d'informations, reportez-vous à [Procédure : créer des opportunités de vente](marketing-how-create-opportunities.md).
+## <a name="to-assign-stage-cycle-to-an-opportunity"></a><span data-ttu-id="67019-120">Pour affecter un cycle d'étapes à une opportunité</span><span class="sxs-lookup"><span data-stu-id="67019-120">To assign stage cycle to an opportunity</span></span>
+<span data-ttu-id="67019-121">Après avoir ajouté le cycle d'étapes opportunité, vous pouvez commencer à ajouter des opportunités de vente, puis affecter le cycle d'étapes aux opportunités en définissant le champ **Code cycle de vente**.</span><span class="sxs-lookup"><span data-stu-id="67019-121">After you add the opportunities stage cycle, you can start to add sales opportunities, and then assign the stage cycle to opportunities by setting the **Sales Cycle Code** field.</span></span> <span data-ttu-id="67019-122">Pour plus d'informations, reportez-vous à [Procédure : créer des opportunités de vente](marketing-how-create-opportunities.md).</span><span class="sxs-lookup"><span data-stu-id="67019-122">For more information, see [How to: Create Sales Opportunities](marketing-how-create-opportunities.md).</span></span>
 
-##<a name="see-also"></a>Voir aussi  
-[Traitement des opportunités de vente](marketing-processing-sales-opportunities.md)  
-[Gestion des ventes](sales-manage-sales.md)  
-[Utiliser Dynamics NAV](ui-work-product.md)
+##<a name="see-also"></a><span data-ttu-id="67019-123">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="67019-123">See Also</span></span>  
+[<span data-ttu-id="67019-124">Traitement des opportunités de vente</span><span class="sxs-lookup"><span data-stu-id="67019-124">Processing Sales Opportunities</span></span>](marketing-processing-sales-opportunities.md)  
+[<span data-ttu-id="67019-125">Gestion des ventes</span><span class="sxs-lookup"><span data-stu-id="67019-125">Manage Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="67019-126">Utiliser Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="67019-126">Working with Dynamics NAV</span></span>](ui-work-product.md)
 

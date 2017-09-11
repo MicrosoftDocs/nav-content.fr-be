@@ -1,1 +1,1 @@
-Microsoft Dynamics CRM
+<span data-ttu-id="a84f3-101">Microsoft Dynamics CRM</span><span class="sxs-lookup"><span data-stu-id="a84f3-101">Microsoft Dynamics CRM</span></span>

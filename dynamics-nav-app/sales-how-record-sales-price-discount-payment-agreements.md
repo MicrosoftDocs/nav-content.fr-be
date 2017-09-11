@@ -9,62 +9,62 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 2d6438108fb2c36bb6f0d44efddc053bd628d068
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 80a0ac1edc994f44795f7f907a647b269578bc47
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-# <a name="how-to-record-sales-prices-and-discounts"></a>Procédure : enregistrer les prix vente et les remises
-Vous devez définir les différents accords de prix et de remise qui s'appliquent lors de la vente à différents clients de sorte que les valeurs et règles convenues s'appliquent aux documents vente crées pour les clients.
+# <a name="how-to-record-sales-prices-and-discounts"></a><span data-ttu-id="ffa03-102">Procédure : enregistrer les prix vente et les remises</span><span class="sxs-lookup"><span data-stu-id="ffa03-102">How to: Record Sales Prices and Discounts</span></span>
+<span data-ttu-id="ffa03-103">Vous devez définir les différents accords de prix et de remise qui s'appliquent lors de la vente à différents clients de sorte que les valeurs et règles convenues s'appliquent aux documents vente crées pour les clients.</span><span class="sxs-lookup"><span data-stu-id="ffa03-103">The different price and discount agreements that apply when selling to different customers must be defined so that the agreed rules and values are applied to sales documents that you create for the customers.</span></span>
 
-En ce qui concerne les prix, un prix de vente spécial peut être inséré sur les lignes vente s'il existe une certaine combinaison de client, d'article, de quantité minimum, d'unité de mesure ou de date de début/date de fin.
+<span data-ttu-id="ffa03-104">En ce qui concerne les prix, un prix de vente spécial peut être inséré sur les lignes vente s'il existe une certaine combinaison de client, d'article, de quantité minimum, d'unité de mesure ou de date de début/date de fin.</span><span class="sxs-lookup"><span data-stu-id="ffa03-104">Concerning prices, you can have a special sales price inserted on sales lines if a certain combination of customer, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-En ce qui concerne les remises, vous pouvez définir et utiliser deux types de remises vente :
+<span data-ttu-id="ffa03-105">En ce qui concerne les remises, vous pouvez définir et utiliser deux types de remises vente :</span><span class="sxs-lookup"><span data-stu-id="ffa03-105">Concerning discounts, you can set up and use two types of sales discounts:</span></span>
 
-|Type de remise |Description |
+|<span data-ttu-id="ffa03-106">Type de remise</span><span class="sxs-lookup"><span data-stu-id="ffa03-106">Discount Type</span></span> |<span data-ttu-id="ffa03-107">Description</span><span class="sxs-lookup"><span data-stu-id="ffa03-107">Description</span></span> |
 |--------------|------------|
-|**Remise ligne vente**|Une remise sous forme de montant insérée sur les lignes vente s'il existe une certaine combinaison de client, d'article, de quantité minimum, d'unité de mesure ou de date de début/date de fin. Cela fonctionne de la même manière que pour les prix de vente.|
-|**Remise facture**|Une remise en pourcentage qui est soustraite du total du document si la valeur de toutes les lignes d'un document vente dépasse un montant minimal donné.|
+|<span data-ttu-id="ffa03-108">**Remise ligne vente**</span><span class="sxs-lookup"><span data-stu-id="ffa03-108">**Sales Line Discount**</span></span>|<span data-ttu-id="ffa03-109">Une remise sous forme de montant insérée sur les lignes vente s'il existe une certaine combinaison de client, d'article, de quantité minimum, d'unité de mesure ou de date de début/date de fin.</span><span class="sxs-lookup"><span data-stu-id="ffa03-109">An amount discount that is inserted on sales lines if a certain combination of customer, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="ffa03-110">Cela fonctionne de la même manière que pour les prix de vente.</span><span class="sxs-lookup"><span data-stu-id="ffa03-110">This works in the same way as for sales prices.</span></span>|
+|<span data-ttu-id="ffa03-111">**Remise facture**</span><span class="sxs-lookup"><span data-stu-id="ffa03-111">**Invoice Discount**</span></span>|<span data-ttu-id="ffa03-112">Une remise en pourcentage qui est soustraite du total du document si la valeur de toutes les lignes d'un document vente dépasse un montant minimal donné.</span><span class="sxs-lookup"><span data-stu-id="ffa03-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a sales document exceeds a certain minimum.</span></span>|
 
-Dans la mesure où les prix de vente et les remises ligne vente sont basés sur une combinaison article/client, vous pouvez également mettre en œuvre cette configuration à partir de la fiche article de l'article auquel les règles et valeurs s'appliquent.
+<span data-ttu-id="ffa03-113">Dans la mesure où les prix de vente et les remises ligne vente sont basés sur une combinaison article/client, vous pouvez également mettre en œuvre cette configuration à partir de la fiche article de l'article auquel les règles et valeurs s'appliquent.</span><span class="sxs-lookup"><span data-stu-id="ffa03-113">Because sales prices and sales line discounts are based on a combination of item and customer, you can also perform this configuration from the item card of the item where the rules and values apply.</span></span>
 
-## <a name="to-set-up-a-sales-price-for-a-customer"></a>Pour définir un prix de vente pour un client
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Clients**, puis sélectionnez le lien connexe.
-2. Ouvrez la fiche client appropriée, puis sélectionnez l'action **Prix**.
+## <a name="to-set-up-a-sales-price-for-a-customer"></a><span data-ttu-id="ffa03-114">Pour définir un prix de vente pour un client</span><span class="sxs-lookup"><span data-stu-id="ffa03-114">To set up a sales price for a customer</span></span>
+1. <span data-ttu-id="ffa03-115">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Clients**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="ffa03-115">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ffa03-116">Ouvrez la fiche client appropriée, puis sélectionnez l'action **Prix**.</span><span class="sxs-lookup"><span data-stu-id="ffa03-116">Open the relevant customer card, and then choose the **Prices** action.</span></span>
 
-    Le champ **Type vente** est prérempli avec la valeur **Client** et le champ **Code vente** est prérempli avec le numéro du client.
-3. Renseignez les champs de la ligne selon vos besoins. Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.
-4. Renseignez une ligne pour chaque combinaison qui accorde un prix de vente spécial au client.
+    <span data-ttu-id="ffa03-117">Le champ **Type vente** est prérempli avec la valeur **Client** et le champ **Code vente** est prérempli avec le numéro du client.</span><span class="sxs-lookup"><span data-stu-id="ffa03-117">The **Sales Type** field is prefilled with **Customer**, and the **Sales Code** field is prefilled with the customer number.</span></span>
+3. <span data-ttu-id="ffa03-118">Renseignez les champs de la ligne selon vos besoins.</span><span class="sxs-lookup"><span data-stu-id="ffa03-118">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="ffa03-119">Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.</span><span class="sxs-lookup"><span data-stu-id="ffa03-119">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="ffa03-120">Renseignez une ligne pour chaque combinaison qui accorde un prix de vente spécial au client.</span><span class="sxs-lookup"><span data-stu-id="ffa03-120">Fill a line for each combination that will grant a special sales price to the customer.</span></span>
 
-## <a name="to-set-up-a-sales-line-discount-for-a-customer"></a>Pour définir une remise ligne vente pour un client
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Clients**, puis sélectionnez le lien connexe.
-2. Ouvrez la fiche client appropriée, puis sélectionnez l'action **Remises ligne**.
+## <a name="to-set-up-a-sales-line-discount-for-a-customer"></a><span data-ttu-id="ffa03-121">Pour définir une remise ligne vente pour un client</span><span class="sxs-lookup"><span data-stu-id="ffa03-121">To set up a sales line discount for a customer</span></span>
+1. <span data-ttu-id="ffa03-122">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Clients**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="ffa03-122">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ffa03-123">Ouvrez la fiche client appropriée, puis sélectionnez l'action **Remises ligne**.</span><span class="sxs-lookup"><span data-stu-id="ffa03-123">Open the relevant customer card, and then choose the **Line Discounts** action.</span></span>
 
-    Le champ **Type vente** est prérempli avec la valeur **Client** et le champ **Code vente** est prérempli avec le numéro du client.
-3.  Renseignez les champs de la ligne selon vos besoins. Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.
-4. Renseignez une ligne pour chaque combinaison qui accorde une remise ligne vente au client.
+    <span data-ttu-id="ffa03-124">Le champ **Type vente** est prérempli avec la valeur **Client** et le champ **Code vente** est prérempli avec le numéro du client.</span><span class="sxs-lookup"><span data-stu-id="ffa03-124">The **Sales Type** field is prefilled with **Customer**, and the **Sales Code** field is prefilled with the customer number.</span></span>
+3.  <span data-ttu-id="ffa03-125">Renseignez les champs de la ligne selon vos besoins.</span><span class="sxs-lookup"><span data-stu-id="ffa03-125">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="ffa03-126">Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.</span><span class="sxs-lookup"><span data-stu-id="ffa03-126">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="ffa03-127">Renseignez une ligne pour chaque combinaison qui accorde une remise ligne vente au client.</span><span class="sxs-lookup"><span data-stu-id="ffa03-127">Fill a line for each combination that will grant a sales line discount to the customer.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-customer"></a>Pour configurer une remise facture pour un client
-Une fois que vous avez décidé des clients pouvant faire l'objet de remises facture, entrez le code remise facture dans les fiches client et configurez les conditions de chaque code.
+## <a name="to-set-up-an-invoice-discount-for-a-customer"></a><span data-ttu-id="ffa03-128">Pour configurer une remise facture pour un client</span><span class="sxs-lookup"><span data-stu-id="ffa03-128">To set up an invoice discount for a customer</span></span>
+<span data-ttu-id="ffa03-129">Une fois que vous avez décidé des clients pouvant faire l'objet de remises facture, entrez le code remise facture dans les fiches client et configurez les conditions de chaque code.</span><span class="sxs-lookup"><span data-stu-id="ffa03-129">When you have decided which customers are eligible for invoice discounts, enter the invoice discount code on the customer cards and set up the terms for each code.</span></span>
 
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Clients**, puis sélectionnez le lien connexe.
-2. Ouvrez la fiche client d'un client pouvant faire l'objet de remises facture.
-3. Dans le champ **Code remise facture**, sélectionnez un code pour les conditions de remise facture appropriées à utiliser pour calculer les remises facture pour le client.
+1. <span data-ttu-id="ffa03-130">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Clients**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="ffa03-130">In the top right corner, choose the **Search for Page or Report** icon, enter **Customers**, and then choose the related link.</span></span>
+2. <span data-ttu-id="ffa03-131">Ouvrez la fiche client d'un client pouvant faire l'objet de remises facture.</span><span class="sxs-lookup"><span data-stu-id="ffa03-131">Open the customer card for a customer that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="ffa03-132">Dans le champ **Code remise facture**, sélectionnez un code pour les conditions de remise facture appropriées à utiliser pour calculer les remises facture pour le client.</span><span class="sxs-lookup"><span data-stu-id="ffa03-132">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the customer.</span></span>
 
-    **Remarque** : les codes remise facture sont représentés par les fiches client existantes. Cela vous permet d'affecter rapidement les conditions de remise facture aux clients en sélectionnant le nom d'un autre client qui bénéficie des mêmes conditions.
+    <span data-ttu-id="ffa03-133">**Remarque** : les codes remise facture sont représentés par les fiches client existantes.</span><span class="sxs-lookup"><span data-stu-id="ffa03-133">**Note**: Invoice discount codes are represented by existing customer cards.</span></span> <span data-ttu-id="ffa03-134">Cela vous permet d'affecter rapidement les conditions de remise facture aux clients en sélectionnant le nom d'un autre client qui bénéficie des mêmes conditions.</span><span class="sxs-lookup"><span data-stu-id="ffa03-134">This enables you to quickly assign invoice discount terms to customers by picking the name of another customer who will have the same terms.</span></span>
 
-    Configurez de nouvelles conditions de remise facture vente.
-4. Dans la fenêtre **Fiche client**, sélectionnez l'action **Remises facture**. La fenêtre **Remises facture client** s'ouvre.
-5. Dans le champ **Code devise**, indiquez le code d'une devise à laquelle s'appliquent les conditions de remise facture. Laissez le champ vierge si vous souhaitez configurer des conditions de remise facture en USD.
-6. Dans le champ **Montant minimum**, entrez le montant minimal qu'une facture doit présenter pour faire l'objet de la remise.
-7. Dans le champ **% remise**, entrez la remise facture sous la forme d'un pourcentage du montant de la facture.
-8. Répétez les étapes 5 à 7 pour chaque devise pour laquelle le client recevra une remise facture différente.
+    <span data-ttu-id="ffa03-135">Configurez de nouvelles conditions de remise facture vente.</span><span class="sxs-lookup"><span data-stu-id="ffa03-135">Proceed to set up new the sales invoice discount terms.</span></span>
+4. <span data-ttu-id="ffa03-136">Dans la fenêtre **Fiche client**, sélectionnez l'action **Remises facture**.</span><span class="sxs-lookup"><span data-stu-id="ffa03-136">In the **Customer Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="ffa03-137">La fenêtre **Remises facture client** s'ouvre.</span><span class="sxs-lookup"><span data-stu-id="ffa03-137">The **Cust. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="ffa03-138">Dans le champ **Code devise**, indiquez le code d'une devise à laquelle s'appliquent les conditions de remise facture.</span><span class="sxs-lookup"><span data-stu-id="ffa03-138">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="ffa03-139">Laissez le champ vierge si vous souhaitez configurer des conditions de remise facture en USD.</span><span class="sxs-lookup"><span data-stu-id="ffa03-139">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="ffa03-140">Dans le champ **Montant minimum**, entrez le montant minimal qu'une facture doit présenter pour faire l'objet de la remise.</span><span class="sxs-lookup"><span data-stu-id="ffa03-140">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="ffa03-141">Dans le champ **% remise**, entrez la remise facture sous la forme d'un pourcentage du montant de la facture.</span><span class="sxs-lookup"><span data-stu-id="ffa03-141">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="ffa03-142">Répétez les étapes 5 à 7 pour chaque devise pour laquelle le client recevra une remise facture différente.</span><span class="sxs-lookup"><span data-stu-id="ffa03-142">Repeat steps 5 through 7 for each currency that the customer will receive a different invoice discount for.</span></span>
 
-La remise facture est désormais configurée et affectée au client concerné. Lorsque vous sélectionnez le code client dans le champ **Code remise facture** dans d'autres fiches client, la même remise facture est affecté à ces clients.
+<span data-ttu-id="ffa03-143">La remise facture est désormais configurée et affectée au client concerné.</span><span class="sxs-lookup"><span data-stu-id="ffa03-143">The invoice discount is now set up and assigned to the customer in question.</span></span> <span data-ttu-id="ffa03-144">Lorsque vous sélectionnez le code client dans le champ **Code remise facture** dans d'autres fiches client, la même remise facture est affecté à ces clients.</span><span class="sxs-lookup"><span data-stu-id="ffa03-144">When you select the customer code in the **Invoice Disc. Code** field on other customer cards, the same invoice discount is assigned to those customers.</span></span>
 
-## <a name="see-also"></a>Voir aussi  
-[Configuration des ventes](sales-setup-sales.md)  
-[Gestion des ventes](sales-manage-sales.md)
+## <a name="see-also"></a><span data-ttu-id="ffa03-145">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="ffa03-145">See Also</span></span>  
+[<span data-ttu-id="ffa03-146">Configuration des ventes</span><span class="sxs-lookup"><span data-stu-id="ffa03-146">Set Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="ffa03-147">Gestion des ventes</span><span class="sxs-lookup"><span data-stu-id="ffa03-147">Manage Sales</span></span>](sales-manage-sales.md)
 

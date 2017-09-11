@@ -9,62 +9,62 @@ ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
 ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: f99bb0aeef2c25048b0da3e0476ae2d612bff562
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: af5ba3a17412ba4c123c4d3cb337b8d5df36cace
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/19/2017
 
 ---
 
-#<a name="how-to-record-purchase-prices-and-discounts"></a>Procédure : enregistrer les prix achat et les remises
-Vous devez définir les différents accords de prix et de remise qui s'appliquent lors d'achats effectués auprès de plusieurs fournisseurs de sorte que les valeurs et règles convenues s'appliquent aux documents achat créés à l'intention des fournisseurs.
+#<a name="how-to-record-purchase-prices-and-discounts"></a><span data-ttu-id="c0675-102">Procédure : enregistrer les prix achat et les remises</span><span class="sxs-lookup"><span data-stu-id="c0675-102">How to: Record Purchase Prices and Discounts</span></span>
+<span data-ttu-id="c0675-103">Vous devez définir les différents accords de prix et de remise qui s'appliquent lors d'achats effectués auprès de plusieurs fournisseurs de sorte que les valeurs et règles convenues s'appliquent aux documents achat créés à l'intention des fournisseurs.</span><span class="sxs-lookup"><span data-stu-id="c0675-103">The different price and discount agreements that apply when you buy from different vendors must be defined so that the agreed rules and values are applied to purchase documents that you create for the vendors.</span></span>
 
-En ce qui concerne les prix, un prix d'achat spécial peut être inséré sur les lignes achat s'il existe une certaine combinaison de fournisseur, d'article, de quantité minimum, d'unité de mesure ou de date de début/date de fin.
+<span data-ttu-id="c0675-104">En ce qui concerne les prix, un prix d'achat spécial peut être inséré sur les lignes achat s'il existe une certaine combinaison de fournisseur, d'article, de quantité minimum, d'unité de mesure ou de date de début/date de fin.</span><span class="sxs-lookup"><span data-stu-id="c0675-104">Concerning prices, you can have a special purchase price inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span>
 
-En ce qui concerne les remises, vous pouvez définir et utiliser deux types de remises achat :
+<span data-ttu-id="c0675-105">En ce qui concerne les remises, vous pouvez définir et utiliser deux types de remises achat :</span><span class="sxs-lookup"><span data-stu-id="c0675-105">Concerning discounts, you can set up and use two types of purchase discounts:</span></span>
 
-|Type de remise |Description |
+|<span data-ttu-id="c0675-106">Type de remise</span><span class="sxs-lookup"><span data-stu-id="c0675-106">Discount Type</span></span> |<span data-ttu-id="c0675-107">Description</span><span class="sxs-lookup"><span data-stu-id="c0675-107">Description</span></span> |
 |--------------|------------|
-|**Remise ligne achat**|Une remise sous forme de montant insérée sur les lignes achat s'il existe une certaine combinaison de fournisseur, d'article, de quantité minimum, d'unité de mesure ou de date de début/date de fin. Cela fonctionne de la même manière que pour les prix d'achat.|
-|**Remise facture**|Une remise en pourcentage qui est soustraite du total du document si la valeur de toutes les lignes d'un document achat dépasse un montant minimal donné.|
+|<span data-ttu-id="c0675-108">**Remise ligne achat**</span><span class="sxs-lookup"><span data-stu-id="c0675-108">**Purchase Line Discount**</span></span>|<span data-ttu-id="c0675-109">Une remise sous forme de montant insérée sur les lignes achat s'il existe une certaine combinaison de fournisseur, d'article, de quantité minimum, d'unité de mesure ou de date de début/date de fin.</span><span class="sxs-lookup"><span data-stu-id="c0675-109">An amount discount that is inserted on purchase lines if a certain combination of vendor, item, minimum quantity, unit of measure, or starting/ending date exists.</span></span> <span data-ttu-id="c0675-110">Cela fonctionne de la même manière que pour les prix d'achat.</span><span class="sxs-lookup"><span data-stu-id="c0675-110">This works in the same way as for purchase prices.</span></span>|
+|<span data-ttu-id="c0675-111">**Remise facture**</span><span class="sxs-lookup"><span data-stu-id="c0675-111">**Invoice Discount**</span></span>|<span data-ttu-id="c0675-112">Une remise en pourcentage qui est soustraite du total du document si la valeur de toutes les lignes d'un document achat dépasse un montant minimal donné.</span><span class="sxs-lookup"><span data-stu-id="c0675-112">A percentage discount that is subtracted from the document total if the value amount of all lines on a purchase document exceeds a certain minimum.</span></span>|
 
-Dans la mesure où les remises ligne achat et les prix achat sont basés sur une combinaison article/fournisseur, vous pouvez également effectuer cette configuration à partir de la fiche article dans laquelle sont définies les règles et valeurs. Pour plus d'informations, reportez vous à [Procédure : enregistrer de nouveaux produits](inventory-how-register-new-products.md).
+<span data-ttu-id="c0675-113">Dans la mesure où les remises ligne achat et les prix achat sont basés sur une combinaison article/fournisseur, vous pouvez également effectuer cette configuration à partir de la fiche article dans laquelle sont définies les règles et valeurs.</span><span class="sxs-lookup"><span data-stu-id="c0675-113">Because purchase line discounts and purchase prices are based on a combination of item and vendor, you can also enter this configuration from the item card, where the rules and values are defined.</span></span> <span data-ttu-id="c0675-114">Pour plus d'informations, reportez vous à [Procédure : enregistrer de nouveaux produits](inventory-how-register-new-products.md).</span><span class="sxs-lookup"><span data-stu-id="c0675-114">For more information, see [How to: Register New Products](inventory-how-register-new-products.md).</span></span>
 
-## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a>Pour configurer un prix d'achat spécial pour un fournisseur
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Fournisseurs**, puis sélectionnez le lien connexe.
-2. Ouvrez la fiche fournisseur appropriée, puis sélectionnez l'action **Prix**.
+## <a name="to-set-up-a-special-purchase-price-for-a-vendor"></a><span data-ttu-id="c0675-115">Pour configurer un prix d'achat spécial pour un fournisseur</span><span class="sxs-lookup"><span data-stu-id="c0675-115">To set up a special purchase price for a vendor</span></span>
+1. <span data-ttu-id="c0675-116">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Fournisseurs**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="c0675-116">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c0675-117">Ouvrez la fiche fournisseur appropriée, puis sélectionnez l'action **Prix**.</span><span class="sxs-lookup"><span data-stu-id="c0675-117">Open the relevant vendor card, and then choose the **Prices** action.</span></span>
 
-    Le champ **Type d'achat** est prérempli avec **Fournisseur** et le champ **Code achat** est prérempli avec le numéro du fournisseur.
-3. Renseignez les champs de la ligne selon vos besoins. Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.
-4. Remplissez une ligne pour chaque combinaison pour laquelle le fournisseur vous accorde une remise ligne achat.
+    <span data-ttu-id="c0675-118">Le champ **Type d'achat** est prérempli avec **Fournisseur** et le champ **Code achat** est prérempli avec le numéro du fournisseur.</span><span class="sxs-lookup"><span data-stu-id="c0675-118">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="c0675-119">Renseignez les champs de la ligne selon vos besoins.</span><span class="sxs-lookup"><span data-stu-id="c0675-119">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="c0675-120">Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.</span><span class="sxs-lookup"><span data-stu-id="c0675-120">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="c0675-121">Remplissez une ligne pour chaque combinaison pour laquelle le fournisseur vous accorde une remise ligne achat.</span><span class="sxs-lookup"><span data-stu-id="c0675-121">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-a-line-discount-for-a-vendor"></a>Pour configurer une remise ligne pour un fournisseur
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Fournisseurs**, puis sélectionnez le lien connexe.
-2. Ouvrez la fiche fournisseur appropriée, puis sélectionnez l'action **Remises ligne**.
+## <a name="to-set-up-a-line-discount-for-a-vendor"></a><span data-ttu-id="c0675-122">Pour configurer une remise ligne pour un fournisseur</span><span class="sxs-lookup"><span data-stu-id="c0675-122">To set up a line discount for a vendor</span></span>
+1. <span data-ttu-id="c0675-123">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Fournisseurs**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="c0675-123">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c0675-124">Ouvrez la fiche fournisseur appropriée, puis sélectionnez l'action **Remises ligne**.</span><span class="sxs-lookup"><span data-stu-id="c0675-124">Open the relevant vendor card, and then choose the **Line Discounts** action.</span></span>
 
-    Le champ **Type d'achat** est prérempli avec **Fournisseur** et le champ **Code achat** est prérempli avec le numéro du fournisseur.
-3. Renseignez les champs de la ligne selon vos besoins. Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.
-4. Remplissez une ligne pour chaque combinaison pour laquelle le fournisseur vous accorde une remise ligne achat.
+    <span data-ttu-id="c0675-125">Le champ **Type d'achat** est prérempli avec **Fournisseur** et le champ **Code achat** est prérempli avec le numéro du fournisseur.</span><span class="sxs-lookup"><span data-stu-id="c0675-125">The **Purchase Type** field is prefilled with **Vendor**, and the **Purchase Code** field is prefilled with the vendor number.</span></span>
+3. <span data-ttu-id="c0675-126">Renseignez les champs de la ligne selon vos besoins.</span><span class="sxs-lookup"><span data-stu-id="c0675-126">Fill in the fields on the line as necessary.</span></span> <span data-ttu-id="c0675-127">Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.</span><span class="sxs-lookup"><span data-stu-id="c0675-127">Choose a field to read a short description of the field or link to more information.</span></span>
+4. <span data-ttu-id="c0675-128">Remplissez une ligne pour chaque combinaison pour laquelle le fournisseur vous accorde une remise ligne achat.</span><span class="sxs-lookup"><span data-stu-id="c0675-128">Fill a line for each combination for which the vendor grants you a purchase line discount.</span></span>
 
-## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a>Pour configurer une remise facture pour un fournisseur
-Une fois que vos fournisseurs vous ont informé des remises facture qu'ils accordent, entrez le code remise facture sur la fiche fournisseur et configurez les conditions pour chaque code.
+## <a name="to-set-up-an-invoice-discount-for-a-vendor"></a><span data-ttu-id="c0675-129">Pour configurer une remise facture pour un fournisseur</span><span class="sxs-lookup"><span data-stu-id="c0675-129">To set up an invoice discount for a vendor</span></span>
+<span data-ttu-id="c0675-130">Une fois que vos fournisseurs vous ont informé des remises facture qu'ils accordent, entrez le code remise facture sur la fiche fournisseur et configurez les conditions pour chaque code.</span><span class="sxs-lookup"><span data-stu-id="c0675-130">When your vendors have informed you which invoice discounts they grant, enter the invoice discount code on the vendor cards and set up the terms for each code.</span></span>
 
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Fournisseurs**, puis sélectionnez le lien connexe.
-2. Ouvrez la fiche fournisseur d'un fournisseur pouvant faire l'objet de remises facture.
-3. Dans le champ **Code remise facture**, sélectionnez un code pour les conditions de remise facture appropriées à utiliser pour calculer les remises facture pour le fournisseur.
+1. <span data-ttu-id="c0675-131">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Fournisseurs**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="c0675-131">In the top right corner, choose the **Search for Page or Report** icon, enter **Vendors**, and then choose the related link.</span></span>
+2. <span data-ttu-id="c0675-132">Ouvrez la fiche fournisseur d'un fournisseur pouvant faire l'objet de remises facture.</span><span class="sxs-lookup"><span data-stu-id="c0675-132">Open the vendor card for a vendor that will be eligible for invoice discounts.</span></span>
+3. <span data-ttu-id="c0675-133">Dans le champ **Code remise facture**, sélectionnez un code pour les conditions de remise facture appropriées à utiliser pour calculer les remises facture pour le fournisseur.</span><span class="sxs-lookup"><span data-stu-id="c0675-133">In the **Invoice Disc. Code** field, select a code for the relevant invoice discount terms to use to calculate invoice discounts for the vendor.</span></span>
 
-    **Remarque** : les codes remise facture sont représentés par les fiches fournisseur existantes. Cela vous permet d'affecter rapidement les conditions de remise facture aux fournisseurs en sélectionnant le nom d'autres fournisseurs qui bénéficient des mêmes conditions.
+    <span data-ttu-id="c0675-134">**Remarque** : les codes remise facture sont représentés par les fiches fournisseur existantes.</span><span class="sxs-lookup"><span data-stu-id="c0675-134">**Note**: Invoice discount codes are represented by existing vendor cards.</span></span> <span data-ttu-id="c0675-135">Cela vous permet d'affecter rapidement les conditions de remise facture aux fournisseurs en sélectionnant le nom d'autres fournisseurs qui bénéficient des mêmes conditions.</span><span class="sxs-lookup"><span data-stu-id="c0675-135">This enables you to quickly assign invoice discount terms to vendors by picking the name of another vendors who will have the same terms.</span></span>
 
-    Configurez de nouvelles conditions de remise facture pour les achats.
-4. Dans la fenêtre **Fiche fournisseur**, sélectionnez l'action **Remises facture**. La fenêtre **Remises facture fournisseur** s'ouvre.
-5. Dans le champ **Code devise**, indiquez le code d'une devise à laquelle s'appliquent les conditions de remise facture. Laissez le champ vierge si vous souhaitez configurer des conditions de remise facture en USD.
-6. Dans le champ **Montant minimum**, entrez le montant minimal qu'une facture doit présenter pour faire l'objet de la remise.
-7. Dans le champ **% remise**, entrez la remise facture sous la forme d'un pourcentage du montant de la facture.
-8. Répétez les étapes 5 à 7 pour chaque devise pour laquelle le fournisseur recevra une remise facture différente.
+    <span data-ttu-id="c0675-136">Configurez de nouvelles conditions de remise facture pour les achats.</span><span class="sxs-lookup"><span data-stu-id="c0675-136">Proceed to set up new the purchase invoice discount terms.</span></span>
+4. <span data-ttu-id="c0675-137">Dans la fenêtre **Fiche fournisseur**, sélectionnez l'action **Remises facture**.</span><span class="sxs-lookup"><span data-stu-id="c0675-137">In the **Vendor Card** window, choose the **Invoice Discounts** action.</span></span> <span data-ttu-id="c0675-138">La fenêtre **Remises facture fournisseur** s'ouvre.</span><span class="sxs-lookup"><span data-stu-id="c0675-138">The **Vend. Invoice Discounts** window opens.</span></span>
+5. <span data-ttu-id="c0675-139">Dans le champ **Code devise**, indiquez le code d'une devise à laquelle s'appliquent les conditions de remise facture.</span><span class="sxs-lookup"><span data-stu-id="c0675-139">In the **Currency Code** field, enter the code for a currency that the invoice discount terms on the line applies to.</span></span> <span data-ttu-id="c0675-140">Laissez le champ vierge si vous souhaitez configurer des conditions de remise facture en USD.</span><span class="sxs-lookup"><span data-stu-id="c0675-140">Leave the field blank to set up invoice discount terms in USD.</span></span>
+6. <span data-ttu-id="c0675-141">Dans le champ **Montant minimum**, entrez le montant minimal qu'une facture doit présenter pour faire l'objet de la remise.</span><span class="sxs-lookup"><span data-stu-id="c0675-141">In the **Minimum Amount** field, enter the minimum amount that an invoice must have to be eligible for the discount.</span></span>
+7. <span data-ttu-id="c0675-142">Dans le champ **% remise**, entrez la remise facture sous la forme d'un pourcentage du montant de la facture.</span><span class="sxs-lookup"><span data-stu-id="c0675-142">In the **Discount %** field, enter the invoice discount as a percentage of the invoice amount.</span></span>
+8. <span data-ttu-id="c0675-143">Répétez les étapes 5 à 7 pour chaque devise pour laquelle le fournisseur recevra une remise facture différente.</span><span class="sxs-lookup"><span data-stu-id="c0675-143">Repeat steps 5 through 7 for each currency that the vendor will receive a different invoice discount for.</span></span>
 
-La remise facture est désormais configurée et affectée au fournisseur concerné. Lorsque vous sélectionnez le code fournisseur dans le champ **Code remise facture** dans d'autres fiches fournisseur, la même remise facture est affecté à ces fournisseurs.
+<span data-ttu-id="c0675-144">La remise facture est désormais configurée et affectée au fournisseur concerné.</span><span class="sxs-lookup"><span data-stu-id="c0675-144">The invoice discount is now set up and assigned to the vendor in question.</span></span> <span data-ttu-id="c0675-145">Lorsque vous sélectionnez le code fournisseur dans le champ **Code remise facture** dans d'autres fiches fournisseur, la même remise facture est affecté à ces fournisseurs.</span><span class="sxs-lookup"><span data-stu-id="c0675-145">When you select the vendor code in the **Invoice Disc. Code** field on other vendor cards, the same invoice discount is assigned to those vendor.</span></span>
 
-## <a name="see-also"></a>Voir aussi  
-[Configuration des procédures achat](purchasing-setup-purchasing.md)  
-[Gestion des achats](purchasing-manage-purchasing.md)
+## <a name="see-also"></a><span data-ttu-id="c0675-146">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="c0675-146">See Also</span></span>  
+[<span data-ttu-id="c0675-147">Configuration des procédures achat</span><span class="sxs-lookup"><span data-stu-id="c0675-147">Set Up Purchasing</span></span>](purchasing-setup-purchasing.md)  
+[<span data-ttu-id="c0675-148">Gestion des achats</span><span class="sxs-lookup"><span data-stu-id="c0675-148">Manage Purchasing</span></span>](purchasing-manage-purchasing.md)
 

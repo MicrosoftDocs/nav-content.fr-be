@@ -1,1 +1,1 @@
-Services RapidStart
+<span data-ttu-id="a07ed-101">Services RapidStart</span><span class="sxs-lookup"><span data-stu-id="a07ed-101">RapidStart Services</span></span>
