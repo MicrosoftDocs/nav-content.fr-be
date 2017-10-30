@@ -1,25 +1,33 @@
 ---
-title: "Modes de règlement"
+title: "Paramétrer les modes de paiement"
+Description: "Vous utilisez des modes de règlement, par exemple, les chèques, le transfert bancaire, les espèces, ou Paypal, pour définir la façon dont une facture est payée."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 007a934c446a3270d1f01286ee82ed21c92b0419
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: check, bank transfer, cash, PayPal
+ms.date: 06/15/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 18d531d89ce82e7265d143237f084c880cab9dd7
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="defining-payment-methods"></a><span data-ttu-id="518b2-103">Définition des modes de règlement</span><span class="sxs-lookup"><span data-stu-id="518b2-103">Defining Payment Methods</span></span>
+<span data-ttu-id="518b2-104">Les modes de règlement définissent la manière dont une facture doit être payée.</span><span class="sxs-lookup"><span data-stu-id="518b2-104">Payment methods define how an invoice will be paid.</span></span> <span data-ttu-id="518b2-105">Vous pouvez configurer autant de modes de règlement que nécessaire.</span><span class="sxs-lookup"><span data-stu-id="518b2-105">You can set up any number of payment methods.</span></span> <span data-ttu-id="518b2-106">Parmi les exemples de modes de règlement on trouve BANQUE, TRÉSORERIE, CHÈQUE, ou COMPTE.</span><span class="sxs-lookup"><span data-stu-id="518b2-106">Examples of payment methods can be BANK, CASH, CHECK, or ACCOUNT.</span></span>
+<span data-ttu-id="518b2-107">Les modes de règlement sont liés aux fournisseurs afin d'indiquer la façon dont une facture d'un fournisseur spécifique doit être payée.</span><span class="sxs-lookup"><span data-stu-id="518b2-107">Payment methods are linked to vendors in order to specify how an invoice from the specific vendor must be paid.</span></span>
 
-# <a name="payment-methods"></a><span data-ttu-id="4f97b-102">Modes de règlement</span><span class="sxs-lookup"><span data-stu-id="4f97b-102">Payment Methods</span></span>
-<span data-ttu-id="4f97b-103">Les modes de règlement définissent la manière dont une facture doit être payée.</span><span class="sxs-lookup"><span data-stu-id="4f97b-103">Payment methods define how an invoice will be paid.</span></span> <span data-ttu-id="4f97b-104">Vous pouvez configurer autant de modes de règlement que nécessaire.</span><span class="sxs-lookup"><span data-stu-id="4f97b-104">You can set up any number of payment methods.</span></span> <span data-ttu-id="4f97b-105">Parmi les exemples de modes de règlement on trouve BANQUE, TRÉSORERIE, CHÈQUE, ou COMPTE.</span><span class="sxs-lookup"><span data-stu-id="4f97b-105">Examples of payment methods can be BANK, CASH, CHECK, or ACCOUNT.</span></span>
-<span data-ttu-id="4f97b-106">Les modes de règlement sont liés aux fournisseurs afin d'indiquer la façon dont une facture d'un fournisseur spécifique doit être payée.</span><span class="sxs-lookup"><span data-stu-id="4f97b-106">Payment methods are linked to vendors in order to specify how an invoice from the specific vendor must be paid.</span></span>
+## <a name="to-set-up-a-payment-methods"></a><span data-ttu-id="518b2-108">Pour configurer un mode de règlement</span><span class="sxs-lookup"><span data-stu-id="518b2-108">To set up a payment methods</span></span>
+<span data-ttu-id="518b2-109">Plusieurs modes de règlement courants sont déjà définis dans [!INCLUDE[d365fin](includes/d365fin_md.md)].</span><span class="sxs-lookup"><span data-stu-id="518b2-109">Several typical payment methods are already defined in [!INCLUDE[d365fin](includes/d365fin_md.md)].</span></span> <span data-ttu-id="518b2-110">Vous pouvez définir de nouveaux modes de règlement dans la fenêtre **Modes de règlement**, tous se trouvant avec la fonction de recherche ou en ouvrant le champ **Mode de règlement** d'une fiche fournisseur ou client.</span><span class="sxs-lookup"><span data-stu-id="518b2-110">You can define new payment methods in the **Payment Methods** window, which you can find with the search function or open from the **Payment Method** field on an a vendor or customer card.</span></span>
+1. <span data-ttu-id="518b2-111">Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Mode de règlement**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="518b2-111">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Payment Methods**, and then choose the related link.</span></span>
+2. <span data-ttu-id="518b2-112">Renseignez les champs selon vos besoins.</span><span class="sxs-lookup"><span data-stu-id="518b2-112">Fill in the fields as necessary.</span></span> [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-## <a name="see-also"></a><span data-ttu-id="4f97b-107">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="4f97b-107">See Also</span></span>
-[<span data-ttu-id="4f97b-108">Finance</span><span class="sxs-lookup"><span data-stu-id="4f97b-108">Finance</span></span>](finance-setup.md)  
+## <a name="see-also"></a><span data-ttu-id="518b2-113">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="518b2-113">See Also</span></span>
+[<span data-ttu-id="518b2-114">Finances</span><span class="sxs-lookup"><span data-stu-id="518b2-114">Finance</span></span>](finance.md)  
+<span data-ttu-id="518b2-115">[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="518b2-115">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 

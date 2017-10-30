@@ -1,37 +1,59 @@
 ---
-title: "Répartition des coûts et du revenu"
-author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
+title: "Aperçu des tâches de ventilation des coûts et des revenus"
+description: "Décrit les tâches pour ventiler une écriture dans une feuille comptabilité dans différents comptes lorsque vous validez la feuille."
+documentationcenter: 
+author: SorenGP
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 9d8a3cf496a65a095f22b39a0c70b5c959095b60
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.date: 06/07/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: fdb03090dc9ba024d84a175e313f7d530bd0feae
 ms.contentlocale: fr-be
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="allocate-costs-and-income"></a><span data-ttu-id="e2258-102">Répartition des coûts et du revenu</span><span class="sxs-lookup"><span data-stu-id="e2258-102">Allocate Costs and Income</span></span>
-<span data-ttu-id="e2258-103">Vous pouvez ventiler une écriture dans une feuille comptabilité dans différents comptes lorsque vous validez la feuille.</span><span class="sxs-lookup"><span data-stu-id="e2258-103">You can allocate an entry in a general journal to several different accounts when you post the journal.</span></span> <span data-ttu-id="e2258-104">La ventilation peut être effectuée de trois manières différentes :</span><span class="sxs-lookup"><span data-stu-id="e2258-104">The allocation can be made by three different methods:</span></span>
+# <a name="how-to-allocate-costs-and-income"></a><span data-ttu-id="168ae-103">Procédure : ventiler des coûts et des bénéfices</span><span class="sxs-lookup"><span data-stu-id="168ae-103">How to: Allocate Costs and Income</span></span>
+<span data-ttu-id="168ae-104">Vous pouvez ventiler une écriture dans une feuille comptabilité dans différents comptes lorsque vous validez la feuille.</span><span class="sxs-lookup"><span data-stu-id="168ae-104">You can allocate an entry in a general journal to several different accounts when you post the journal.</span></span> <span data-ttu-id="168ae-105">La ventilation peut être effectuée de trois manières différentes :</span><span class="sxs-lookup"><span data-stu-id="168ae-105">The allocation can be made by three different methods:</span></span>
 
-- <span data-ttu-id="e2258-105">Quantité</span><span class="sxs-lookup"><span data-stu-id="e2258-105">Quantity</span></span>
-- <span data-ttu-id="e2258-106">Pourcentage (%)</span><span class="sxs-lookup"><span data-stu-id="e2258-106">Percentage (%)</span></span>
-- <span data-ttu-id="e2258-107">Montant</span><span class="sxs-lookup"><span data-stu-id="e2258-107">Amount</span></span>
+* <span data-ttu-id="168ae-106">Quantité</span><span class="sxs-lookup"><span data-stu-id="168ae-106">Quantity</span></span>
+* <span data-ttu-id="168ae-107">Pourcentage (%)</span><span class="sxs-lookup"><span data-stu-id="168ae-107">Percentage (%)</span></span>
+* <span data-ttu-id="168ae-108">Montant</span><span class="sxs-lookup"><span data-stu-id="168ae-108">Amount</span></span>
 
-<span data-ttu-id="e2258-108">Les fonctions de ventilation peuvent être utilisées avec les feuilles abonnement et dans les feuilles immobilisation.</span><span class="sxs-lookup"><span data-stu-id="e2258-108">The allocation features can be used with recurring journals and in fixed assets journals.</span></span>
+<span data-ttu-id="168ae-109">Les fonctions de ventilation peuvent être utilisées avec les feuilles abonnement et dans les feuilles immobilisation.</span><span class="sxs-lookup"><span data-stu-id="168ae-109">The allocation features can be used with recurring general journals and in fixed assets journals.</span></span>
 <!--You can also distribute the cost or revenue of a line to an intercompany partner when you post a sales or purchase document. When you post the document, a line will be posted in your general journal, and a corresponding line will be created in the intercompany outbox.-->
 
-<span data-ttu-id="e2258-109">Le tableau suivant décrit une série de tâches et inclut des liens vers les rubriques qui les décrivent.</span><span class="sxs-lookup"><span data-stu-id="e2258-109">The following table describes a sequence of tasks, with links to the topics that describe them.</span></span> <span data-ttu-id="e2258-110">Ces tâches sont répertoriées dans l'ordre de leur exécution en règle générale.</span><span class="sxs-lookup"><span data-stu-id="e2258-110">These tasks are listed in the order in which they are generally performed.</span></span>
+<span data-ttu-id="168ae-110">Les procédures suivantes décrivent comment se préparer à affecter des coûts dans une feuille abonnement en définissant des clés de ventilation.</span><span class="sxs-lookup"><span data-stu-id="168ae-110">The following procedures describe how to prepare to allocate costs in a recurring general journal by defining allocation keys.</span></span> <span data-ttu-id="168ae-111">Lorsque des clés de ventilation sont définies, vous renseignez et validez la feuille comme toute autre feuille abonnement.</span><span class="sxs-lookup"><span data-stu-id="168ae-111">When allocation keys are defined, you complete and post the journal like any other recurring general journal.</span></span> <span data-ttu-id="168ae-112">Pour plus d'informations, voir [Utilisation des feuilles comptabilité](ui-work-general-journals.md).</span><span class="sxs-lookup"><span data-stu-id="168ae-112">For more information, see [Working with General Journals](ui-work-general-journals.md).</span></span>
 
-|<span data-ttu-id="e2258-111">Pour</span><span class="sxs-lookup"><span data-stu-id="e2258-111">To</span></span> |<span data-ttu-id="e2258-112">Voir</span><span class="sxs-lookup"><span data-stu-id="e2258-112">See</span></span> |
-|---|----|
-|<span data-ttu-id="e2258-113">Renseigner une feuille abonnement et spécifier une quantité imputée, un pourcentage ou un montant pour les comptes ou axes appropriés.</span><span class="sxs-lookup"><span data-stu-id="e2258-113">Fill in a recurring general journal and specify the allocation quantity, percentage, or amount for the relevant accounts or dimensions.</span></span>|[<span data-ttu-id="e2258-114">Procédure : utiliser les clés de ventilation dans les feuilles de comptabilité</span><span class="sxs-lookup"><span data-stu-id="e2258-114">How to: Use Allocation Keys in General Journals</span></span>](ui-how-use-allocation-keys-general-journals.md)|
-|<span data-ttu-id="e2258-115">Modifier une clé de ventilation déjà configurée.</span><span class="sxs-lookup"><span data-stu-id="e2258-115">Change an allocation key that has already been set up.</span></span>|[<span data-ttu-id="e2258-116">Pour modifier une clé de ventilation</span><span class="sxs-lookup"><span data-stu-id="e2258-116">To change an allocation key</span></span>](ui-how-use-allocation-keys-general-journals.md)|
+## <a name="to-set-up-allocation-keys"></a><span data-ttu-id="168ae-113">Pour définir des clés de ventilation</span><span class="sxs-lookup"><span data-stu-id="168ae-113">To set up allocation keys</span></span>
+<span data-ttu-id="168ae-114">Vous pouvez ventiler une écriture dans une feuille abonnement dans différents comptes lorsque vous validez la feuille.</span><span class="sxs-lookup"><span data-stu-id="168ae-114">You can allocate an entry in a recurring general journal to several different accounts when you post the journal.</span></span> <span data-ttu-id="168ae-115">La ventilation peut être effectuée par quantité, pourcentage ou montant.</span><span class="sxs-lookup"><span data-stu-id="168ae-115">The allocation can be made by quantity, percentage, or amount.</span></span>
+1. <span data-ttu-id="168ae-116">Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Feuille abonnement**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="168ae-116">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Recurring General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="168ae-117">Sélectionnez le champ **Nom de la feuille** pour ouvrir la fenêtre **Noms feuilles comptabilité**.</span><span class="sxs-lookup"><span data-stu-id="168ae-117">Choose the **Batch Name** field to open the **General Journal Batches** window.</span></span>
+3. <span data-ttu-id="168ae-118">Vous pouvez soit modifier les ventilations sur un lot existant dans la liste ou créer un lot avec des ventilations.</span><span class="sxs-lookup"><span data-stu-id="168ae-118">You can either modify allocations on an existing batch in the list or create a new batch with allocations.</span></span>
+   * <span data-ttu-id="168ae-119">Pour créer un lot, sélectionnez l'action **Nouveau**, et passez à l'étape suivante.</span><span class="sxs-lookup"><span data-stu-id="168ae-119">To create a new batch, choose the **New** action, and go to the next step.</span></span>
+   * <span data-ttu-id="168ae-120">Pour modifier les ventilations à partir d'une feuille existante, sélectionnez la feuille et passez à l'étape 7.</span><span class="sxs-lookup"><span data-stu-id="168ae-120">To change the allocations of an existing journal, select the journal and go to step 7.</span></span>    
+4. <span data-ttu-id="168ae-121">Dans le champ **Nom**, saisissez le nom du lot, par exemple NETTOYAGE.</span><span class="sxs-lookup"><span data-stu-id="168ae-121">In the **Name** field, enter a name for the batch, such as CLEANING.</span></span> <span data-ttu-id="168ae-122">Dans le champ **Description**, saisissez une description, par exemple Feuille frais de nettoyage.</span><span class="sxs-lookup"><span data-stu-id="168ae-122">In the **Description** field, enter a description, such as Cleaning Expenses Journal.</span></span>
+5. <span data-ttu-id="168ae-123">Fermez la fenêtre lorsque vous avez terminé.</span><span class="sxs-lookup"><span data-stu-id="168ae-123">When you are done, close the window.</span></span> <span data-ttu-id="168ae-124">Une nouvelle feuille récurrente vide s'ouvre.</span><span class="sxs-lookup"><span data-stu-id="168ae-124">A new, empty recurring journal opens.</span></span>
+6. <span data-ttu-id="168ae-125">Renseignez les champs de la ligne.</span><span class="sxs-lookup"><span data-stu-id="168ae-125">Fill in the fields on the line.</span></span>
+7. <span data-ttu-id="168ae-126">Sélectionnez l'action **Ventilations**.</span><span class="sxs-lookup"><span data-stu-id="168ae-126">Choose the **Allocations** action.</span></span>
+8. <span data-ttu-id="168ae-127">Ajoutez une ligne pour chaque ventilation.</span><span class="sxs-lookup"><span data-stu-id="168ae-127">Add a line for each allocation.</span></span> <span data-ttu-id="168ae-128">Vous devez renseigner le champ **% ventilation**, **Quantité imputée** ou **Montant**.</span><span class="sxs-lookup"><span data-stu-id="168ae-128">You must fill in either the **Allocation %**, **Allocation Quantity**, or **Amount** field.</span></span> <span data-ttu-id="168ae-129">Vous devez également renseigner le champ **N° compte** et, si vous affectez la transaction à des axes principaux, les champs de ces axes principaux.</span><span class="sxs-lookup"><span data-stu-id="168ae-129">You must also fill in the **Account No.** field and, if you are allocating the transaction among global dimensions, the global dimension fields.</span></span>
+9. <span data-ttu-id="168ae-130">Si vous saisissez un pourcentage dans une ligne, le montant du champ **Montant** est calculé automatiquement.</span><span class="sxs-lookup"><span data-stu-id="168ae-130">If you enter a percentage on a line, the amount in the **Amount** field is calculated automatically.</span></span> <span data-ttu-id="168ae-131">Ces montants sont dotés du signe opposé à celui du montant total figurant dans le champ **Montant** de la feuille récurrente.</span><span class="sxs-lookup"><span data-stu-id="168ae-131">These amounts have the opposite sign from the total amount in the **Amount** field in the recurring journal.</span></span>
+10. <span data-ttu-id="168ae-132">Après avoir saisi les lignes de ventilation, cliquez sur **OK** pour revenir à la fenêtre **Feuille abonnement**.</span><span class="sxs-lookup"><span data-stu-id="168ae-132">After entering the allocations lines, choose **OK** to return to the **Recurring General Journal** window.</span></span> <span data-ttu-id="168ae-133">Le champ **Montant imputé DS** est renseigné et correspond au champ **Montant**.</span><span class="sxs-lookup"><span data-stu-id="168ae-133">The **Allocated Amt. (USD)** field is filled in and matches the **Amount** field.</span></span>
+11. <span data-ttu-id="168ae-134">Validez la feuille.</span><span class="sxs-lookup"><span data-stu-id="168ae-134">Post the journal.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="e2258-117">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="e2258-117">See Also</span></span>
-[<span data-ttu-id="e2258-118">Clôture des exercices et des périodes</span><span class="sxs-lookup"><span data-stu-id="e2258-118">Close Years and Periods</span></span>](year-close-years-periods.md)
+## <a name="to-change-an-allocation-key-that-has-already-been-set-up"></a><span data-ttu-id="168ae-135">Pour modifier une clé de ventilation déjà configurée</span><span class="sxs-lookup"><span data-stu-id="168ae-135">To change an allocation key that has already been set up</span></span>
+1. <span data-ttu-id="168ae-136">Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Feuille abonnement**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="168ae-136">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Recurring General Journal**, and then choose the related link.</span></span>
+2. <span data-ttu-id="168ae-137">Dans la fenêtre **Feuille récurrente**, sélectionnez la feuille contenant la ventilation.</span><span class="sxs-lookup"><span data-stu-id="168ae-137">In the **Recurring General Journal** window, select the journal with the allocation.</span></span>
+3. <span data-ttu-id="168ae-138">Sélectionnez la ligne de la ventilation, puis sélectionnez l'action **Ventilations**.</span><span class="sxs-lookup"><span data-stu-id="168ae-138">Choose the line with the allocation, and then choose **Allocations** action.</span></span>
+4. <span data-ttu-id="168ae-139">Modifiez les champs appropriés, puis cliquez sur le bouton **OK**.</span><span class="sxs-lookup"><span data-stu-id="168ae-139">Change the relevant fields, and then choose the **OK** button.</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="168ae-140">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="168ae-140">See Also</span></span>
+[<span data-ttu-id="168ae-141">Clôture des exercices et des périodes</span><span class="sxs-lookup"><span data-stu-id="168ae-141">Closing Years and Periods</span></span>](year-close-years-periods.md)  
+<span data-ttu-id="168ae-142">[Utilisation de feuilles comptabilité](ui-work-general-journals.md)  </span><span class="sxs-lookup"><span data-stu-id="168ae-142">[Working with General Journals](ui-work-general-journals.md)  </span></span>  
+<span data-ttu-id="168ae-143">[Validation des documents et des feuilles](ui-post-documents-journals.md)  </span><span class="sxs-lookup"><span data-stu-id="168ae-143">[Posting Documents and Journals](ui-post-documents-journals.md)  </span></span>  
+<span data-ttu-id="168ae-144">[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="168ae-144">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>
 

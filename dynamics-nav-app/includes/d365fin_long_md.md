@@ -1,0 +1,1 @@
+<span data-ttu-id="52af3-101">Microsoft Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="52af3-101">Microsoft Dynamics NAV</span></span>

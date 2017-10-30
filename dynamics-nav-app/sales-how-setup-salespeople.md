@@ -1,31 +1,35 @@
 ---
-title: "Procédure : configurer des vendeurs"
+title: Configurer un vendeur
+description: "Vous pouvez configurer un identifiant pour chacun de vos vendeurs, afin de pouvoir suivre les performances de la personne ou affecter un vendeur à un contact."
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 1a3333568f83279f6afe6728e5bf10f55a9381bc
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: sales rep
+ms.date: 09/08/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 3c2dab0512c8e8965d7751bfda50559844ebcf69
 ms.contentlocale: fr-be
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="how-to-set-up-salespeople"></a><span data-ttu-id="e12f1-103">Procédure : configurer des vendeurs</span><span class="sxs-lookup"><span data-stu-id="e12f1-103">How to: Set Up Salespeople</span></span>
+<span data-ttu-id="e12f1-104">Beaucoup de sociétés souhaitent suivre les performances individuelles d'un collaborateur afin d'avoir une base de calcul pour les commissions et les bonus.</span><span class="sxs-lookup"><span data-stu-id="e12f1-104">Many companies want to follow an individual employee's performance as a basis for calculating the sales commission or bonus.</span></span> <span data-ttu-id="e12f1-105">Reportez-vous, par exemple, à l'état **Commissions vendeur**.</span><span class="sxs-lookup"><span data-stu-id="e12f1-105">See, for example, the **Salesperson Commissions** report.</span></span> <span data-ttu-id="e12f1-106">Une société peut également souhaiter affecter un vendeur à chacun de ses contacts.</span><span class="sxs-lookup"><span data-stu-id="e12f1-106">A company may also want to assign a salesperson to each of their contacts.</span></span>
 
-# <a name="how-to-set-up-salespeople"></a><span data-ttu-id="ba719-102">Procédure : configurer des vendeurs</span><span class="sxs-lookup"><span data-stu-id="ba719-102">How to: Set Up Salespeople</span></span>
-<span data-ttu-id="ba719-103">Beaucoup de sociétés souhaitent suivre les performances individuelles d'un collaborateur afin d'avoir une base de calcul pour les commissions et les bonus.</span><span class="sxs-lookup"><span data-stu-id="ba719-103">Many companies want to follow an individual employee's performance as a basis for calculating the sales commission or bonus.</span></span> <span data-ttu-id="ba719-104">Reportez-vous, par exemple, à l'état Commissions vendeur.</span><span class="sxs-lookup"><span data-stu-id="ba719-104">See, for example, the Salesperson Commissions report.</span></span> <span data-ttu-id="ba719-105">Une société peut également souhaiter affecter un vendeur à chacun de ses contacts.</span><span class="sxs-lookup"><span data-stu-id="ba719-105">A company may also want to assign a salesperson to each of their contacts.</span></span>
+<span data-ttu-id="e12f1-107">Une fois que vous avez configuré un vendeur dans la fenêtre **Vendeurs**, vous pouvez le sélectionner dans le champ **Code vendeur** sur tous les enregistrements concernés, par exemple dans les fiches compte général, client, fournisseur, contacts et campagne.</span><span class="sxs-lookup"><span data-stu-id="e12f1-107">When yo have set up a salesperson in the **Salespeople** window, you can select it in the **Salesperson Code** field on all relevant records, such as G/L account, customer, vendor, contacts, and campaign cards.</span></span> <span data-ttu-id="e12f1-108">Ensuite, lorsque vous validez ou configurez des factures, des avoirs, des lignes feuille, des factures d'intérêts, etc., le code vendeur est basculé vers les écritures comptables qui en résultent.</span><span class="sxs-lookup"><span data-stu-id="e12f1-108">Then, when you post or set up invoices, credit memos, journal lines, finance charge activities, and so on, the salesperson code is carried to the resulting ledger entries.</span></span>
 
-<span data-ttu-id="ba719-106">Une fois que vous avez configuré un vendeur dans la fenêtre **Vendeurs**, vous pouvez le sélectionner dans le champ **Code vendeur** sur tous les enregistrements concernés, par exemple dans les fiches compte général, client, fournisseur, contacts et campagne.</span><span class="sxs-lookup"><span data-stu-id="ba719-106">When yo have set up a salesperson in the **Salespeople** window, you can select it in the **Salesperson Code** field on all relevant records, such as G/L account, customer, vendor, contacts, and campaign cards.</span></span> <span data-ttu-id="ba719-107">Ensuite, lorsque vous validez ou configurez des factures, des avoirs, des lignes feuille, des factures d'intérêts, etc., le code vendeur est basculé vers les écritures comptables qui en résultent.</span><span class="sxs-lookup"><span data-stu-id="ba719-107">Then, when you post or set up invoices, credit memos, journal lines, finance-setup charge activities, and so on, the salesperson code is carried to the resulting ledger entries.</span></span>
+## <a name="to-set-up-a-salesperson-code"></a><span data-ttu-id="e12f1-109">Pour configurer un code vendeur</span><span class="sxs-lookup"><span data-stu-id="e12f1-109">To set up a salesperson code</span></span>
+1. <span data-ttu-id="e12f1-110">Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Vendeurs**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="e12f1-110">Choose the ![Search for Page or Report](media/ui-search/search_small.png "Search for Page or Report icon") icon, enter **Salespeople**, and then choose the related link.</span></span>
+2. <span data-ttu-id="e12f1-111">Dans la fenêtre **Vendeurs**, sélectionnez l'action **Nouveau**.</span><span class="sxs-lookup"><span data-stu-id="e12f1-111">In the **Salespeople** window, choose the **New** action.</span></span>
 
-## <a name="to-set-up-a-salesperson-code"></a><span data-ttu-id="ba719-108">Pour configurer un code vendeur</span><span class="sxs-lookup"><span data-stu-id="ba719-108">To set up a salesperson code</span></span>
-1. <span data-ttu-id="ba719-109">Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Vendeurs**, puis sélectionnez le lien connexe.</span><span class="sxs-lookup"><span data-stu-id="ba719-109">In the top right corner, choose the **Search for Page or Report** icon, enter **Salespeople**, and then choose the related link.</span></span>
-2. <span data-ttu-id="ba719-110">Dans la fenêtre **Vendeurs**, sélectionnez l'action **Nouveau**.</span><span class="sxs-lookup"><span data-stu-id="ba719-110">In the **Salespeople** window, choose the **New** action.</span></span>
+<span data-ttu-id="e12f1-112">Vous pouvez utiliser les vendeurs dans la gestion des relations et les divers travaux de marketing.</span><span class="sxs-lookup"><span data-stu-id="e12f1-112">You can use salespeople in various relationship management and marketing work.</span></span> <span data-ttu-id="e12f1-113">Par exemple, vous pouvez affecter des tâches aux vendeurs, afin que les tâches soient incorporées dans les opportunités de vente affectées au vendeur.</span><span class="sxs-lookup"><span data-stu-id="e12f1-113">For example, you can assign tasks to salespeople, so that the tasks are incorporated in sales opportunities that the salesperson are assigned to.</span></span> <span data-ttu-id="e12f1-114">Pour plus d'informations, voir [Procédure : configurer des cycles de vente opportunité et des étapes de cycle](marketing-how-setup-opportunity-sales-cycles-stages.md).</span><span class="sxs-lookup"><span data-stu-id="e12f1-114">For more information, see [How to: Set Up Opportunity Sales Cycles and Cycle Stages](marketing-how-setup-opportunity-sales-cycles-stages.md).</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="ba719-111">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="ba719-111">See Also</span></span>  
-[<span data-ttu-id="ba719-112">Configuration des ventes</span><span class="sxs-lookup"><span data-stu-id="ba719-112">Set Up Sales</span></span>](sales-setup-sales.md)  
-[<span data-ttu-id="ba719-113">Gestion des ventes</span><span class="sxs-lookup"><span data-stu-id="ba719-113">Manage Sales</span></span>](sales-manage-sales.md)
+## <a name="see-also"></a><span data-ttu-id="e12f1-115">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="e12f1-115">See Also</span></span>
+[<span data-ttu-id="e12f1-116">Définition des ventes</span><span class="sxs-lookup"><span data-stu-id="e12f1-116">Setting Up Sales</span></span>](sales-setup-sales.md)  
+[<span data-ttu-id="e12f1-117">Ventes</span><span class="sxs-lookup"><span data-stu-id="e12f1-117">Sales</span></span>](sales-manage-sales.md)  
+<span data-ttu-id="e12f1-118">[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="e12f1-118">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 

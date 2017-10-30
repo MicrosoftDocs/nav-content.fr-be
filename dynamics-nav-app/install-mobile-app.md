@@ -1,35 +1,38 @@
 ---
-title: "Obtenir Dynamics NAV sur mon périphérique mobile"
+title: "Utiliser Dynamics NAV sur votre périphérique mobile"
+description: "Vous pouvez afficher et modifier vos données Dynamics NAV sur votre téléphone ou tablette."
+documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
-ms.openlocfilehash: 12f1c70f4ed4ffd23147887fcedfd15cba5832bf
+ms.topic: get-started-article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: phone, tablet
+ms.date: 06/02/2017
+ms.author: solsen
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 2411abd8a4c42d28b6ad8128bbefeae0c176cabb
 ms.contentlocale: fr-be
-ms.lasthandoff: 07/19/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
-# <a name="get-dynamics-nav-on-my-mobile-device"></a><span data-ttu-id="b5587-102">Obtenir Dynamics NAV sur mon périphérique mobile</span><span class="sxs-lookup"><span data-stu-id="b5587-102">Get Dynamics NAV on my Mobile Device</span></span>
-<span data-ttu-id="b5587-103">Accédez à vos données Dynamics NAV à partir de votre périphérique mobile.</span><span class="sxs-lookup"><span data-stu-id="b5587-103">Access your Dynamics NAV data from your mobile device.</span></span> <span data-ttu-id="b5587-104">Vous pouvez naviguer dans vos données commerciales, utiliser des fonctionnalités telles que l'envoie vers Excel ou Office 365, l'affichage de graphiques et d'indicateurs de performance clé à jour, l'envoi par e-mail de devis et de factures. Vous pouvez également prendre des photos et les ajouter en pièces jointes grâce à votre appareil photo.</span><span class="sxs-lookup"><span data-stu-id="b5587-104">You can navigate through your business data, use features such as send to Excel or Office 365, view up-to-date charts and KPIs, email sales quotes and invoices, and shoot and attach pictures with your camera.</span></span> <span data-ttu-id="b5587-105">Suivez la procédure ci-dessous pour télécharger l'application et démarrer.</span><span class="sxs-lookup"><span data-stu-id="b5587-105">Follow the steps below to download the app and get started.</span></span>
+# <a name="getting-dynamics-nav-on-your-mobile-device"></a><span data-ttu-id="b1701-103">Obtention de Dynamics NAV sur votre périphérique mobile</span><span class="sxs-lookup"><span data-stu-id="b1701-103">Getting Dynamics NAV on Your Mobile Device</span></span>
+<span data-ttu-id="b1701-104">Accédez à vos données [!INCLUDE[d365fin](includes/d365fin_md.md)] à partir de votre périphérique mobile.</span><span class="sxs-lookup"><span data-stu-id="b1701-104">Access your [!INCLUDE[d365fin](includes/d365fin_md.md)] data from your mobile device.</span></span> <span data-ttu-id="b1701-105">Vous pouvez naviguer dans vos données commerciales, utiliser des fonctionnalités telles que l'envoi vers Excel ou Office 365, l'affichage de graphiques et d'indicateurs de performance clé à jour, l'envoi par e-mail de devis et de factures. Vous pouvez également prendre des photos et les ajouter en pièces jointes grâce à votre appareil photo.</span><span class="sxs-lookup"><span data-stu-id="b1701-105">You can navigate through your business data, use features such as send to Excel or Office 365, view up-to-date charts and KPIs, email sales quotes and invoices, and shoot and attach pictures with your camera.</span></span> <span data-ttu-id="b1701-106">Suivez la procédure ci-dessous pour télécharger l'application et démarrer.</span><span class="sxs-lookup"><span data-stu-id="b1701-106">Follow the steps below to download the app and get started.</span></span>
 
-## <a name="to-get-the-app-on-my-mobile-device"></a><span data-ttu-id="b5587-106">Pour bénéficier de l'application sur mon périphérique mobile</span><span class="sxs-lookup"><span data-stu-id="b5587-106">To get the app on my mobile device</span></span>
-1. <span data-ttu-id="b5587-107">Installez l'application Dynamics NAV sur votre périphérique mobile en la téléchargeant à partir de Windows Store, d'App Store ou de Google Play.</span><span class="sxs-lookup"><span data-stu-id="b5587-107">Install the Dynamics NAV app on your mobile device by downloading the app from the Windows Store, App Store, or Google Play.</span></span>  
-<span data-ttu-id="b5587-108">[![Windows Store](./media/install-mobile-app/windowsstore.png)](http://go.microsoft.com/fwlink/?LinkId=734848)
-[![App Store](./media/install-mobile-app/appstore.png)](http://go.microsoft.com/fwlink/?LinkId=734847) [![Google Play](./media/install-mobile-app/googleplay.png)](http://go.microsoft.com/fwlink/?LinkId=734849)</span><span class="sxs-lookup"><span data-stu-id="b5587-108">[![Windows Store](./media/install-mobile-app/windowsstore.png)](http://go.microsoft.com/fwlink/?LinkId=734848)
+## <a name="to-get-the-app-on-my-mobile-device"></a><span data-ttu-id="b1701-107">Pour bénéficier de l'application sur mon périphérique mobile</span><span class="sxs-lookup"><span data-stu-id="b1701-107">To get the app on my mobile device</span></span>
+1. <span data-ttu-id="b1701-108">Installez l'application [!INCLUDE[d365fin](includes/d365fin_md.md)] sur votre périphérique mobile en la téléchargeant à partir de Windows Store, d'App Store ou de Google Play.</span><span class="sxs-lookup"><span data-stu-id="b1701-108">Install the [!INCLUDE[d365fin](includes/d365fin_md.md)] app on your mobile device by downloading the app from the Windows Store, App Store, or Google Play.</span></span>  
+<span data-ttu-id="b1701-109">[![Windows Store](./media/install-mobile-app/windowsstore.png)](http://go.microsoft.com/fwlink/?LinkId=734848)
+[![App Store](./media/install-mobile-app/appstore.png)](http://go.microsoft.com/fwlink/?LinkId=734847) [![Google Play](./media/install-mobile-app/googleplay.png)](http://go.microsoft.com/fwlink/?LinkId=734849)</span><span class="sxs-lookup"><span data-stu-id="b1701-109">[![Windows Store](./media/install-mobile-app/windowsstore.png)](http://go.microsoft.com/fwlink/?LinkId=734848)
 [![App Store](./media/install-mobile-app/appstore.png)](http://go.microsoft.com/fwlink/?LinkId=734847) [![Google Play](./media/install-mobile-app/googleplay.png)](http://go.microsoft.com/fwlink/?LinkId=734849)</span></span>  
-2. <span data-ttu-id="b5587-109">Lancez l'application à partir de votre périphérique mobile.</span><span class="sxs-lookup"><span data-stu-id="b5587-109">Launch the app from your mobile device.</span></span>
-3. <span data-ttu-id="b5587-110">Saisissez le nom d'utilisateur et le mot de passe que vous avez créés lors de votre inscription à Dynamics NAV et suivez les instructions qui s'affichent à l'écran.</span><span class="sxs-lookup"><span data-stu-id="b5587-110">Enter your user name and password that you created during sign-up for Dynamics NAV and follow the instructions on the screen.</span></span>
+2. <span data-ttu-id="b1701-110">Lancez l'application à partir de votre périphérique mobile.</span><span class="sxs-lookup"><span data-stu-id="b1701-110">Launch the app from your mobile device.</span></span>
+3. <span data-ttu-id="b1701-111">Saisissez le nom d'utilisateur et le mot de passe que vous avez créés lors de votre inscription à [!INCLUDE[d365fin](includes/d365fin_md.md)] et suivez les instructions qui s'affichent à l'écran.</span><span class="sxs-lookup"><span data-stu-id="b1701-111">Enter your user name and password that you created during sign-up for [!INCLUDE[d365fin](includes/d365fin_md.md)] and follow the instructions on the screen.</span></span>
 
-<span data-ttu-id="b5587-111">Vous êtes désormais en mesure d'accéder à Dynamics NAV, d'afficher et de modifier les données.</span><span class="sxs-lookup"><span data-stu-id="b5587-111">You should now have access to Dynamics NAV and be able to view and edit data.</span></span>
+<span data-ttu-id="b1701-112">Vous êtes désormais en mesure d'accéder à [!INCLUDE[d365fin](includes/d365fin_md.md)], d'afficher et de modifier les données.</span><span class="sxs-lookup"><span data-stu-id="b1701-112">You should now have access to [!INCLUDE[d365fin](includes/d365fin_md.md)] and be able to view and edit data.</span></span>
 
-## <a name="see-also"></a><span data-ttu-id="b5587-112">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="b5587-112">See Also</span></span>
-[<span data-ttu-id="b5587-113">Bienvenue dans Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="b5587-113">Welcome to Dynamics NAV</span></span>](across-get-started.md)  
-[<span data-ttu-id="b5587-114">Utiliser Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="b5587-114">Work With Dynamics NAV</span></span>](ui-work-product.md)  
+## <a name="see-also"></a><span data-ttu-id="b1701-113">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="b1701-113">See Also</span></span>
+<span data-ttu-id="b1701-114">[Bienvenue dans [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)</span><span class="sxs-lookup"><span data-stu-id="b1701-114">[Welcome to [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)</span></span>  
+<span data-ttu-id="b1701-115">[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="b1701-115">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 
