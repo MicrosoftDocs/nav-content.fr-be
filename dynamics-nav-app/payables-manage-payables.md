@@ -1,39 +1,43 @@
 ---
-title: Gestion des comptes fournisseur
+title: "Aperçu des tâches permettant de gérer la comptabilité fournisseur"
+description: "Décrit les tâches permettant de gérer la comptabilité fournisseur, par exemple, le paiement des créditeurs ou le lettrage de paiements sortants dans la comptabilité pour clôturer des factures ou des avoirs."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 50a68e1eaf0d6057420635f85b473639e39caa5a
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: vendor payment, creditor, debt, balance due, AP
+ms.date: 06/28/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: a60a197ec6631ff063eeeffd5add7c202ac6b605
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="managing-payables"></a>Gestion des comptes fournisseur
+Une grande partie de la gestion des comptes fournisseurs consiste à payer vos fournisseurs, ou à rembourse vos salariés de leurs dépenses. Vous pouvez utiliser les fonctions pour ajouter des lignes de paiement pour les factures achat échues dans la fenêtre **Feuille paiement** . Pour effectuer rapidement des transactions bancaires, vous pouvez exporter plusieurs lignes feuille paiement vers un fichier, puis télécharger ensuite ce fichier vers votre banque. Vous pouvez également effectuer des paiements par chèque, notamment pour transmettre des chèques en tant que paiements électroniques.
 
-# <a name="manage-payables"></a>Gestion des comptes fournisseur
-Une tâche centrale de la gestion des comptes fournisseurs est de payer de vos fournisseurs. Vous pouvez utiliser les fonctions permettant de renseigner automatiquement la fenêtre **Feuille paiement** avec des lignes de paiement pour les factures achat échues. Pour effectuer rapidement les transactions bancaires nécessaires, vous pouvez exporter plusieurs lignes feuille paiement vers un fichier, que vous téléchargez ensuite vers votre banque pour traitement. Vous pouvez également effectuer des paiements par chèque, notamment pour transmettre des chèques en tant que paiements électroniques.
+Une autre tâche courante consiste à lettrer les paiements sortants à leurs écritures comptables fournisseur ou salarié associées et de ce fait, clôturer les factures achat, les avoirs achat ou les comptes salariés comme payés. Vous pouvez effectuer cette tâche dans la fenêtre **Feuille rapprochement bancaire** en important un fichier de relevé bancaire pour enregistrer rapidement les paiements. Les paiements sont lettrés aux écritures client, fournisseur ou salarié ouvertes en faisant correspondre le texte de paiement et les informations d'écriture. Il existe plusieurs manières de vérifier et de modifier les correspondances avant de valider la feuille. Vous pouvez choisir de clôturer les écritures comptables compte bancaire ouvertes associées aux écritures comptables lettrées lorsque vous validez la feuille. Le compte bancaire est automatiquement rapproché lorsque tous les paiements sont lettrés.
 
-Une autre tâche courante consiste à lettrer les paiements sortants à leurs écritures comptables fournisseur associées et de ce fait clôturer les factures achat ou les avoirs achat associés comme payés. Vous pouvez effectuer cette tâche dans la fenêtre **Feuille rapprochement bancaire** en important un fichier de relevé bancaire pour enregistrer rapidement les paiements dans Dynamics NAV. Une fonction automatique de l'application lettre les paiements à leurs écritures comptables fournisseur ouvertes ou à leurs écritures comptables client associées en fonction des correspondances de données entre le texte de paiement et les informations d'écriture. Vous pouvez utiliser plusieurs fonctionnalités pour réviser et modifier les lettrages automatiques avant de valider la feuille. Vous pouvez choisir de clôturer les écritures comptables compte bancaire ouvertes associées aux écritures comptables lettrées lorsque vous validez la feuille. Cela signifie que le compte bancaire est automatiquement rapproché lorsque tous les paiements sont lettrés.
-
-Sinon, vous pouvez lettrer les paiements sortants manuellement dans la fenêtre **Feuille paiement** ou à partir des écritures comptables fournisseur associées.
+Sinon, vous pouvez lettrer les paiements sortants manuellement dans la fenêtre **Feuille paiement** ou à partir des écritures comptables fournisseur ou salarié associées.
 
 Le tableau suivant décrit une série de tâches associées aux comptes fournisseur et inclut des liens vers les rubriques qui les décrivent.
 
-|Pour |Voir |
-|---|----|
-|Générer des paiements fournisseur échus classés par ordre de priorité en fonction des escomptes et des pénalités de retard. Éventuellement, exporter les paiements vers un fichier bancaire lors de la validation.|[Exécuter des paiements](payables-make-payments.md)|
-|Lettrer les paiements fournisseur automatiquement aux factures achat impayées en important un fichier de relevé bancaire.|[Procédure : lettrage automatique des paiements et rapprochement des comptes bancaires](receivables-apply-payments-auto-reconcile-bank-accounts.md)|
-|Lettrer les paiements fournisseur aux factures achat impayées manuellement.|[Procédure : lettrer les paiements fournisseur manuellement](payables-how-apply-purchase-transactions-manually.md)|
+| À | Voir |
+| --- | --- |
+| Générez les paiements fournisseurs ou les remboursements salariés dus, préparez les paiements par chèque, et exportez les paiements vers un fichier bancaire lors de la validation. |[Effectuer des paiements](payables-make-payments.md) |
+| Lettrer les paiements fournisseur automatiquement aux factures achat impayées en important un fichier de relevé bancaire. |[Procédure : lettrage automatique des paiements et rapprochement des comptes bancaires](receivables-apply-payments-auto-reconcile-bank-accounts.md) |
+| Lettrer les paiements fournisseur aux factures achat impayées manuellement. |[Procédure : rapprocher les paiements fournisseur manuellement](payables-how-apply-purchase-transactions-manually.md) |
+|Pour une évaluation de stock correcte, affectez les coûts articles ajoutés, tels que le fret, la manutention, les assurances, et transport, que vous encourez lorsque vous achetez.|[Procédure : Utiliser Frais annexes pour comptabiliser les coûts commerciaux supplémentaires](payables-how-assign-item-charges.md)|
 
 ## <a name="see-also"></a>Voir aussi
-[Gestion des achats](purchasing-manage-purchasing.md)  
+[Achats](purchasing-manage-purchasing.md)  
 [Gestion des comptes client](receivables-manage-receivables.md)  
-[Utiliser Dynamics NAV](ui-work-product.md)  
-[Fonctionnalités communes aux différents secteurs d'activité](ui-across-business-areas.md)
+[Procédure : Utiliser Frais annexes pour comptabiliser les coûts commerciaux supplémentaires](payables-how-assign-item-charges.md)  
+[Fonctionnalités marché](ui-across-business-areas.md)  
+[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

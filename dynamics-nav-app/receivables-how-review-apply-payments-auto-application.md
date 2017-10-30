@@ -1,38 +1,44 @@
 ---
-title: "Procédure : réviser ou lettrer les paiements manuellement après un lettrage automatique"
+title: "Vérifier les paiements lettrés automatiquement et relettrer des paiements manuellement"
+description: "Après le lettrage automatique des paiements, vous pouvez consulter toutes les écritures d'un paiement et relettrer manuellement celles qui ont été mal lettrées."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 556a0f74a7407d247008e2d74420803123056eff
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: payment process, reconcile payment, expenses, cash receipts
+ms.date: 03/29/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 336dd02d1f29e5f80209961eae164a6faeaf65bc
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-review-or-apply-payments-manually-after-automatic-application"></a>Procédure : réviser ou lettrer les paiements manuellement après un lettrage automatique
 Pour chaque ligne feuille représentant un paiement dans la fenêtre **Feuille rapprochement bancaire**, vous pouvez ouvrir la fenêtre **Lettrage paiement** pour afficher toutes les écritures ouvertes candidates au paiement et les informations détaillées pour chaque écriture sur la correspondance des données sur laquelle un lettrage de paiement est basé. Ici, vous pouvez appliquer les paiements manuellement ou réappliquer les paiements qui ont été automatiquement appliqués à une écriture incorrecte. Pour plus d'informations sur le lettrage automatique, reportez-vous à [Procédure : rapprocher les paiements à l'aide du lettrage automatique](receivables-how-reconcile-payments-auto-application.md).
 
-**Important**: lorsque le compte bancaire pour lequel vous rapprochez des paiements est configuré pour la devise locale, la fenêtre **Lettrage paiement** affiche toutes les écritures ouvertes dans la devise locale, y compris les écritures ouvertes pour les documents qui ont été initialement facturés en devise étrangère. Les paiements lettrés aux écritures avec devises converties peuvent donc être validés avec différents montants que celui qui figure sur le document d'origine en raison des taux de change potentiellement différents utilisés respectivement par la banque et Dynamics NAV.
+> [!IMPORTANT]  
+>   Lorsque le compte bancaire pour lequel vous rapprochez des paiements est configuré pour la devise locale, la fenêtre **Lettrage paiement** affiche toutes les écritures ouvertes dans la devise locale, y compris les écritures ouvertes pour les documents qui ont été initialement facturés en devise étrangère. Les paiements appliqués aux écritures avec devises converties peuvent donc être validés avec différents montants que celui qui figure sur le document d'origine en raison des taux de change potentiellement différents utilisés respectivement par la banque et [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-Par conséquent, nous vous recommandons de rechercher les codes devise étrangère dans le champ **Code devise** de la fenêtre **Lettrage paiement** pour vérifier si les lettrages sont basés sur des devises converties. Pour réviser le montant du document d'origine dans la devise étrangère et afficher le taux de change utilisé, sélectionnez le champ **N° séquence lettrage** puis, dans le menu contextuel, cliquez sur le bouton de zoom pour ouvrir la fenêtre **Écritures comptables client** ou **Écritures comptables fournisseur**.
+Par conséquent, nous vous recommandons de rechercher les codes devise étrangère dans le champ **Code devise** de la fenêtre **Lettrage paiement** pour vérifier si les lettrages sont basés sur des devises converties. Pour rechercher le montant du document initial dans la devise étrangère et visualiser le taux de change utilisé, choisissez le champ **N° séquence lettrage**, puis, dans le menu contextuel, sélectionnez le bouton de vue détaillée pour ouvrir la fenêtre **Écritures comptables client** ou **Écritures comptables fournisseur**
 
-Tout ajustement profits et pertes requis en raison de conversions de devise n'est pas géré automatiquement par Dynamics NAV.
+Aucun ajustement profits et pertes requis en raison de conversions de devise n'est géré automatiquement par [!INCLUDE[d365fin](includes/d365fin_md.md)].
 
-**Remarque**: vous ne pouvez pas appliquer d'écritures avec un signe différent du signe figurant sur le paiement. Par exemple, pour clôturer un avoir négatif et sa facture positive liée, vous devez d'abord appliquer l'avoir à la facture, puis appliquer le paiement à la facture avec le montant ouvert réduit.
+> [!NOTE]  
+>   Vous ne pouvez pas appliquer des écritures avec un signe différent du signe sur le paiement. Par exemple, pour clôturer un avoir négatif et sa facture positive liée, vous devez d'abord appliquer l'avoir à la facture, puis appliquer le paiement à la facture avec le montant ouvert réduit.
 
-**Avertissement** : si vous utilisez des escomptes, et si la date de paiement est antérieure à la date d'échéance de paiement, le champ **Montant ouvert remise incl.** de la fenêtre **Lettrage paiement** sera utilisé pour la correspondance. Sinon, la valeur du champ **Montant ouvert** sera utilisée. Si le paiement a été effectué avec un montant escompté après la date d'échéance du paiement, ou si le montant total a été payé mais qu'une remise a été accordée, le montant ne correspondra pas.
+> [!WARNING]  
+>   Si vous utilisez des escomptes, et si la date de paiement est antérieure à la date d'échéance de paiement, le champ **Montant ouvert remise incl.** de la fenêtre **Lettrage paiement** sera utilisé pour la correspondance. Sinon, la valeur du champ **Montant ouvert** sera utilisée. Si le paiement a été effectué avec un montant escompté après la date d'échéance du paiement, ou si le montant total a été payé mais qu'une remise a été accordée, le montant ne correspondra pas.
 
-**Remarque**: vous ne pouvez appliquer un paiement qu'à un seul compte. Si vous souhaitez diviser l'application sur plusieurs écritures ouvertes, par exemple pour appliquer un paiement fixe, les écritures ouvertes doivent être pour le même compte. Pour plus d'informations, reportez-vous aux étapes 7 et 8 de la procédure de cette rubrique.
+> [!NOTE]  
+>   Vous ne pouvez appliquer un paiement qu'à un compte. Si vous souhaitez diviser l'application sur plusieurs écritures ouvertes, par exemple pour appliquer un paiement fixe, les écritures ouvertes doivent être pour le même compte. Pour plus d'informations, reportez-vous aux étapes 7 et 8 de la procédure de cette rubrique.
 
 ## <a name="to-review-or-apply-payments-after-automatic-application"></a>Pour examiner ou lettrer les paiements après le lettrage automatique
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Feuilles rapprochement bancaire**, puis sélectionnez le lien connexe.
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Feuille rapprochement bancaire**, puis sélectionnez le lien connexe.
 2. Ouvrez la feuille de rapprochement de paiement pour un compte bancaire pour lequel vous souhaitez rapprocher les paiements. Pour plus d'informations, reportez-vous à [Procédure : rapprocher les paiements à l'aide de l'application automatique](receivables-how-reconcile-payments-auto-application.md).
 3. Dans la fenêtre **Feuille rapprochement bancaire**, sélectionnez un paiement que vous souhaitez réviser ou lettrer manuellement à une ou plusieurs écritures ouvertes, puis sélectionnez l'action **Lettrer manuellement**.
 4. Cochez la case **Lettré** sur la ligne de l'écriture ouverte à laquelle vous voulez lettrer le paiement.
@@ -46,5 +52,6 @@ La fenêtre **Lettrage paiement** se ferme puis, dans la fenêtre **Feuille rapp
 
 ## <a name="see-also"></a>Voir aussi
 [Gestion des comptes client](receivables-manage-receivables.md)  
-[Gestion des ventes](sales-manage-sales.md)
+[Ventes](sales-manage-sales.md)  
+[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

@@ -1,31 +1,35 @@
 ---
-title: "Procédure : créer des interactions sur les contacts et les segments"
+title: "Créer des interactions sur les contacts et les segments"
+description: "Décrit comment créer des interactions pour les communications que vous avez avec vos contacts et segments dans Dynamics NAV, par exemple le courrier direct."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 459a86ad9674e0d61b045743cbcc99ffdb5cacd9
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, prospect
+ms.date: 06/15/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 4ef0a5f683657f4725b04d7a231336419ea90f48
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 # <a name="how-to-create-interactions-on-contacts-and-segments"></a>Procédure : créer des interactions sur les contacts et les segments
 Vous pouvez créer des interactions pour enregistrer toutes les interactions et toutes les communications que vous entretenez avec vos contacts et segments, par exemple le courrier direct.
 
-Pour pouvoir créer des interactions, vous devez configurer des modèles interaction. Pour plus d'informations, reportez vous à [Configurer des modèles interaction](marketing-interactions.md#set-up-interaction-templates).
+Pour pouvoir créer des interactions, vous devez configurer des modèles interaction. Pour plus d'informations, reportez vous à [Configurer des modèles interaction](marketing-interactions.md).
 
 ## <a name="to-create-an-interaction"></a>Pour créer une interaction
 1. Ouvrez le contact, le vendeur, ou l'écriture journal interaction.
 2. Sélectionnez l'action **Créer interaction**.
 3. Renseignez les champs, puis cliquez sur le bouton **OK**.
 
-**Remarque** : si vous devez effectuer une autre tâche avant de terminer l'interaction, vous pouvez cliquer sur **Annuler** et choisir de terminer l'interaction à une date ultérieure. Cela permet de reporter l'interaction à plus tard.
+> [!NOTE]  
+>   Si vous devez effectuer une autre tâche avant de terminer l'interaction, vous pouvez cliquer sur **Annuler** et choisir de terminer l'interaction à une date ultérieure. Cela permet de reporter l'interaction à plus tard.
 
 ## <a name="to-finish-and-delete-postponed-interactions"></a>Pour terminer et supprimer les interactions reportées
 1. Ouvrez le contact, le vendeur, ou l'écriture journal interaction.
@@ -33,10 +37,10 @@ Pour pouvoir créer des interactions, vous devez configurer des modèles interac
 3. Sélectionnez l'interaction que vous souhaitez terminer, puis sélectionnez l'action **Reprendre**.
 
 ## <a name="to-create-an-interaction-on-a-segment"></a>Pour créer une interaction sur un segment
-1. Sur la page d'accueil, sélectionnez **Segments actifs**. Sinon, dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Segments**, puis sélectionnez le lien connexe.
+1. Sur la page d'accueil, sélectionnez **Segments actifs**. Sinon, sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Segments**, puis sélectionnez le lien connexe.
 2. Dans la fenêtre **Segment**, dans la section **Interaction**, renseignez les champs pour définir l'interaction à affecter au segment.
 
-  Après avoir affecté une interaction au segment, vous pouvez personnaliser l'interaction pour chaque contact au sein du segment, par exemple en sélectionnant un autre modèle interaction sur les lignes de la fenêtre **Segment**.
+    Après avoir affecté une interaction au segment, vous pouvez personnaliser l'interaction pour chaque contact au sein du segment, par exemple en sélectionnant un autre modèle interaction sur les lignes de la fenêtre **Segment**.  
 3. Pour journaliser le segment et les interactions, sélectionnez l'action **Journal**. La fenêtre **Journaliser segment** s’affiche.
 4. Si vous souhaitez créer un segment contenant les mêmes contacts, activez la case à cocher **Créer suivi segment**. Pour créer un suivi segment, vous devez avoir indiqué une souche de numéros pour les segments dans la fenêtre **Paramètres Marketing**.
 
@@ -46,7 +50,8 @@ Si vous avez activé la case à cocher **Créer suivi segment**, le programme cr
 
 ## <a name="see-also"></a>Voir aussi
 [Enregistrement d'interactions](marketing-interactions.md)  
-[Gestion des contacts](marketing-contacts.md)  
-[Gérer les opportunités de ventes](marketing-manage-sales-opportunities.md)  
-[Configuration de la gestion du marketing et des contacts](marketing-setup-marketing.md)
+[Gestion de contacts](marketing-contacts.md)  
+[Gestion des opportunités de ventes](marketing-manage-sales-opportunities.md)  
+[Paramétrage de la Gestion des relations](marketing-setup-marketing.md)  
+[Utilisation de Dynamics NAV](ui-work-product.md)
 

@@ -1,26 +1,28 @@
 ---
-title: "Procédure : Rechercher des enregistrements validés sans enregistrements document entrant"
+title: "Rechercher des documents sans pièces jointes"
+Description: "Vous pouvez rechercher des écritures comptables pour des documents achat et vente validés qui n'ont pas de documents électroniques entrants, tels que les factures importées."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: eb65922decc86ca6834cae4cf46c6f2ff492e29c
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecommerce, document exchange, import invoice
+ms.date: 06/02/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 515026b4da842afeda1759f50313dc26bcfd3350
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-find-posted-documents-without-incoming-document-records"></a>Procédure : Rechercher des enregistrements validés sans enregistrements document entrant
 Depuis les fenêtres **Plan comptable** et **Écritures comptables**, vous pouvez utiliser la fonction de recherche pour rechercher les écritures comptables pour des documents achat et vente validés qui n'ont pas d'enregistrement de document entrant, puis les lier de façon centralisée à des enregistrements existants ou en créer de nouveaux avec des fichiers joints.
 
 ## <a name="to-find-posted-documents-without-incoming-document-records"></a>Rechercher des enregistrements validés sans enregistrements document entrant
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Plan comptable**, puis sélectionnez le lien connexe.
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Plan comptable**, puis sélectionnez le lien connexe.
 2. Sélectionnez une ligne pour un compte général pour les écritures comptables duquel vous souhaitez voir les documents ventes et achats validés sans enregistrement document entrant, puis sélectionnez l'action **Documents validés sans document entrant**.
 3. Sinon, sélectionnez l'action **Écritures comptables**.
 4. Dans la fenêtre **Écritures comptables**, sélectionnez l'action **Documents validés sans documents entrants**.
@@ -34,9 +36,9 @@ La fenêtre **Documents validés sans document entrant** s'ouvre et affiche des 
 
 Si un enregistrement document entrant approprié n'existe pas dans la fenêtre **Documents entrants**, vous pouvez le créer. Pour plus d'informations, reportez vous à [Procédure : créer des enregistrements document entrant](across-how-create-income-document-records.md).
 
-## <a name="see-also"></a>Voir aussi  
+## <a name="see-also"></a>Voir aussi
 [Traiter les documents entrants](across-process-income-documents.md)  
 [Documents entrants](across-income-documents.md)  
-[Gestion des achats](purchasing-manage-purchasing.md)  
-[Utiliser Dynamics NAV](ui-work-product.md)
+[Achats](purchasing-manage-purchasing.md)  
+[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

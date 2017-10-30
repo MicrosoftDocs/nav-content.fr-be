@@ -1,39 +1,42 @@
-<properties
-                pageTitle="Procédure : Réévaluer le stock | Dynamics NAV"
-                description="Décrit comment réévaluer ou amortir la valeur d'un ou de plusieurs articles dans le stock en validant leur valeur calculée courante."
-                services="project-madeira"
-                documentationCenter=""
-                authors="SorenGP"
-/>
-<tags
-    ms.service="project-madeira"
-    ms.topic="article"
-    ms.devlang="na"
-    ms.tgt_pltfrm="na"
-    ms.workload="na"
-    ms.date="11/07/2016"
-    ms.author="SorenGP" />
+---
+title: "Créer des nouvelles écritures valeur pour des articles dans le stock"
+description: "Décrit comment réévaluer ou amortir les entrées valeur d'un ou de plusieurs articles dans le stock en validant leur valeur calculée courante."
+documentationcenter: 
+author: SorenGP
+ms.prod: dynamics-nav-2017
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: costing, inventory cost, value entries
+ms.date: 08/07/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 5bc7e72a44f002e42ad9b3d37c9eab6cd512eff3
+ms.contentlocale: fr-be
+ms.lasthandoff: 10/16/2017
 
-
-# <a name="how-to-revalue-inventory"></a>Procédure : Réévaluer le stock   
+---
+# <a name="how-to-revalue-inventory"></a>Procédure : Réévaluer le stock
 Pour réévaluer ou amortir un article ou une écriture comptable article spécifique, vous devez utiliser la feuille réévaluation.
 
 ## <a name="to-revalue-inventory"></a>Pour réévaluer le stock
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Feuille réévaluation**, puis sélectionnez le lien connexe.
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Feuille réévaluation**, puis sélectionnez le lien connexe.
 2. Choisissez l'action **Calculer valeur stock**.
-3. Dans la fenêtre **Calculer valeur stock**, renseignez les champs selon vos besoins. Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.
+3. Dans la fenêtre **Calculer valeur stock**, renseignez les champs selon vos besoins. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 4. Cliquez sur le bouton **OK**.
 5. Sur chaque ligne de la fenêtre **Feuille réévaluation**, indiquez le nouveau coût unitaire dans le champ **Coût unitaire (réévalué)**. Vous pouvez aussi indiquer le nouveau montant total dans le champ **Valeur stock (réévaluée)**.
 
     Les champs appropriés sont automatiquement mis à jour. Remarque : le champ **Montant** affiche la modification réelle de la valeur du stock pour l'écriture comptable article sélectionnée. Il calcule la différence entre les champs **Valeur stock (calculée)** et **Valeur stock (réévaluée)**.
-
 6. Lorsque vous avez renseigné toutes les lignes de la feuille réévaluation, choisissez l'action **Valider**.
 
 Les nouvelles écritures valeur sont alors créées pour refléter les réévaluations que vous avez validées. Vous pouvez visualiser les nouvelles valeurs dans les fiches article concernées.
 
 ## <a name="see-also"></a>Voir aussi
-[Gestion du stock](inventory-manage-inventory.md)  
-[Gestion des ventes](sales-manage-sales.md)  
-[Gestion des achats](purchasing-manage-purchasing.md)  
-[Utiliser Dynamics NAV](ui-work-product.md)
+[Détails de conception : réévaluation](design-details-revaluation.md)  
+[STOCKS ET EN-COURS](inventory-manage-inventory.md)  
+[Ventes](sales-manage-sales.md)  
+[Achats](purchasing-manage-purchasing.md)  
+[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

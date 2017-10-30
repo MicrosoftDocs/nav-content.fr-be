@@ -1,45 +1,67 @@
 ---
-title: "Les écritures comptables et le plan comptable"
+title: "En savoir plus sur les écritures comptables et le COA"
+description: "Décrit les écritures comptables, le plan comptable, et les catégories de compte."
+documentationcenter: 
 author: edupont04
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 9965ddcad214e97c5e4858824395d6f651b3c003
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: analysis, history, track
+ms.date: 06/02/2017
+ms.author: edupont
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 348a1bcbe6908c7bfd84e99245363e733414aeae
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
-# <a name="the-general-ledger-and-the-chart-of-accounts"></a>Les écritures comptables et le plan comptable
-Les écritures comptables stockent vos données financières, et le plan comptable affiche les comptes sur lesquels toutes les écritures comptables sont validées. Dynamics NAV inclut un plan comptable standard prêt à prendre en charge votre société.
+# <a name="understanding-the-general-ledger-and-the-coa"></a>Familiarisation avec les écritures comptables et les COA
+Les écritures comptables stockent vos données financières, et le plan comptable affiche les comptes sur lesquels toutes les écritures comptables sont validées. [!INCLUDE[d365fin](includes/d365fin_md.md)] inclut un plan comptable standard prêt à prendre en charge votre société.
 
 ## <a name="general-ledger-setup-and-general-posting-setup"></a>Configuration des écritures comptable et configuration de la comptabilisation
-Les écritures comptables sont à la base de vos processus entreprise, ainsi que la configuration de la manière dont les données y sont validées.
-Dans la fenêtre **Paramètres comptabilité**, vous spécifiez comment gérer certains problèmes comptables dans votre société. Ceci inclut les détails arrondi facture, les formats d'adresse, et si vous souhaitez utiliser une devise report supplémentaire, par exemple.
-De même, dans la fenêtre **Paramètres comptabilisation**, vous spécifiez comment vous souhaitez configurer les combinaisons de groupes généraux comptabilisation marché et de groupes généraux comptabilisation produit. Saisissez une ligne pour chaque combinaison de groupes comptabilisation marché et de groupes comptabilisation produit.  
+La configuration des écritures comptables est le composant principal des processus financiers car elle définit comment vous validez les données.  
+
+Dans la fenêtre **Paramètres comptabilité**, vous spécifiez comment gérer certains problèmes comptables dans votre société, par exemple :  
+
+* Les détails arrondi facture  
+* Les formats d'adresse  
+* Les états financiers  
+
+De même, dans la fenêtre **Paramètres comptabilisation**, vous spécifiez comment vous souhaitez configurer les combinaisons de groupes généraux comptabilisation marché et de groupes généraux comptabilisation produit. Les groupes comptabilisation mappent des entités telles que les clients, les fournisseurs, les éléments, les ressources et les documents vente et achat dans des comptes généraux. Saisissez une ligne pour chaque combinaison de groupes comptabilisation marché et de groupes comptabilisation produit. Pour plus d'informations, voir [Paramètres du groupe comptabilisation](finance-posting-groups.md)  
 
 ## <a name="the-chart-of-accounts"></a>Le plan comptable
-Le plan comptable affiche tous les comptes. Depuis cette fenêtre, vous pouvez ouvrir divers états qui affichent vos écritures comptables et vos soldes, et vous pouvez clôturer le compte de gestion. Pour chaque compte, vous pouvez ouvrir la fiche compte général et ajouter ou modifier les paramètres. Vous pouvez également afficher la liste des groupes comptabilisation qui effectuent les validations vers ce compte.  
+Le plan comptable affiche tous les comptes généraux. Vous pouvez effectuer les opérations suivantes à partir du plan comptable :  
 
-Dynamics NAV vous empêchera de supprimer un compte général qui stocke les données nécessaires au plan comptable.  
+* Afficher les états qui affichent les écritures comptables et les soldes.  
+* Clôturer votre exercice comptable.  
+* Ouvrir la fiche compte général pour ajouter ou modifier des paramètres.  
+* Consulter la liste des groupes comptabilisation qui effectuent les validations vers ce compte.
+* Afficher les soldes débit et crédit d'un seul compte  
+
+Vous pouvez ajouter, modifier ou supprimer des comptes généraux. Toutefois, pour éviter les différences, vous ne pouvez pas supprimer un compte général si ses données sont utilisées dans le plan comptable.  
 
 ## <a name="account-categories"></a>Catégories de compte
-Avec les catégories de compte, vous pouvez associer les comptes généraux à des catégories afin de personnaliser la structure de vos états financiers.  
+Vous pouvez personnaliser la structure de vos états financiers en mappant les comptes généraux aux catégories de comptes.  
 
-La fenêtre **Catégories de compte général** affiche vos catégories et sous-catégories principales existantes et les comptes généraux que vous avez affecté à chaque catégorie. Vous pouvez créer des sous-catégories et affecter ces catégories à des comptes existants.  
+La fenêtre **Catégories de compte général** affiche vos catégories et sous-catégories et les comptes généraux que leurs sont affectés. Vous pouvez créer des sous-catégories et affecter ces catégories à des comptes existants.  
 
-Vous pouvez regrouper les catégories de compte en effectuant une indentation des sous-catégories individuelles. Cela vous facilite l'obtention d'une vue d'ensemble, car chaque groupement affiche un solde final. Par exemple, vous pouvez créer des sous-catégories pour différents types d'actifs puis créer des groupes des catégories pour différencier les immobilisations des actifs à court terme, par exemple. Vous créez un groupe des catégories en effectuant une indentation d'autres sous-catégories sous une ligne de la fenêtre **Catégories de compte général**.  
+Vous créez un groupe des catégories en effectuant une indentation d'autres sous-catégories sous une ligne de la fenêtre **Catégories de compte général**. Cela vous facilite l'obtention d'une vue d'ensemble, car chaque groupement affiche un solde final. Par exemple, vous pouvez créer des sous-catégories pour différents types d'actifs puis créer des groupes des catégories pour différencier les immobilisations des actifs à court terme, par exemple.  
 
-Pour chaque sous-catégorie, vous pouvez spécifier si les comptes de cette catégorie doivent être inclus dans des types spécifiques d'états financiers. Les catégories de compte vous aident à définir la présentation de vos états financiers. Par exemple, le solde relevé par défaut solde est doté d'une seule écriture pour la trésorerie dans les actifs. Si vous souhaitez que le solde relevé soit doté de sous-entrées pour le fonds de caisse et votre compte chèque, vous pouvez ajouter deux nouvelles sous-catégories, spécifier la définition d'état supplémentaire Comptes de trésorerie pour chacun d'eux, et effectuer une indentation sous la sous-catégorie Trésorerie. Ensuite, lorsque vous avez généré les tableaux d'analyse en fonction de vos modifications, votre relevé solde suivant affichera un solde final pour la trésorerie et deux lignes avec les soldes pour le fonds de caisse et le compte chèque.     
+Vous pouvez spécifier si les comptes de chaque sous-catégorie doivent être inclus dans des types spécifiques d'états. Les catégories de compte vous aident à définir la présentation de vos états financiers.  
 
-##<a name="see-also"></a>Voir aussi
-[Finance](finance-setup.md)  
-[Configuration ou modification du plan comptable](finance-setup-setup-chart-accounts.md)  
-[Tableaux d'analyse](finance-setup-account-schedule.md)  
+Par exemple, le solde relevé par défaut solde est doté d'une sous-catégorie pour la trésorerie dans Actifs à court terme. Si vous souhaitez que le solde relevé tienne compte du fonds de caisse et du compte chèque, vous pouvez :  
+
+1. Ajouter deux nouvelles sous-catégories. Une pour le fonds de caisse, et l'autre pour le compte chèque.  
+2. Spécifier la définition d'état supplémentaire **Comptes de trésorerie** pour ces sous-catégories.  
+3. Effectuer une indentation sous la sous-catégorie **Trésorerie**.  
+
+À la prochaine génération des tableaux d'analyse, votre relevé solde suivant affichera un solde final pour la trésorerie et deux lignes avec les soldes pour le fonds de caisse et le compte chèque.  
+
+## <a name="see-also"></a>Voir aussi
+[Finances](finance.md)  
+[Configuration ou modification du plan comptable](finance-setup-chart-accounts.md)  
+[Veille économique](bi.md)  
 

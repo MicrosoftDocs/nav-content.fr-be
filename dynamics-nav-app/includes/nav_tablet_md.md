@@ -1,1 +1,1 @@
-Client tablette Microsoft Dynamics NAV
+Client Microsoft Dynamics NAV Tablet

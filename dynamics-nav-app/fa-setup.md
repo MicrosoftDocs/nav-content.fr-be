@@ -1,42 +1,49 @@
 ---
 title: Configurer des immobilisations
+description: "En savoir plus sur la série de tâches que vous devez effectuer pour configurer les immobilisations, telles que les machines ou les bâtiments."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 954c20f713752774bc3a7c0bc10d625962d1ccc2
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: machinery, buildings
+ms.date: 08/15/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: aa0f26de4911611d9326de3bbdbf0bb150bd3875
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
+# <a name="setting-up-fixed-assets"></a>Paramétrage d'immobilisations
+Avant de pouvoir utiliser les immobilisations, vous devez définir les éléments suivants :  
 
-# <a name="set-up-fixed-assets"></a>Configurer des immobilisations
-Avant de pouvoir utiliser la fonctionnalité Immobilisations, vous devez configurer différentes informations afin de définir comment assurer, maintenir et amortir les immobilisations et comment les coûts et autres valeurs sont enregistrés en comptabilité.
+* Comment assurer, maintenir et amortir les immobilisations.  
+* La manière dont vous enregistrez les coûts et d'autres valeurs dans le grand livre.  
 
-Lorsque vous avez configuré les immobilisations, vous pouvez effectuer les différentes activités concernées. Pour en savoir plus, voir [Procédure : gérer les immobilisations](fa-manage.md).
+Le tableau ci-dessous contient des liens vers des informations supplémentaires. Après avoir défini ces éléments, vous pouvez démarrer diverses activités. Pour plus d'informations, reportez-vous à [Immobilisations](fa-manage.md).  
 
-**Remarque** : vous pouvez enregistrer les transactions immobilisation dans la fenêtre **Feuille compta. immo.** ou dans la fenêtre **Feuille immo.**, selon que les transactions sont destinées pour des rapports financiers ou pour la gestion interne. L'aide pour les immobilisations décrit uniquement la procédure d'utilisation de la fenêtre **Feuille compta. immo.**.
+> [!NOTE]  
+>   Vous pouvez enregistrer les transactions immobilisation dans les fenêtres **Feuille compta. immo.** ou **Feuille immo.**, selon que les transactions sont destinées pour des rapports financiers ou pour la gestion interne. L'aide pour les immobilisations décrit uniquement la procédure d'utilisation de la fenêtre **Feuille compta. immo.**.  
 
-Lorsque vous cochez une activité immobilisation dans la section **Intégration compta.** de la fenêtre **Fiche loi d'amortissement**, la fenêtre **Feuille compta. immo.** sera utilisée pour valider les transactions pour l'activité en question.
+Lorsque vous activez une activité immobilisation dans la section **Intégration compta.** de la fenêtre **Fiche loi d'amortissement**, la fenêtre **Feuille compta. immo.** sera utilisée pour valider les transactions pour l'activité.
 
-Le tableau suivant décrit une série de tâches et inclut des liens vers les rubriques qui les décrivent.
+Le tableau suivant décrit une série de tâches et inclut des liens vers les rubriques qui les décrivent.  
 
-| Pour | Voir |  
-|----|-----|  
-|Configurer les comptes généraux par défaut, les clés de ventilation, les modèles feuille et les lots pour la validation des immobilisations et configurer les catégories et sous-catégories d'immobilisation, telles que Corporelles et Incorporelles.|[Procédure : configurer des informations générales pour les immobilisations](fa-how-setup-general.md)|  
-|Créer des lois d'amortissement, définir différentes méthodes d'amortissement, procéder à l'intégration en comptabilité et activer la duplication d'écritures dans plusieurs lois d'amortissement.|[Procédure : configurer un amortissement immobilisation](fa-how-setup-depreciation.md)|
-|Activer l'assurance des immobilisations, configurer les informations générales d'assurance, une fiche assurance par police et préparer les feuilles pour valider les coûts d'assurance.|[Procédure : configurer une assurance immobilisation](fa-how-setup-insurance.md)|
-|Activer la maintenance des immobilisations, configurer les informations générales propres à la maintenance, configurer les comptes de validation de la maintenance et définir les types de travaux de maintenance.|[Procédure : configurer une maintenance d'immobilisation](fa-how-setup-maintenance.md)|
-|En savoir plus sur les différentes méthodes d'amortissement des immobilisations.|[Méthodes d'amortissement](fa-depreciation-methods.md)|
+| Pour | Voir |
+| --- | --- |
+| Configurer les comptes généraux par défaut, les clés de ventilation, les modèles feuille et les lots pour la validation des immobilisations et configurer les catégories et sous-catégories d'immobilisation, telles que Corporelles et Incorporelles. |[Procédure : configurer des informations générales pour les immobilisations](fa-how-setup-general.md) |
+| Créer des lois d'amortissement, définir différentes méthodes d'amortissement, procéder à l'intégration en comptabilité et activer la duplication d'écritures dans plusieurs lois d'amortissement. |[Procédure : configurer un amortissement immobilisation](fa-how-setup-depreciation.md) |
+| Activer l'assurance des immobilisations, configurer les informations générales d'assurance, une fiche assurance par police et préparer les feuilles pour valider les coûts d'assurance. |[Procédure : configurer une assurance immobilisation](fa-how-setup-insurance.md) |
+| Activer la maintenance des immobilisations, configurer les informations générales propres à la maintenance, configurer les comptes de validation de la maintenance et définir les types de travaux de maintenance. |[Procédure : configurer une maintenance d'immobilisation](fa-how-setup-maintenance.md) |
+| En savoir plus sur les différentes méthodes d'amortissement des immobilisations. |[Méthodes d'amortissement](fa-depreciation-methods.md) |
 
 ## <a name="see-also"></a>Voir aussi
-[Gérer des immobilisations](fa-manage.md)  
-[Finance](finance-setup.md)  
-[Bienvenue dans Dynamics NAV](across-get-started.md)
+[Immobilisations](fa-manage.md)  
+[Finances](finance.md)  
+[Bienvenue dans [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

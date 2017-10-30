@@ -1,35 +1,37 @@
 ---
-title: "Procédure : définition des périodes de validation"
+title: "Définir des périodes de validation"
+description: "Vous spécifiez des dates début et fin de validation pour configurer quand les utilisateurs peuvent valider en comptabilité."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+manager: edupont
+editor: 
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 7a332fa1e463b0c5c44c256d5d57803d6d1f48fe
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: user setup
+ms.date: 06/02/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: f5b0f52ecf52329471f33a7533165cb86a54267f
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-specify-posting-periods"></a>Procédure : définition des périodes de validation
-En définissant des périodes de validation, vous limitez la période durant laquelle la validation est autorisée.
+Utilisez des périodes de validation pour spécifier quand les utilisateurs peuvent valider en comptabilité.  
 
 ## <a name="to-specify-posting-periods"></a>Pour définir des périodes de validation
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Paramètres comptabilité**, puis sélectionnez le lien connexe.
-2. Dans la fenêtre **Paramètres comptabilité**, saisissez une date dans le champ **Début période validation** pour spécifier le début de la période.
-3. Saisissez une date dans le champ **Fin période validation** afin de spécifier la fin de la période.
+1. Choisissez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Paramètres comptabilité**, puis sélectionnez le lien connexe.  
+2. Dans la fenêtre **Paramètres comptabilité**, définissez la période en entrant des dates dans les champs **Début période validation** et **Fin période validation**.  
 
-Les dates définies ici s'appliquent à la société et à tous les utilisateurs.
-
-**Remarque** : pour définir une période de validation par utilisateur, accédez à la fenêtre **Paramètres utilisateur**. Si vous entrez des dates dans la fenêtre **Paramètres utilisateur**, les dates entrées dans la fenêtre **Paramètres comptabilité** ne s'appliquent pas à ces utilisateurs.
-
+> [!NOTE]  
+>   Ces périodes de validation s'appliquent à la société et à tous les utilisateurs. Pour autoriser des exceptions, vous pouvez définir différentes périodes de validation pour des utilisateurs spécifiques dans la fenêtre **Paramètres utilisateur**. Ces périodes de validation sont prioritaires sur celles spécifiées dans la fenêtre **Paramètres comptabilité**. Pour plus d'informations, voir la section « Pour configurer des contraintes de temps utilisateur » dans [Procédure : Gérer les utilisateurs et les autorisations](ui-how-users-permissions.md).
 
 ## <a name="see-also"></a>Voir aussi
-[Finance](finance-setup.md)  
-[Exécution des processus de clôture d'exercice](year-how-complete-period-end-processes.md)
+[Finances](finance.md)  
+[Exécution des processus de clôture d'exercice](year-how-complete-period-end-processes.md)  
+[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

@@ -1,32 +1,35 @@
 ---
 title: "Configurer des niveaux hiérarchiques pour les personnes contact"
+description: "Vous pouvez définir un niveau hiérarchique et l'affecter à vos contacts pour indiquer leur position au sein de leur société, par exemple, la direction générale."
+documentationcenter: 
 author: jswymer
-ms.custom: na
-ms.date: 09/16/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 94dac8563a7960e80c065ec83d103378e5ceb1f8
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: relationship, client, prospect
+ms.date: 06/06/2017
+ms.author: jswymer
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: fe8554f0335ef332fc940d020c3f8441d8e1359d
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-# <a name="set-up-organizational-levels-for-contact-persons"></a>Configurer des niveaux hiérarchiques pour les personnes contact
+# <a name="how-to-set-up-organizational-levels-for-contact-persons"></a>Procédure : Configurer des niveaux hiérarchiques pour les personnes contact
 Vous pouvez utiliser les niveaux hiérarchiques sur vos contacts pour qu'ils précisent leur position au sein de la société, par exemple, la direction générale. Vous pouvez utiliser ces informations lors de la saisie de données sur vos contacts.
 
 L'utilisation de niveaux hiérarchiques sur les contacts est un processus en deux étapes. Tout d'abord, vous définissez le code de niveau hiérarchique. Vous ne devez effectuer cette étape qu'une seule fois pour niveau hiérarchique. Une fois que vous disposez d'un code de niveau hiérarchique, vous pouvez commencer à affecter ce code aux personnes contact.
 
-## <a name="define-an-organizational-level-code"></a>Définir un code de niveau hiérarchique
+## <a name="to-define-an-organizational-level-code"></a>Pour définir un code de niveau hiérarchique
 Le code de niveau hiérarchique définit le type ou la catégorie du niveau hiérarchique, par exemple PDG ou DF. Vous pouvez disposer de plusieurs codes de niveau hiérarchique. Pour définir le niveau hiérarchique, vous utilisez la fenêtre **Niveaux organisationnels**.
 
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Niveaux organisationnels**, puis sélectionnez le lien connexe.
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Niveaux organisationnels**, puis sélectionnez le lien connexe.
 2. Sélectionnez l'action **Nouveau**, et entrez un code et une désignation. Vous pouvez saisir pour le code un maximum de 11 caractères, et toute combinaison de chiffres et des lettres.
 
-## <a name="assign-organizational-levels-to-a-contact-person"></a>Affecter des niveaux hiérarchiques à une personne contact
+## <a name="to-assign-organizational-levels-to-a-contact-person"></a>Pour affecter des niveaux hiérarchiques à une personne contact
 Vous pouvez affecter des niveaux hiérarchiques aux personnes contact, mais pas aux sociétés contact. Vous ne pouvez affecter qu'un niveau hiérarchique par contact.
 
 1. Ouvrez le contact.
@@ -36,7 +39,8 @@ Une fois que vous avez affecté des niveaux hiérarchiques à vos contacts, vous
 
 Une fois que vous avez affecté des responsabilités à vos contacts, vous pouvez utiliser ces informations pour sélectionner des contacts pour vos segments. Pour plus d'informations, reportez-vous à [Procédure : ajouter des contacts à des segments](marketing-add-contact-segment.md).
 
-##<a name="see-also"></a>Voir aussi
+## <a name="see-also"></a>Voir aussi
 [Création de sociétés contact](marketing-create-contact-companies.md)  
 [Création de personnes contact](marketing-create-contact-persons.md)  
+[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 

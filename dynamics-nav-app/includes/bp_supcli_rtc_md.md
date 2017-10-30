@@ -1,1 +1,1 @@
-Client Windows Microsoft Dynamics NAV uniquement
+Client Microsoft Dynamics NAV Windows uniquement

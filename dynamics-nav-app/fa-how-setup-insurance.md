@@ -1,56 +1,65 @@
 ---
-title: "Procédure : configurer une assurance immobilisation"
+title: Configurer une assurance immobilisation
+description: "Configurez certaines informations générales d'assurance ainsi qu'une fiche assurance par police pour gérer la couverture d'assurance des immobilisations."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
+ms.prod: dynamics-nav-2017
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 44bb5f20702a01d9fbbc025889ec2bc3191813be
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: policy, coverage
+ms.date: 06/02/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 0c0b553adee7df5979352999c60549b280501926
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-set-up-fixed-asset-insurance"></a>Procédure : configurer une assurance immobilisation
 Pour gérer la couverture d'assurance des immobilisations, vous devez tout d'abord configurer certaines informations générales d'assurance ainsi qu'une fiche assurance par police.
 
-## <a name="to-set-up-general-insurance-information"></a>Pour définir des informations générales relatives aux assurances  
-Pour utiliser les fonctions d'assurance dans Dynamics NAV, vous devez définir certaines informations générales relatives aux assurances.  
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, saisissez **Paramètres immobilisations**, puis sélectionnez le lien connexe.  
-2. Renseignez les champs selon vos besoins. Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.  
+## <a name="to-set-up-general-insurance-information"></a>Pour définir des informations générales relatives aux assurances
+Pour utiliser les fonctions d'assurance dans [!INCLUDE[d365fin](includes/d365fin_md.md)], vous devez définir certaines informations générales relatives aux assurances.  
 
-## <a name="to-set-up-insurance-types"></a>Pour définir des types d'assurance  
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône Page ou état pour la recherche"), saisissez **Paramètres immobilisations**, puis sélectionnez le lien connexe.  
+2. Renseignez les champs selon vos besoins. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]  
+
+## <a name="to-set-up-insurance-types"></a>Pour définir des types d'assurance
 Vous pouvez regrouper vos polices d'assurance en catégories (assurances contre le vol, assurances incendie, etc.). Les types d'assurance sont utilisés sur la fiche assurance.
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, saisissez **Types d'assurance**, puis sélectionnez le lien connexe.  
+
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Types assurance**, puis sélectionnez le lien connexe.  
 2. Renseignez les champs selon vos besoins.
 
-## <a name="to-set-up-insurance-cards"></a>Pour définir des fiches assurance  
+## <a name="to-set-up-insurance-cards"></a>Pour définir des fiches assurance
 Vous pouvez rassembler des informations sur chaque police d'assurance dans la fiche assurance.  
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, saisissez **Assurance**, puis sélectionnez le lien connexe.  
+
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Assurance**, puis sélectionnez le lien connexe.  
 2. Dans la fenêtre **Assurance**, sélectionnez l'action **Nouveau** pour créer une fiche assurance.  
 3. Renseignez les champs selon vos besoins.
 
-## <a name="to-set-up-insurance-journal-templates"></a>Pour définir des modèles feuille assurance  
-Dynamics NAV crée automatiquement un modèle feuille assurance la première fois que vous ouvrez la fenêtre **Feuille assurance**. Vous pouvez cependant définir d'autres modèles feuille. Pour plus d'informations, reportez-vous à [Utilisation des feuilles comptabilité](ui-work-general-journals.md).  
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, saisissez **Modèles feuille assurance**, puis sélectionnez le lien connexe.  
+## <a name="to-set-up-insurance-journal-templates"></a>Pour définir des modèles feuille assurance
+[!INCLUDE[d365fin](includes/d365fin_md.md)] crée automatiquement un modèle feuille assurance la première fois que vous ouvrez la fenêtre **Feuille assurance**. Vous pouvez cependant définir d'autres modèles feuille. Pour plus d'informations, voir [Utilisation des feuilles comptabilité](ui-work-general-journals.md).  
+
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Modèles feuille assurance**, puis sélectionnez le lien connexe.  
 2. Renseignez les champs selon vos besoins.
 
-## <a name="to-set-up-insurance-journal-batches"></a>Pour définir des noms de feuille assurance  
-Vous pouvez définir des feuilles dans un modèle feuille assurance. Les valeurs de la feuille servent de valeurs par défaut si les champs ne sont pas renseignés dans les lignes feuille. Pour en savoir plus, voir [Utiliser des feuilles comptabilité](ui-work-general-journals.md)  
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, saisissez **Modèles feuille assurance**, puis sélectionnez le lien connexe.  
+## <a name="to-set-up-insurance-journal-batches"></a>Pour définir des noms de feuille assurance
+Vous pouvez définir des feuilles dans un modèle feuille assurance. Les valeurs de la feuille servent de valeurs par défaut si les champs ne sont pas renseignés dans les lignes feuille. Pour en savoir plus, reportez-vous à [Utiliser des feuilles comptabilité](ui-work-general-journals.md)  
+
+1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Modèles feuille assurance**, puis sélectionnez le lien connexe.  
 2. Sélectionnez un modèle feuille assurance, puis l'action **Lots**.
 3. Dans la fenêtre **Lots feuille assurance**, renseignez les champs selon vos besoins.
 
-**REMARQUE** : les numéros remplissent une fonction spéciale dans les noms de feuille. Si un nom de feuille ou de modèle feuille indique un numéro, ce numéro est incrémenté automatiquement de 1 à chaque fois que la feuille est validée. Par exemple, si vous saisissez HH1 dans le champ **Nom**, la feuille prend le nom HH2 après validation de la feuille HH1.
+> [!NOTE]  
+>   Les numéros remplissent une fonction spéciale dans les noms de feuille. Si un nom de feuille ou de modèle feuille indique un numéro, ce numéro est incrémenté automatiquement de 1 à chaque fois que la feuille est validée. Par exemple, si vous saisissez HH1 dans le champ **Nom**, la feuille prend le nom HH2 après validation de la feuille HH1.
 
 ## <a name="see-also"></a>Voir aussi
-[Configurer des immobilisations](fa-setup.md)  
-[Gérer des immobilisations](fa-manage.md)  
-[Finance](finance-setup.md)  
-[Bienvenue dans Dynamics NAV](across-get-started.md)
+[Paramétrage d'immobilisations](fa-setup.md)  
+[Immobilisations](fa-manage.md)  
+[Finances](finance.md)  
+[Bienvenue dans [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]](index.md)  
+[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 

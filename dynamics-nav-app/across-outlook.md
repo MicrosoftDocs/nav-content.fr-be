@@ -1,5 +1,5 @@
 ---
-title: "Utiliser Dynamics NAV en tant que boîte de réception professionnelle dans Outlook"
+title: "Utilisation de Dynamics NAV en tant que boîte de réception professionnelle dans Outlook"
 author: edupont04
 ms.custom: na
 ms.date: 09/22/2016
@@ -7,27 +7,27 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 647ebd5d4f47a367c86fc02057e28c514a433aec
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: cf4202c3b7186eb1dd4633f74d2d48664458455e
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
-# <a name="using-dynamics-nav-as-your-business-inbox-in-outlook"></a>Utiliser Dynamics NAV en tant que boîte de réception professionnelle dans Outlook
-Dynamics NAV vous permet désormais de bénéficier de la capacité à gérer les interactions commerciales avec vos clients et fournisseurs, directement dans Microsoft Outlook. Avec le complément Outlook de Dynamics NAV, vous pouvez afficher des informations financières associées à des clients et des fournisseurs, ainsi que créer et envoyer des documents financiers, comme des devis et des factures.  
+# <a name="using-dynamics-nav-as-your-business-inbox-in-outlook"></a>Utilisation de Dynamics NAV en tant que boîte de réception professionnelle dans Outlook
+Dynamics NAV vous permet désormais de gérer les interactions commerciales avec vos clients et fournisseurs, directement dans Microsoft Outlook. Avec le complément Outlook de Dynamics NAV, vous pouvez afficher des informations financières associées à des clients et des fournisseurs, ainsi que créer et envoyer des documents financiers, comme des devis et des factures.  
 
-Certaines sociétés utilisant Office 365 n'autorisent pas leurs utilisateurs de déployer des compléments. Vous devez donc vous assurer que vous disposez d'un abonnement à Office 365 qui comprend le service de messagerie et vous autorise à déployer des compléments. Vous pouvez vous inscrire pour un essai gratuit d'un mois à Office 365 [ici](https://products.office.com/try).  
+Certaines sociétés utilisant Office 365 n'autorisent pas leurs utilisateurs à déployer des compléments. Ainsi vous devez vous assurer que vous disposez d'un abonnement Office 365 comprenant la messagerie et qui vous permet de déployer des compléments. Vous pouvez souscrire un essai gratuit d'1 mois d'Office 365 [ici](https://products.office.com/try).  
 
 ## <a name="get-the-add-in"></a>Obtenir le complément
-Dans Dynamics NAV, un des guides de configuration assistée est **Configurer les macros complémentaires Office**. Le guide vous aide à configurer une connexion entre votre compte Office 365 et Dynamics NAV. Le complément de Dynamics NAV est alors automatiquement ajouté à votre Outlook.  
+Dans Dynamics NAV, l'un des guides de configuration assistée est **Conf. macros complémentaires Office**. Ce guide vous aide à paramétrer une connexion entre votre compte Office 365 et Dynamics NAV. Le complément Dynamics NAV est alors automatiquement ajouté à votre Outlook.  
 
 Le nouveau complément est ajouté au ruban Outlook, et dans Outlook Web Access il apparaît dans le ruban des compléments, situé juste au-dessus du corps du message.  
 
 ## <a name="using-the-add-in"></a>Utilisation du complément
-Lorque vous recevez un message d'un client, directement dans Outlook, vous pouvez ouvrir le complément Dynamics NAV, qui identifie Jim comme un client, et ouvre la fiche client de sa société, Coho Winery. À partir de ce tableau de bord, vous pouvez afficher des informations générales relatives au client, ainsi que rechercher davantage de détails sur des documents spécifiques. Vous pouvez également effectuer des recherches approfondies dans l'historique des ventes du client.
+Lorsque vous recevez un message d'un client, directement dans Outlook, vous pouvez ouvrir le complément  Dynamics NAV, qui identifie le client et ouvre la fiche client de sa société. À partir de ce tableau de bord, vous pouvez afficher des informations générales relatives au client, ainsi que rechercher davantage de détails sur des documents spécifiques. Vous pouvez également effectuer des recherches approfondies dans l'historique des ventes du client.
 Dans le complément, vous pouvez créer un devis et l'envoyer à ce client sans quitter Outlook. Toutes les informations dont vous avez besoin pour envoyer le devis sont disponibles dans votre boîte de réception professionnelle dans Outlook.  
 Une fois les données saisies, vous pouvez valider le devis. Vous pouvez ensuite l'envoyer par e-mail. Dynamics NAV génère un fichier .PDF avec le devis et le joint au message électronique que vous rédigez dans le complément.  
 
@@ -44,7 +44,7 @@ Dans le complément Liens de document, vous pouvez modifier le document et effec
 
 ## <a name="see-also"></a>Voir aussi
 [Bienvenue dans Dynamics NAV](across-get-started.md)  
-[Finance](finance-setup.md)  
+[Finances](finance.md)  
 [Gestion des ventes](sales-manage-sales.md)  
 [Gestion des achats](purchasing-manage-purchasing.md)  
 

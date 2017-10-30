@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 18237c4b755926222a36bc97dec5d6783c11454d
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 1b7a293982dfc7ff73c163ad1711e2bce098e98e
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -34,6 +34,6 @@ En outre, vous pouvez configurer un axe analytique par défaut pour chaque type 
 Enfin, vous pouvez également rendre un axe analytique obligatoire afin qu'il soit impossible de valider une écriture avec un type de compte spécifique sauf si une section analytique lui est affectée.
 
 ## <a name="see-also"></a>Voir aussi
-[Axes analytiques](finance-setup-dimensions.md)  
-[Configurer les processus financiers de base](finance-setup-setup-finance-setup.md)
+[Utilisation des axes analytiques](finance-dimensions.md)  
+[Configurer les processus financiers de base](finance-setup-finance.md)
 

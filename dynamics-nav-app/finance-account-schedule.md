@@ -7,12 +7,12 @@ ms.reviewer: na
 ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
-ms-prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: ba67e7e09f4375cbdbf53f401fd0f3d83450c9ec
+ms.prod: dynamics-nav-2017
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 5a072d9b0984adf8bf4ab89fb26d658cb13f50f0
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -27,9 +27,9 @@ Vous pouvez utiliser l'une des présentations par défaut pour votre tableau d'a
 Vous pouvez donc créer autant d'états financiers personnalisés que vous le souhaitez. Utilisez la fenêtre **Tableau d'analyse** pour configurer les tableaux d'analyse.  
 
 ## <a name="account-categories-and-account-schedules"></a>Catégories de compte et tableaux d'analyse
-Vous pouvez utiliser les catégories de compte pour modifier la présentation de vos états financiers. Une fois que vous avez configuré vos catégories de compte dans la fenêtre **Catégories de compte général**, et que vous sélectionnez l'action **Générer les tableaux d'analyse**, les tableaux d'analyse sous-jacents pour les états financiers de base sont mis à jour. La prochaine fois que vous exécutez l'un de ces états, par exemple le solde relevé, de nouveaux totaux et des sous-entrées sont ajoutés, en fonction de vos modifications. Pour plus d'informations, reportez-vous à [Les écritures comptables et le plan comptable](finance-setup-general-ledger.md).    
+Vous pouvez utiliser les catégories de compte pour modifier la présentation de vos états financiers. Une fois que vous avez configuré vos catégories de compte dans la fenêtre **Catégories de compte général**, et que vous sélectionnez l'action **Générer les tableaux d'analyse**, les tableaux d'analyse sous-jacents pour les états financiers de base sont mis à jour. La prochaine fois que vous exécutez l'un de ces états, par exemple le solde relevé, de nouveaux totaux et des sous-entrées sont ajoutés, en fonction de vos modifications. Pour plus d'informations, reportez-vous à [Les écritures comptables et le plan comptable](finance-general-ledger.md).    
 ## <a name="see-also"></a>Voir aussi
-[Finance](finance-setup.md)  
-[Configuration de la finance](finance-setup-setup-finance-setup.md)  
-[Les écritures comptables et le plan comptable](finance-setup-general-ledger.md)  
+[Finance](finance.md)  
+[Configuration de la finance](finance-setup-finance.md)  
+[Les écritures comptables et le plan comptable](finance-general-ledger.md)  
 

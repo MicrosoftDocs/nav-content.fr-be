@@ -8,11 +8,11 @@ ms.suite: na
 ms.tgt_pltfrm: na
 ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: a2268d8454af761c40b11d89b01778a3f92090fb
+ms.translationtype: HT
+ms.sourcegitcommit: 6b60b1344a1e18ad91863046110df880f75f7c04
+ms.openlocfilehash: 15f30a03c3e7ccc865ef527a707794c2c6428b2f
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
 
@@ -26,7 +26,7 @@ Pour activer les paiements client via Paypal, vous devez effectuer les opératio
 1. Configurer PayPal Payments Standard comme service de paiement dans la fenêtre **Services de paiement**.
 2. Sélectionnez PayPal Payments Standard dans le champ **Service de paiement** du document vente en question.
 
-Le service PayPal Payments Standard est installé comme extension de Dynamics NAV et prêt à être activé. Pour en savoir plus, voir [Personnalisation de Dynamics NAV à l'aide des extensions ](ui-extensions.md).
+Le service PayPal Payments Standard est installé comme extension de Dynamics NAV et est prêt à être activé. Pour plus d'informations, voir [Personnalisation de Dynamics NAV à l'aide des extensions](ui-extensions.md).
 
 ## <a name="to-enable-the-paypal-payments-standard-service"></a>Pour activer le service PayPal Payments Standard
 1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Services de paiement**, puis sélectionnez le lien connexe.  

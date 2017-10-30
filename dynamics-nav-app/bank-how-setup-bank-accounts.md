@@ -1,31 +1,57 @@
 ---
-title: "Procédure : configuration de comptes bancaires"
+title: Configuration des comptes bancaires
+description: "Vous pouvez rapprocher des comptes bancaires dans Dynamics NAV avec les relevés de la banque."
+documentationcenter: 
 author: SorenGP
-ms.custom: na
-ms.date: 09/22/2016
-ms.reviewer: na
-ms.suite: na
-ms.tgt_pltfrm: na
-ms.topic: article
 ms.prod: dynamics-nav-2017
-ms.translationtype: Human Translation
-ms.sourcegitcommit: 51adfb3588099c496f0946ff71da5c6fe518f070
-ms.openlocfilehash: 9a23b88053e20c9b78adb140078b5cead02eff26
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: feed, stream
+ms.date: 09/26/2017
+ms.author: sgroespe
+ms.translationtype: HT
+ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
+ms.openlocfilehash: 3581615fe94006aa9245f5e66fe6cf475b22acfb
 ms.contentlocale: fr-be
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 10/16/2017
 
 ---
-
 # <a name="how-to-set-up-bank-accounts"></a>Procédure : configuration de comptes bancaires
-Le programme vous permet de gérer vos transactions bancaires dans Dynamics NAV à l'aide des comptes bancaires. Les comptes peuvent être en devise société ou en devise étrangère. Après avoir configuré des comptes bancaires, vous pouvez aussi utiliser l'option d'impression de chèque.
+[!INCLUDE[d365fin](includes/d365fin_md.md)] vous permet de gérer vos transactions bancaires à l'aide des comptes bancaires. Les comptes peuvent être en devise société ou en devise étrangère. Après avoir configuré des comptes bancaires, vous pouvez aussi utiliser l'option d'impression de chèque.
 
-1. Dans le coin supérieur droit, sélectionnez l'icône **Page ou état pour la recherche**, entrez **Comptes bancaires**, puis sélectionnez le lien connexe.
+## <a name="to-set-up-bank-accounts"></a>Pour configurer des comptes bancaires
+1. Choisissez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Comptes bancaires**, puis sélectionnez le lien connexe.
 2. Dans la fenêtre **Comptes bancaires**, sélectionnez l'action **Nouveau**.
-3. Renseignez les champs selon vos besoins. Choisissez un champ pour lire une brève description du champ ou du lien vers plus d'informations.
+3. Renseignez les champs selon vos besoins. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
 
-**Remarque** : les champs du raccourci **Virement** sont associés à l'importation/exportation des flux et des fichiers bancaires. Pour plus d'informations, reportez-vous à [Procédure: configurer le service de conversion de données bancaires](bank-how-setup-bank-data-conversion-service.md).
+> [!NOTE]
+> Pour renseigner le champ **Solde** avec un solde ouvert, vous devez valider une écriture comptable compte bancaire avec le montant en question. Vous pouvez effectuer cette opération en effectuant un rapprochement bancaire. Pour plus d'informations, reportez vous à [Procédure : rapprocher des comptes bancaires séparément](bank-how-reconcile-bank-accounts-separately.md). Sinon, vous pouvez appliquer le solde ouvert dans le cadre de la création des données générales de nouvelles sociétés à l'aide de la configuration assistée **Effectuer migration données métier**. Pour en savoir plus, voir [Bienvenue dans [!INCLUDE[d365fin](includes/d365fin_md.md)](index.md).
 
-## <a name="see-also"></a>Voir aussi  
-[Configuration des opérations bancaires](bank-setup-banking.md)  
-[Gérer les comptes bancaires](bank-manage-bank-accounts.md)
+## <a name="to-set-up-your-bank-account-for-import-or-export-of-bank-files"></a>Pour configurer votre compte bancaire pour importer ou exporter des fichiers bancaires
+Les champs du raccourci **Transfert** de la fenêtre **Fiche compte bancaire archivé** sont associés à l'importation/exportation des flux et des fichiers bancaires. Pour plus d'informations, reportez-vous à [Procédure : configurer le service de conversion de données bancaires](bank-how-setup-bank-data-conversion-service.md).
+
+1. Choisissez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Comptes bancaires**, puis sélectionnez le lien connexe.
+2. Ouvrez la fiche d'un compte bancaire pour lequel vous exporterez ou importerez des fichiers bancaires.
+3. Sur le raccourci **Transfert**, complétez les champs, comme nécessaire. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+> [!NOTE]  
+>   Différents services d'exportation de fichiers et leurs formats nécessitent des valeurs de configuration différentes dans la fenêtre **Fiche compte bancaire**. Vous serez informé si des valeurs de configuration sont manquantes ou fausses alors que vous essayez d'exporter le fichier. Lisez bien les courtes descriptions des champs ou reportez-vous aux rubriques de procédure associées. Par exemple, pour exporter un fichier de paiement pour un transfert électronique de fonds, les champs **Dernier n° avis de remise** et **N° interne** sont remplis. Pour plus d'informations, reportez-vous à [Procédure : exportation de paiements vers un fichier bancaire](payables-how-export-payments-bank-file.md).
+
+## <a name="to-set-up-vendor-bank-accounts-for-export-of-bank-files"></a>Pour configurer des comptes bancaires fournisseur pour exporter des fichiers bancaires
+Les champs du raccourci **Transfert** de la fenêtre **Fiche compte bancaire fourn.** sont associés à l'exportation des flux et des fichiers bancaires. Pour plus d'informations, reportez-vous à [Procédure : configurer le service de conversion de données bancaires](bank-how-setup-bank-data-conversion-service.md) et [Procédure : exportation de paiements vers un fichier bancaire](payables-how-export-payments-bank-file.md).
+
+1. Choisissez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Comptes bancaires**, puis sélectionnez le lien connexe.
+2. Ouvrez la fiche d'un fournisseur pour le compte bancaire duquel vous exporterez des fichiers bancaires.
+3. Choisissez l'option **Comptes bancaires**.
+3. Renseignez les champs selon vos besoins dans la fenêtre **Fiche compte bancaire fourn.** du raccourci **Transfert**. [!INCLUDE[tooltip-inline-tip](includes/tooltip-inline-tip_md.md)]
+
+## <a name="to-set-the-opening-balance-on-new-bank-accounts"></a>Pour définir le solde ouvert sur de nouveaux comptes bancaires
+
+
+## <a name="see-also"></a>Voir aussi
+[Paramétrage des opérations bancaires](bank-setup-banking.md)  
+[Gestion des comptes bancaires](bank-manage-bank-accounts.md)  
+[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)
 
