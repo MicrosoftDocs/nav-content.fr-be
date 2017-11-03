@@ -12,10 +12,10 @@ ms.search.keywords: accounting, auditing, bookkeeping
 ms.date: 08/10/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 4fbd005dce27b7afdf926704f97f3908cb3db803
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: f3d7c01b079b6af60505fc232faf0d9c5ac393cd
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="setting-up-finance"></a>Configuration de Finance
@@ -39,12 +39,12 @@ Le tableau suivant décrit une série de tâches et inclut des liens vers les ru
 | Configurer l'état intracommunautaire et envoyer-le à une administration | [Procédure : configurer et enregistrer un état intracommunautaire](finance-how-setup-report-intrastat.md)|
 
 ## <a name="see-also"></a>Voir aussi
-[Finances](finance.md)]  
+[Finances](finance.md)  
 [Gestion des comptes bancaires](bank-manage-bank-accounts.md)  
 [Utilisation des axes analytiques](finance-dimensions.md)  
 [Importation des données métier à partir d'autres systèmes financiers](upload-data.md)  
 [Analyse de la trésorerie dans votre société](finance-analyze-cash-flow.md)  
 [Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)  
 
-## 
+##
 

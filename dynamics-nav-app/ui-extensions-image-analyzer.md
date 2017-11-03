@@ -12,14 +12,14 @@ ms.search.keywords: API, extension, Cognitive Services, image, computer vision, 
 ms.date: 06/19/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8df580f599db12ab2f56a3bbeeb880fa12afb081
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 08a832708dcbb550e880d2a669af265b2fb670b5
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
-# <a name="the-image-analyzer-extension-for-microsoft-dynamics-nav"></a>L'extension d'analyseur Image pour Microsoft Dynamics NAV
+# <a name="the-image-analyzer-extension-for-includenavnowincludesnavnowmdmd"></a>L'extension d'analyseur Image pour [!INCLUDE[navnow](includes/navnow_md.md)]
 L'extension d'analyseur Image utilise les analyses d'image puissantes fournies par l'API Vision par ordinateur de Microsoft Cognitive Services pour détecter des attributs dans les images que vous importez pour des articles et des contacts, afin de les examiner et de les affecter facilement. Pour les articles, les attributs peuvent être si l'article est une table ou une voiture et, s'il est rouge ou bleu. Pour les contacts, les attributs peuvent être le sexe ou l'âge.
 
 L'analyseur Image propose des attributs basés sur des balises trouvées par l'API Vision par ordinateur et un niveau de confiance. Par défaut, il propose des attributs uniquement s'il est sûr à au moins 80 % que l'attribut est correct. Vous pouvez définir un autre niveau de confiance, si nécessaire. Pour en savoir plus sur la manière dont les balises et le niveau de confiance sont déterminés, voir [API Vision par ordinateur](https://go.microsoft.com/fwlink/?linkid=851476).  
@@ -48,12 +48,12 @@ L'extension d'analyseur Image est intégrée à [!INCLUDE[d365fin](includes/d365
 > Pour activer l'extension d'analyseur Image, vous devez être un administrateur. Assurez-vous que vous disposez de l'ensemble d'autorisations d'utilisateur **SUPER**.
 
 1. Pour activer l'extension d'analyseur Image, effectuez l'une des actions suivantes :
-  
+
 * Ouvrez une fiche Article ou Contact. Dans la barre de notification, choisissez **Analyser les images**, puis suivez la procédure du guide de configuration assistée.  
 * Choisissez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Connexions au service**, puis sélectionnez **Configuration de l’analyse de l’image**. Activez la case à cocher **Activer l'analyseur Image**, puis suivez la procédure du guide de configuration assistée.  
 
 >   [!TIP]  
->   La page **Configuration de l’analyse de l’image** vous permet également de modifier le degré de confiance des suggestions d'attribut. Par exemple, si vous souhaitez avoir besoin d'un niveau de confiance supérieur, vous pouvez saisir un pourcentage plus élevé. 
+>   La page **Configuration de l’analyse de l’image** vous permet également de modifier le degré de confiance des suggestions d'attribut. Par exemple, si vous souhaitez avoir besoin d'un niveau de confiance supérieur, vous pouvez saisir un pourcentage plus élevé.
 
 ## <a name="to-analyze-an-image-of-an-item"></a>Pour analyser la photo d'un article
 Les étapes suivantes décrivent comment analyser une image importée avant que vous ayez activé l'extension d'analyseur Image.  
@@ -74,16 +74,16 @@ Les étapes suivantes décrivent comment analyser une image importée avant que 
 
 ## <a name="to-use-your-own-account-for-the-computer-vision-api"></a>Pour utiliser vôtre propre compte pour l'API Vision par ordinateur
 Vous pouvez également utiliser votre propre compte pour l'API Vision par ordinateur, par exemple, si vous souhaitez analyser plus d'images qu'autorisé.  
-  
+
 1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Configuration de l'analyseur Image**, puis sélectionnez le lien connexe.  
 2. Entrez l'**URI d'API** et la **clé d'API** que vous avez reçus pour l'API Vision par ordinateur.  
-  
+
 >   [!NOTE]  
 >   Vous devez ajouter **/analyze** à la fin de l'URI d'API, si ce n'est pas déjà le cas. Par exemple : ```https://cronus.api.cognitive.microsoft.com/vision/v1.0/analyze```
 
 ## <a name="to-see-how-many-analyses-you-have-left-in-the-current-period"></a>Pour visualiser le nombre d'analyses restant pour la période en cours
 Vous pouvez afficher le nombre d'analyses effectué, et le nombre restant, pour la période actuelle.  
-  
+
 1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Configuration de l'analyseur Image**, puis sélectionnez le lien connexe.  
 2. **Type limite**, **Valeur limite** et **Analyses effectuées** vous fournissent des informations sur l'utilisation.  
 
@@ -95,5 +95,4 @@ Vous pouvez afficher le nombre d'analyses effectué, et le nombre restant, pour 
 [Procédure : utilisation des attributs d'article](inventory-how-work-item-attributes.md)  
 [Personnalisation de [!INCLUDE[d365fin](includes/d365fin_md.md)] à l'aide des extensions](ui-extensions.md)  
 [Bienvenue dans [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
-
 

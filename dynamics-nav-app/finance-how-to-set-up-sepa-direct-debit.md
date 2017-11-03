@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/21/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d5bd6388db1d72d6be0fb193a51df620e7e059c2
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b768f78cd8ef7f6981e5e148fee5f61e9ab922ee
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-sepa-direct-debit"></a>Procédure : configurer un prélèvement SEPA
@@ -38,7 +38,7 @@ Avant de pouvoir traiter les paiements client par voie électronique en exportan
 2. Sélectionnez l'action **Nouveau**.  
 3. Configurez un mode de règlement. Remplissez les champs relatifs au prélèvement automatique comme indiqué dans le tableau ci-dessous.  
 
-    |Champ|[Description|  
+    |Champ|Désignation|  
     |---------------------------------|---------------------------------------|  
     |**Prélèvement**|Spécifie si le mode de paiement est utilisé pour une collection prélèvement automatique SEPA.|  
     |**Code conditions paiem. prélèvement**|Spécifiez les conditions de paiement, par exemple NE PAS PAYER, qui sont affichées sur les factures vente payées par prélèvement automatique SEPA pour indiquer au client que le paiement sera collecté automatiquement. Vous pouvez également laisser le champ vide.|  
@@ -59,7 +59,7 @@ Avant de pouvoir traiter les paiements client par voie électronique en exportan
 4. Dans la fenêtre **Liste des comptes bancaires client**, sélectionnez le compte bancaire client utilisé pour les prélèvements automatique puis, sous l'onglet **Accueil**, dans le groupe **Processus**, cliquez sur **Mandats prélèvement automatique**.  
 5. Dans la fenêtre **Mandats de prélèvement SEPA**, renseignez les champs comme indiqué dans le tableau suivant.  
 
-    |[Champ|Description]|  
+    |Champ|Désignation|  
     |---------------------------------|---------------------------------------|  
     |**Code compte bancaire client**|Spécifie le compte bancaire à partir duquel les prélèvements automatiques sont collectés. Ce champ est complété automatiquement.|  
     |**Valide à partir de**|Spécifie la date à laquelle le mandat de prélèvement commence.|  

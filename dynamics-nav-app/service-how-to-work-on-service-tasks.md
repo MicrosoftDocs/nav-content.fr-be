@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 44f01241825a95d6e34ee838a36474f1dd347873
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 3e8fd9d1e56de77c54f5190d97f95faa0702908e
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-on-service-tasks"></a>Procédure : travailler sur des tâches service
@@ -83,7 +83,7 @@ La maintenance d'un article de service constitué de plusieurs composants peut n
     |**ignorer**|N'apporte aucune modification à la liste des composants de l'article de service.|  
   
 7. Cliquez sur **Remplacer composant**.  
-8. Choisissez le composant à remplacer, puis choisissez **OK**.  
+8. Choisissez le composant à remplacer, puis choisissez le bouton **OK**.  
 
 ## <a name="to-change-the-response-time-for-a-service-item-line"></a>Pour modifier le délai de réponse pour une ligne article de service  
 Lorsque vous enregistrez des lignes article de service dans une commande ou un devis service, selon que l'article de service se trouve sur un contrat de service, le temps de réponse en heures est automatiquement saisi et la date et l'heure de réponse sont calculées en conséquence. Vous pouvez modifier le délai de réponse en heures, la date et le délai de réponse, si nécessaire.  

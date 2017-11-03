@@ -12,17 +12,17 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a098c397ac5df5501c4c2d7d12cb2f74b2b50d63
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 4f6f266744fea45ec157d5059216d547a4be7ebf
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # Comment configurer des protocoles d'exportation
 Avant de pouvoir utiliser la banque électronique, vous devez configurer des protocoles d'exportation. Les protocoles d'exportation définissent le format de fichier généré lorsque vous exportez l'historique des paiements à traiter par la banque. Chaque ligne contient un protocole d'exportation identifié par un code et une description. Vous pouvez configurer autant de protocoles d'exportation que vous le souhaitez. Vous devez configurer un protocole d'exportation pour les paiements nationaux, internationaux, SEPA et SEPA non libellés en Euro.  
-  
+
  Les protocoles d'exportation vous permettent d'attribuer le codeunit qui définit le contrôle à effectuer avant l'exportation des lignes de paiement dans un fichier et l'état qui définit le format de paiement. Par exemple, vous pouvez avoir un protocole d'exportation nommé **DOM1**. Celui-ci contient le codeunit de contrôle **Vérifier les paiements intérieurs** et l'état **Classer les paiements intérieurs**. Chaque protocole d'exportation est associé à un codeunit de contrôle et à un état correspondant, comme indiqué dans le tableau suivant.  
-  
+
 |**Vérifier ID objet**|**Exporter ID objet**|  
 |-------------------------|--------------------------|  
 |2000002 Vérifier les paiements intérieurs|État 2000001 Classer les paiements intérieurs|  
@@ -30,17 +30,15 @@ Avant de pouvoir utiliser la banque électronique, vous devez configurer des pro
 |2000004 Vérifier les paiements SEPA|État 2000005 Classer les paiements SEPA|  
 |2000005 Vérifier les paiements SEPA non libellés en Euro|État 2000006 Classer les paiements SEPA non libellés en Euro|  
 |Si cette option ne vous intéresse pas, définissez-la sur zéro ou sélectionnez-en une autre.|XMLport 1000 (SEPA pain.001.001.03 Payments)|  
-  
+
  Après avoir configuré des protocoles d'exportation, vous pouvez les utiliser dans vos feuilles paiement de banque électronique.  
-  
-### Pour configurer un protocole d'exportation  
-  
-1.  Sélectionnez l'icône ![Rechercher une page ou un état](media/ui-search/search_small.png "icône Rechercher une page ou un état"), entrez **Protocoles d'exportation**, puis sélectionnez le lien correspondant.  
-  
-2.  Dans l'onglet **Accueil**, dans le groupe **Nouveau**, sélectionnez **Nouveau**.  
-  
+
+## Pour configurer un protocole d'exportation  
+
+1.  Sélectionnez l'icône ![Rechercher une page ou un état](../../media/ui-search/search_small.png "icône Rechercher une page ou un état"), entrez **Protocoles d'exportation**, puis sélectionnez le lien correspondant.  
+2.  Choisissez l'action **Nouveau**.  
 3.  Dans la fenêtre **Protocoles d'exportation**, renseignez les champs comme indiqué dans le tableau suivant.  
-  
+
     |Champ|Description|  
     |---------------------------------|---------------------------------------|  
     |**Code**|Spécifiez un code unique qui identifie le protocole d'exportation.|  
@@ -51,12 +49,11 @@ Avant de pouvoir utiliser la banque électronique, vous devez configurer des pro
     |**Exporter type objet**|Spécifiez le type de l'objet qui définit le format de l'exportation du fichier de paiement. Une fois l'option **Exporter ID objet** sélectionnée, ce champ contiendra l'option **Exporter type objet**.<br /><br /> **NOTE :** pour configurer le protocole d'exportation pour SEPA pain.001.001.03, sélectionnez **XMLPort**.|  
     |**Exporter ID objet**|Spécifiez le numéro d'identification de l'objet qui définit le format de l'exportation du fichier de paiement. Par exemple, si vous sélectionnez **2000002**, le format d'exportation pour le fichier paiement sera **Classer les paiements étrangers**.<br /><br /> **NOTE :** pour configurer le protocole d'exportation pour SEPA pain.001.001.03, sélectionnez XMLport **1000**.|  
     |**Souche de n° d'exportation**|Spécifiez la souche de numéros qui est utilisée pour affecter des numéros d'identification à l'exportation du fichier de paiement.|  
-  
+
 4.  Cliquez sur le bouton **OK**.  
-  
+
 ## Voir aussi  
  [Paiements électroniques belges](belgian-electronic-payments.md)   
- Protocoles d'exportation   
- Protocole d'exportation   
  [Comment créer des modèles et lots feuille paiement](how-to-create-payment-journal-templates-and-batches.md)   
  [Comment tester les paiements électroniques](how-to-test-electronic-payments.md)
+

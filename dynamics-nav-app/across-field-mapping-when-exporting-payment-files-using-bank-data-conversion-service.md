@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 853638b75e426e3eae383f3b5cc3a5d139c8885f
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 7eebca3303e9844e4ec8be2940104f9cb7216f6a
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="field-mapping-when-exporting-payment-files-using-bank-data-conversion-service"></a>Mappage de champs lors de l'exportation de fichiers de paiement à l'aide du service conversion données bancaires
@@ -25,7 +25,7 @@ Lorsque vous exportez des fichiers de paiement à l'aide de la fonction Service 
 
 Le tableau suivant répertorie les champs de [!INCLUDE[d365fin](includes/d365fin_md.md)] à partir desquels les données peuvent être exportées au fournisseur de service.  
 
-|Champ associé|Champ dans Tableau|Table|Description]-->|  
+|Champ associé|Champ dans Tableau|Table|Désignation|  
 |------------------|--------------------|-----------|---------------------------------------|  
 |N° créditeur|N° créditeur|Compte bancaire|L'identifiant affecté à votre société par votre banque pour encaisser les paiements|  
 |N° cpte bancaire émetteur|N° compte bancaire/IBAN|Compte bancaire|Le numéro du compte bancaire de votre société (IBAN ou autre) qui est spécifié sur la fiche compte bancaire|  

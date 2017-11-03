@@ -12,10 +12,10 @@ ms.search.keywords: trade, sell, configure
 ms.date: 08/23/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 300f281cc409e08a253f060e97bb9a80340176bf
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: 620d8d2fcdc62249ce5bad6718519211e50cdbac
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
 # <a name="setting-up-sales"></a>Définition des ventes.
@@ -35,7 +35,7 @@ La configuration des ventes en relation avec les finances, comme les modes de r�
 | Configurer les vendeurs de sorte à pouvoir les affecter aux contacts client ou à évaluer les performances des vendeurs et vous en servir comme base pour calculer la commission et les bonus. |[Procédure : configurer des vendeurs](sales-how-setup-salespeople.md) |
 | Spécifier pour différents clients ou pour tous les clients le moyen par lequel les documents vente sont envoyés par défaut lorsque vous sélectionnez l'action **Valider et envoyer**. |[Procédure : configurer des profils d'envoi de documents](sales-how-setup-document-send-profiles.md) |
 | Configurer votre e-mail de sorte qu'il contienne un résumé des informations du document vente qui est envoyé. |[Procédure : envoyer des documents par e-mail](ui-how-send-documents-email.md). |
-|Utilisez un service Web UE pour vérifier le numéro d'immatriculation de TVA d'un client.|[Procédure : Vérifier les numéros d'identification intracomm.](sales-how-to-verify-vat-registration-numbers.md)|
+|Utilisez un service Web UE pour vérifier le numéro d'immatriculation de TVA d'un client.|[Procédure : Vérifier les numéros d'identification intracomm.](finance-setup-vat.md)|
 |Entrer des informations sur les différents transporteurs utilisés, notamment un lien vers les prestations de traçabilité des colis.|[Procédure : configurer des transporteurs](sales-how-to-set-up-shipping-agents.md)|
 
 ## <a name="see-also"></a>Voir aussi

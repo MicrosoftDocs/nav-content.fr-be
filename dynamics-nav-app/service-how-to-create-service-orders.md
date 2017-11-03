@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca6e6f1fd6bf6c9d9a26a9e42fca8b9c4931f89d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: aa0578c7311fcd997653c6dc6d31325abd1d367c
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-create-service-orders"></a>Procédure : créer des commandes service
@@ -100,7 +100,7 @@ Le programme ne supprime pas la commande service automatiquement cependant, si l
 
 1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Supprimer commandes service facturées**, puis sélectionnez le lien connexe. La fenêtre de demande du traitement par lots **Supprimer commandes service facturées** s'ouvre.  
 2. Pour sélectionner les commandes à supprimer, vous pouvez positionner des filtres dans les champs **N°**, **N° client** et **N° client facturé**. .  
-3. Cliquez sur **OK**.  
+3. Choisissez le bouton **OK**.  
 
 
 ## <a name="see-also"></a>Voir aussi  

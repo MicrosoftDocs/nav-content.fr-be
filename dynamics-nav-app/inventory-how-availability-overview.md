@@ -12,10 +12,10 @@ ms.search.keywords: stock
 ms.date: 08/15/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b046027ef9327603b58111ba578dfe1c5254d081
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 81872839df11a13489bbc192ad97dae04976ebb0
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-view-the-availability-of-items"></a>Procédure : voir la disponibilité des articles
@@ -26,10 +26,10 @@ Vous pouvez afficher la disponibilité de tous les articles par emplacement, et 
 > [!NOTE]  
 >   Les vues de disponibilité par magasin nécessitent la mise à jour de stock dans plusieurs magasins. Pour plus d'informations, reportez-vous à [Procédure : Configurer des magasins](inventory-how-setup-locations.md).
 
-Dans [Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)], les chiffres de disponibilité sont affichés dans deux champs de définition différents.
+Dans [!INCLUDE[d365fin](includes/d365fin_md.md)], les chiffres de disponibilité sont affichés dans deux champs de définition différents.
 
 * Le champ **Quantité disponible** affiche la quantité réelle en fonction des écritures comptables articles validées.
-* Le champ **Stock prévisionnel** est calculé et affiche la quantité disponible plus les réceptions planifiées moins les besoins bruts. (Dans [Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)], les réceptions planifiées incluent des quantités sur des commandes achat et des ordres de transfert enlogement. Les besoins bruts incluent des quantités sur les commandes vente et les désenlogements transfert.)
+* Le champ **Stock prévisionnel** est calculé et affiche la quantité disponible plus les réceptions planifiées moins les besoins bruts. (Dans [!INCLUDE[d365fin](includes/d365fin_md.md)], les réceptions planifiées incluent des quantités sur des commandes achat et des ordres de transfert enlogement. Les besoins bruts incluent des quantités sur les commandes vente et les désenlogements transfert.)
 
 > [!TIP]  
 >   Le stock prévisionnel disponible s'avère particulièrement utile dans les fenêtres **Disponibilité art. par période** et **Disponibilité article par événement** car ils contiennent l'axe de date.  
@@ -102,7 +102,7 @@ La fenêtre **Disponibilité assemblage** affiche des informations de disponibil
 
 - Automatiquement à partir d'une ligne commande vente dans les scénario Assembler pour commande lorsque vous entrez une quantité à l'origine d'un problème de disponibilité des composants.
 - Automatiquement à partir d'un en-tête d'ordre d'assemblage lorsque vous entrez une valeur dans le champ Quantité à l'origine d'un problème de disponibilité des composants.
-- Manuellement lorsque vous l'ouvrez à partir d'un ordre d'assemblage. Sur l'onglet Actions , dans le groupe Fonctions, cliquez sur Afficher disponibilité.
+- Manuellement lorsque vous l'ouvrez à partir d'un ordre d'assemblage. Sur l'onglet Actions, dans le groupe Fonctions, choisissez Afficher disponibilité.
 
 Le raccourci **Détails** affiche des informations de disponibilité détaillées pour l'élément d'assemblage, dont la part de la quantité d'ordre d'assemblage pouvant être assemblée d'ici la date d'échéance sur la base de la disponibilité des composants requis. Cela s'affiche dans le champ Capacité d'assembler sur le raccourci Détails .
 

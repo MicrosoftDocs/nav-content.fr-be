@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 2f6b2b6809ef2a8421b677c7f7b2d2c724b5664f
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 3ddac8fe7edaded893d7bf63538e3145dead0602
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-set-up-electronic-document-sending-and-receiving"></a>Procédure : Configurer l'envoi et la réception de documents électroniques
@@ -100,7 +100,7 @@ La rubrique contient les procédures suivantes :
 ### <a name="to-select-the-peppol-electronic-document-format-for-electronic-document-sending"></a>Sélectionner le format de document électronique PEPPOL pour l'envoi d'un document électronique  
 1. Dans la zone **Rechercher**, entrez **Profils d'envoi de documents**, puis choisissez le lien associé.  
 2. Ouvrez un profil existant d'envoi de document, ou créez-en un. Pour plus d'informations, reportez vous à [Procédure : configurer des profils d'envoi de documents](sales-how-setup-document-send-profiles.md).  
-3. Dans la fenêtre **Profil d'envoi de documents**, choisissez le **Format électronique**, sélectionnez la ligne associée à PEPPOL, puis sélectionnez **OK**.  
+3. Dans la fenêtre **Profil d'envoi de documents**, choisissez le **Format électronique**, sélectionnez la ligne associée à PEPPOL, puis choisissez le bouton **OK**.  
 4. Dans le champ **Document électronique**, sélectionnez **Oui (via le service d'échange de documents)**.  
 
     > [!NOTE]  

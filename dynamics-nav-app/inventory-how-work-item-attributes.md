@@ -12,10 +12,10 @@ ms.search.keywords: categories, search words, facets
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: afc4e69a427fc2a1d97037489dda99486ddb010a
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 32de1ddb65b2862ae1e1223bb386cd332cb43a3d
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-work-with-item-attributes"></a>Procédure : utilisation des attributs d'article
@@ -24,7 +24,7 @@ Lorsque les clients recherchent des renseignements au sujet d'un article, par co
 Vous pouvez également allouer les attributs d'article aux catégories d'article, qui s'appliquent ensuite aux articles qui utilisent les catégories d'article. Pour plus d'informations, voir [Procédure : catégoriser des articles](inventory-how-categorize-items.md).
 
 > [!Tip]  
-> Si vous joignez des images aux articles, l'extension Analyseur Image peut détecter les attributs dans l'image, et suggérer des attributs que vous pouvez décider d'affecter ou non. L'extension est prête. Vous devez juste l'activer. Pour plus d'informations, voir [Extension d'analyseur Image pour Microsoft Dynamics NAV](ui-extensions-image-analyzer.md).
+> Si vous joignez des images aux articles, l'extension Analyseur Image peut détecter les attributs dans l'image, et suggérer des attributs que vous pouvez décider d'affecter ou non. L'extension est prête. Vous devez juste l'activer. Pour plus d'informations, voir [Extension d'analyseur Image pour [!INCLUDE[navnow](includes/navnow_md.md)]](ui-extensions-image-analyzer.md).
 
 ## <a name="to-create-item-attributes"></a>Pour créer des attributs d'article
 1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Attributs article**, puis sélectionnez le lien connexe.

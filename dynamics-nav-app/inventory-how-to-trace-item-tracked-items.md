@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: bea6c616704af33c86fc7190a18663bff871a56d
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 6d25a7b60f8b1b37ef9de34d5ffc098a89828ea8
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-trace-item-tracked-items"></a>Procédure : tracer des articles suivis
@@ -60,7 +60,7 @@ Vous pouvez voir où un article suivi a été utilisé, y compris le mode et le 
 
 ## <a name="to-find-item-tracked-items-with-navigate"></a>Pour rechercher des articles suivis avec Naviguer  
 
-1.  Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), saisissez **Naviguer**, puis sélectionnez le lien connexe.  
+1.  Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), saisissez **Naviguer**, puis choisissez le lien connexe.  
 2.  Sur le raccourci **Traçabilité**, dans les champs **N° de série** et **N° lot**, entrez les numéros traçabilité que vous voulez suivre.  
 3.  Sélectionnez l'action **Rechercher** pour rechercher toutes les instances du numéro de série ou de lot dans la base de données.  
 

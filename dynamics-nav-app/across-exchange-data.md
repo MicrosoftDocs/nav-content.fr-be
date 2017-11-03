@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 08/18/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e41e0eb6dd10127a47b2b6545d0333db700586bc
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: d83e68f31edf2dee9e3e5bc5b73a4861cfe919d7
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="exchanging-data"></a>Échange de données
@@ -29,7 +29,7 @@ Avant de pouvoir envoyer et recevoir des documents électroniques ou importer et
 |Convertir les enregistrements de document vente dans [!INCLUDE[d365fin](includes/d365fin_md.md)] en un format standardisé et envoyez\-les en tant que documents électroniques que vos clients peuvent recevoir dans leur système.|[Procédure : envoyer des documents électroniques](sales-how-to-send-electronic-documents.md)|  
 |Envoyer des fichiers PDF ou image à un fournisseur de services ROC, et les recevoir en tant que documents électroniques pouvant être convertis en enregistrements de document dans [!INCLUDE[d365fin](includes/d365fin_md.md)].|[Procédure : utiliser un service OCR pour convertir des fichiers PDF et image en documents électroniques](across-how-use-ocr-pdf-images-files.md)|  
 |Recevoir des documents électroniques, du service OCR ou du service d'échange de document, dans un format standardisé que vous convertissez en enregistrements de document appropriés dans [!INCLUDE[d365fin](includes/d365fin_md.md)].|[Procédure : recevoir et convertir des documents électroniques](purchasing-how-to-receive-and-convert-electronic-documents.md)|  
-|Importer un fichier de relevé bancaire dans la fenêtre **Feuille rapprochement bancaire** comme première étape en rapprochement des paiements ou dans la fenêtre **Rapprochement bancaire** comme première étape de rapprochement des comptes bancaires.|[Lettrage automatique des paiements et rapprochement des comptes bancaires][Lettrage automatique des paiements et rapprochement des comptes bancaires](receivables-apply-payments-auto-reconcile-bank-accounts.md)|  
+|Importer un fichier de relevé bancaire dans la fenêtre **Feuille rapprochement bancaire** comme première étape en rapprochement des paiements ou dans la fenêtre **Rapprochement bancaire** comme première étape de rapprochement des comptes bancaires.|[Lettrage automatique des paiements et rapprochement des comptes bancaires](receivables-apply-payments-auto-reconcile-bank-accounts.md)|  
 |Exporter des paiements à partir de la fenêtre **Feuille paiement** vers un fichier bancaire que vous transférez sur votre compte bancaire électronique pour traitement.|[Procédure : exportation de paiements vers un fichier bancaire](payables-how-export-payments-bank-file.md)|  
 |Demander à votre banque de transférer les montants de paiement des comptes bancaires de vos clients vers le compte de votre société en fonction de votre configuration du prélèvement automatique SEPA.|[Procédure : créer des écritures de collection prélèvement automatique SEPA et les exporter vers un fichier bancaire](finance-how-create-sepa-direct-debit-collection-entries-export-bank-file.md)|  
 |Utiliser un fournisseur de services de taux de change des devises pour mettre à jour la fenêtre **Devises**.|[Procédure : mettre à jour les taux de change des devises](finance-how-update-currencies.md)|  

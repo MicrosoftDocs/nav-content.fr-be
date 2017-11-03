@@ -12,10 +12,10 @@ ms.search.keywords: SMTP, mail, Office 365, setup, wizard, experience
 ms.date: 03/21/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 30074087545e8ca01b9a3cc956c8cc6ef938d8ae
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 8a7683886f3f823e8bdbd47b007f58c2c65c0f2d
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="getting-ready-for-doing-business"></a>Préparation aux activités commerciales
@@ -39,8 +39,8 @@ Dans la page d'accueil, au bas du volet de navigation, vous trouverez le menu **
 Lorsque vous avez exécuté une configuration assisté, elle est marqué comme **Terminée**. Pour exécuter la configuration assistée, vous cliquez sur les trois points (ou menu contextuel), puis vous sélectionnez **Démarrer la configuration**.
 
 ## <a name="home"></a>Particulier
-Sur la page d'accueil, vous bénéficiez d'une vue d'ensemble de l'entreprise. Sur la gauche, une barre de navigation vous donne un accès facile aux clients, fournisseurs, articles, etc.. Au centre, vous trouverez les mosaïques **Activités**. Les mosaïques **Activités** affichent les données actuelles. Vous pouvez cliquer ou appuyer sur celles-ci pour accéder facilement au document sélectionné. Les **indicateurs de performance clés** peuvent être configurés de sorte à afficher un graphique sélectionné pour une représentation visuelle, par exemple, de la trésorerie ou des revenus et des dépenses. Vous pouvez également générer la liste des **Clients favoris** sur la page d'accueil pour les comptes avec lesquels vous travaillez souvent ou auxquels vous devez accorder une attention particulière.
-Utilisez les flèches pour réduire une partie de la page et faire de la place afin d'afficher des données spécifiques. Au sommet de la page d'accueil, vous trouverez toutes les actions qui peuvent être appliquées au contenu actuel. Cette zone peut également être réduite et il vous suffit de cliquer ou d'appuyer à l'intérieur de la zone réduite afin de l'afficher à nouveau.
+Sur la page d'accueil, vous bénéficiez d'une vue d'ensemble de l'entreprise. Sur la gauche, une barre de navigation vous donne un accès facile aux clients, fournisseurs, articles, etc.. Au centre, vous trouverez les mosaïques **Activités**. Les mosaïques **Activités** affichent les données actuelles. Vous pouvez choisir ou appuyer sur celles-ci pour accéder facilement au document sélectionné. Les **indicateurs de performance clés** peuvent être configurés de sorte à afficher un graphique sélectionné pour une représentation visuelle, par exemple, de la trésorerie ou des revenus et des dépenses. Vous pouvez également générer la liste des **Clients favoris** sur la page d'accueil pour les comptes avec lesquels vous travaillez souvent ou auxquels vous devez accorder une attention particulière.
+Utilisez les flèches pour réduire une partie de la page et faire de la place afin d'afficher des données spécifiques. Au sommet de la page d'accueil, vous trouverez toutes les actions qui peuvent être appliquées au contenu actuel. Cette zone peut également être réduite et il vous suffit de choisir ou d'appuyer à l'intérieur de la zone réduite afin de l'afficher à nouveau.
 
 ## <a name="company-information"></a>Informations société
 Sous **Paramètres de la société** vous pouvez afficher et modifier les informations de configuration sur la société actuelle. Un grand nombre de ces informations sont préremplies si vous avez exécuté la configuration assistée **Configurer la société** lors de votre inscription à [!INCLUDE[d365fin](includes/d365fin_md.md)]. Si vous souhaitez modifier le logo de la société, les informations de contact, les paramètres bancaires, ou les informations fiscales, vous pouvez le faire à partir de cette fenêtre.    

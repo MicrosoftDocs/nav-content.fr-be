@@ -12,10 +12,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b7eff4821a51cc4aed190ed3c459aa6117333ae9
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 5d8949516771dbd1736ea6fd9472f975dd431669
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-use-ocr-to-turn-pdf-and-image-files-into-electronic-documents"></a>Procédure : Utiliser un service OCR pour convertir des fichiers PDF et image en documents électroniques
@@ -58,7 +58,7 @@ Si vous n'utilisez pas de file d'attente des travaux, ou si vous souhaitez recev
 1. Dans le champ **Statut OCR**, sélectionnez le lien hypertexte **En attente de vérification**. Sinon, optez pour la mosaïque **En attente de vérification** de la page d'accueil.
 2. Sur le site Web du service OCR, connectez-vous à l'aide des identifiants de votre compte de service OCR. Il s'agit des identifiants que vous avez également utilisés lors de la configuration de ce service. Pour en savoir plus, consultez la section « Configurer un service OCR » dans [Procédure : configurer les documents entrants](across-how-setup-income-documents.md).
 
-    Si vous accédez au site Web à partir du champ **Statut OCR**, le document en question s'affiche immédiatement après votre connexion. Si vous accédez au site Web en sélectionnant la mosaïque de la page d'accueil, sur la première page du service OCR qui s'ouvre, vous devez choisir le bouton **Démarrer** sur l'onglet **Vérifier** ou double-cliquer sur le document que vous souhaitez vérifier.
+    Si vous accédez au site Web à partir du champ **Statut OCR**, le document en question s'affiche immédiatement après votre connexion. Si vous accédez au site Web en sélectionnant la mosaïque de la page d'accueil, sur la première page du service OCR qui s'ouvre, vous devez choisir le bouton **Démarrer** sur l'onglet **Vérifier** ou choisir deux fois le document que vous souhaitez vérifier.
 
     Les informations concernant le document OCR sont affichées, vous présentant à la fois le contenu source du fichier PDF ou image ainsi que les valeurs de champ OCR correspondantes.
 3. Examinez les différentes valeurs de champ et modifiez ou saisissez des valeurs dans les champs identifiés comme à vérifier par le service OCR.

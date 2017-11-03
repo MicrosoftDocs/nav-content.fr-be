@@ -12,87 +12,78 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d22556c7fa33cf03eb6a1573378117af68979c4f
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 29083566208a58727ba07d0a19a04c4dec1929cf
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-apply-and-unapply-general-ledger-entries"></a>Comment lettrer et délettrer des écritures comptables
 Le lettrage d'écritures comptables permet aux sociétés de travailler avec des comptes temporaires et de transfert dans la comptabilité. Les comptes temporaires et de transfert sont utilisés pour répertorier les écritures comptables en attente de traitement dans la comptabilité.  
-  
+
  Vous pouvez utiliser les comptes temporaires pour :  
-  
--   Les transferts d'argent d'un compte bancaire à l'autre.  
-  
--   Les transferts de transactions financières d'un système à l'autre, dans lesquels une partie des informations est temporairement hébergée dans le système d'origine.  
-  
--   Les transactions pour lesquelles vous avez émis une facture vente à un client, mais n'avez pas encore reçu la facture achat correspondante du fournisseur.  
-  
+
+- Les transferts d'argent d'un compte bancaire à l'autre.  
+- Les transferts de transactions financières d'un système à l'autre, dans lesquels une partie des informations est temporairement hébergée dans le système d'origine.  
+- Les transactions pour lesquelles vous avez émis une facture vente à un client, mais n'avez pas encore reçu la facture achat correspondante du fournisseur.  
+
  Lorsque les écritures comptables ont été traitées, vous pouvez utiliser la fonction de lettrage des écritures pour mettre à jour les écritures comptables validées et le type de compte de validation.  
-  
+
  Vous pouvez délettrer les écritures comptables lettrées, puis ouvrir les écritures clôturées pour effectuer les modifications.  
-  
-### <a name="to-apply-general-ledger-entries"></a>Pour lettrer des écritures comptables  
-  
-1.  Dans la zone **Rechercher**, entrez **Historiques des transactions comptabilité**, puis choisissez le lien associé.  
-  
-2.  Sélectionnez un historique des transactions comptabilité, puis, dans l'onglet **Accueil**, dans le groupe **Traiter**, sélectionnez **Comptabilité**.  
-  
-3.  Dans la fenêtre **Écritures comptables**, dans l'onglet **Accueil**, dans le groupe **Fonctions**, sélectionnez **Lettrer écritures**.  
-  
-     Toutes les écritures comptables ouvertes pour le compte général s'affichent dans la fenêtre **Lettrer écritures comptables**.  
-  
+
+## <a name="to-apply-general-ledger-entries"></a>Pour lettrer des écritures comptables  
+
+1.  Choisissez l'icône ![Page ou état pour la recherche](../../media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Historiques des transactions comptabilité**, puis sélectionnez le lien correspondant.  
+2.  Sélectionnez un historique des transactions comptabilité, puis choisissez l'action **Comptabilité**.  
+3.  Dans la fenêtre **Écritures comptables**, choisissez l'action **Lettrer écritures**.  
+
+    Toutes les écritures comptables ouvertes pour le compte général s'affichent dans la fenêtre **Lettrer écritures comptables**.  
+
     > [!NOTE]  
     >  Par défaut, le champ **Inclure écritures** est défini sur **Ouvertes**. Vous pouvez modifier la valeur du champ **Inclure écritures** et la définir sur **Toutes** ou **Clôturées**. Vous pouvez uniquement lettrer les écritures comptables qui sont **Ouvertes**.  
-  
+
 4.  Sélectionnez l'écriture comptable concernée, puis, dans l'onglet **Naviguer**, dans le groupe **Lettrage**, sélectionnez **Définir ID lettrage**.  
-  
-     Le champ **Définir ID lettrage** est mis à jour avec le code utilisateur. Le montant restant s'affiche dans le champ **Solde** dans la fenêtre **Lettrer écritures comptables**.  
-  
-5.  Dans l'onglet **Naviguer**, dans le groupe **Lettrage**, choisissez **Valider le lettrage**.  
-  
-     Vous pouvez valider le lettrage même si le solde est nul. Après la validation, le champ **Montant restant** est affecté comme suit :  
-  
-    -   Si le **Solde** est nul, le champ **Montant restant** de toutes les écritures comptables est défini sur 0.  
-  
-    -   Si le **Solde** n'est pas nul, le montant figurant dans le champ **Solde** est transféré au champ **Montant restant** pour l'écriture comptable qui était sélectionnée lorsque vous avez validé le lettrage.  
-  
-    -   Pour toutes les autres écritures comptables, le champ **Montant restant** est nul, et les champs **Ouvertes**, **N° séquence lettrage final**, **Montant lettrage final** et **Date de clôture** sont mis à jour.  
-  
+
+    Le champ **Définir ID lettrage** est mis à jour avec le code utilisateur. Le montant restant s'affiche dans le champ **Solde** dans la fenêtre **Lettrer écritures comptables**.  
+
+5.  Choisissez **Valider le lettrage**.  
+
+    Vous pouvez valider le lettrage même si le solde est nul. Après la validation, le champ **Montant restant** est affecté comme suit :  
+
+    - Si le **Solde** est nul, le champ **Montant restant** de toutes les écritures comptables est défini sur 0.  
+
+    - Si le **Solde** n'est pas nul, le montant figurant dans le champ **Solde** est transféré au champ **Montant restant** pour l'écriture comptable qui était sélectionnée lorsque vous avez validé le lettrage.  
+
+    - Pour toutes les autres écritures comptables, le champ **Montant restant** est nul, et les champs **Ouvertes**, **N° séquence lettrage final**, **Montant lettrage final** et **Date de clôture** sont mis à jour.  
+
     > [!NOTE]  
     >  Lors de la validation, les écritures comptables qui mettent à jour le champ **ID lettrage** sont supprimées.  
-  
+
 6.  Cliquez sur le bouton **OK**.  
-  
-### <a name="to-view-the-applied-general-ledger-entries"></a>Pour afficher les écritures comptables lettrées  
-  
-1.  Dans la zone **Rechercher**, entrez **Historiques des transactions comptabilité**, puis choisissez le lien associé.  
-  
-2.  Sélectionnez un historique des transactions comptabilité, puis, dans l'onglet **Accueil**, dans le groupe **Traiter**, sélectionnez **Comptabilité**.  
-  
-3.  Sélectionnez l'écriture comptable concernée, puis, dans l'onglet **Naviguer**, dans le groupe **Lettrage**, sélectionnez **Écritures lettrées**.  
-  
-     Vous pouvez afficher toutes les écritures comptables lettrées.  
-  
+
+## <a name="to-view-the-applied-general-ledger-entries"></a>Pour afficher les écritures comptables lettrées  
+
+1.  Choisissez l'icône ![Page ou état pour la recherche](../../media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Historiques des transactions comptabilité**, puis sélectionnez le lien correspondant.  
+2.  Sélectionnez un historique des transactions comptabilité, puis choisissez l'action **Comptabilité**.  
+3.  Sélectionnez l'écriture comptabilité pertinente, puis choisissez l'action **Écritures lettrées**.  
+
+    Vous pouvez afficher toutes les écritures comptables lettrées.  
+
 4.  Cliquez sur le bouton **OK**.  
-  
-### <a name="to-unapply-general-ledger-entries"></a>Pour délettrer des écritures comptables  
-  
-1.  Dans la zone **Rechercher**, entrez **Historiques des transactions comptabilité**, puis choisissez le lien associé.  
-  
-2.  Sélectionnez un historique des transactions comptabilité, puis, dans l'onglet **Accueil**, dans le groupe **Traiter**, sélectionnez **Comptabilité**.  
-  
-3.  Sélectionnez l'écriture comptable que vous souhaitez délettrer, puis, dans l'onglet **Naviguer**, dans le groupe **Lettrage**, sélectionnez **Annuler le lettrage**.  
-  
-     Les écritures comptables lettrées sont délettrées.  
-  
+
+## <a name="to-unapply-general-ledger-entries"></a>Pour délettrer des écritures comptables  
+
+1.  Choisissez l'icône ![Page ou état pour la recherche](../../media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Historiques des transactions comptabilité**, puis sélectionnez le lien correspondant.  
+2.  Sélectionnez un historique des transactions comptabilité, puis choisissez l'action **Comptabilité**.  
+3.  Sélectionnez l'écriture comptable que vous souhaitez délettrer, puis choisissez l'action **Annuler le lettrage**.  
+
+    Les écritures comptables lettrées sont délettrées.  
+
     > [!NOTE]  
     >  Si une écriture est lettrée à une ou plusieurs écritures de lettrage, vous devez délettrer la dernière écriture de lettrage en premier. Par défaut, la dernière écriture s'affiche.  
-  
+
 4.  Cliquez sur le bouton **OK**.  
-  
+
 ## <a name="see-also"></a>Voir aussi  
- Compte général   
- Ecriture comptable   
- Écritures comptables
+[Fonctionnalité locale pour la Belgique](belgium-local-functionality.md)
+

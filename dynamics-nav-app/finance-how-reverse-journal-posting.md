@@ -12,10 +12,10 @@ ms.search.keywords: reimbursement
 ms.date: 08/03/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 90598545ff216b03f8c6e9b85933c10e5a8b6525
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 2970914c36f892a5610509e9dc4015d0fb159642
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-reverse-postings"></a>Procédure : inversion d'une validation
@@ -62,7 +62,7 @@ Vous pouvez inverser des écritures dans toutes les fenêtres **Écritures compt
     Retournez à présent au retour achat pour une nouvelle validation.  
 
 5.  Dans la fenêtre **Expédition retour enregistrée**, notez le numéro situé dans le champ **N° retour** .  
-6.  Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Retours achat**, puis sélectionnez le lien connexe.  
+6.  Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Retours achat**, puis sélectionnez le lien connexe.  
 7.  Ouvrez la commande retour concernée, puis sélectionnez l'action **Rouvrir**.  
 8.  Corrigez l'écriture dans le champ **Quantité** et publiez à nouveau le retour achat.  
 

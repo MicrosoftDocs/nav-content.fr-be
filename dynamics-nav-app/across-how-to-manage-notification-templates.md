@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 8dee7a54cb086ffa8259f6523733b964ee2c080a
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 4180eeabe2e81aabcfc54642e656fc8ef37157a7
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-manage-notification-templates"></a>Procédure : Gérer les modèles de notification
@@ -43,7 +43,7 @@ Des notifications sont envoyées aux utilisateurs du workflow pour les informer 
 2.  Dans la fenêtre **Modèles de notification**, sélectionnez le modèle de notification que vous souhaitez modifier.  
 3.  Choisissez l'action **Exporter le contenu d'un modèle**.  
 4.  Dans la fenêtre **Exporter fichier**, choisissez le bouton **Enregistrer**, puis nommez et enregistrez le fichier HTML à l'emplacement approprié.  
-5.  Effectuez un clic droit sur le fichier, choisissez **Ouvrir avec**, puis choisissez le programme approprié.  
+5.  Choisissez avec le bouton droit le fichier, choisissez **Ouvrir avec**, puis choisissez le programme approprié.  
 
     > [!NOTE]  
     >  Le contenu des modèles de notification de type e-mail sont au format HTML. Le contenu des modèles de notification de type note sont en format TXT.  

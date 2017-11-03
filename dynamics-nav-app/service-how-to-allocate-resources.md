@@ -11,10 +11,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: fb0d7651e9ffb273f7aecedf5ff5072a1235b992
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: 7882727735c38a11281ef22ac94b82f543b712b7
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 
@@ -36,7 +36,7 @@ Vous aurez souvent besoin de consulter la liste des commandes service ou des dev
 6. Pour obtenir la liste des documents appartenant à un certain contrat, client ou zone, renseignez le champ **Filtre contrat/Filtre client/Filtre zone** puis appuyez sur **Entrée**.  
 7. Cliquez sur une ligne qui correspond à une commande service ou le devis service, puis sélectionnez l'action **Afficher document**.  
 
-    La page **Commande service** ou **Devis service** s'ouvre et vous pouvez utiliser le document. Pour revenir à la page **Tableau d'affectation**, choisissez **OK**.
+    La page **Commande service** ou **Devis service** s'ouvre et vous pouvez utiliser le document. Pour revenir à la page **Tableau d'affectation**, choisissez le bouton **OK**.
 
 ## <a name="to-allocate-a-resource-using-resource-or-resource-group-availability"></a>Pour affecter une ressource à l'aide de la disponibilité ressource ou groupe ressources    
 1. Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), saisissez **Tableau d'affectation**, puis sélectionnez le lien connexe.  

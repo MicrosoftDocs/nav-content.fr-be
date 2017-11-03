@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/31/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 38d24e04398467c43592f47412662b6895fe915e
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: b42ac71b23a173d5bd3a9e3f1a99b9ac5379e286
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-put-items-away-with-inventory-put-aways"></a>Comment ranger des articles avec le rangement stock
@@ -44,7 +44,7 @@ Lorsque la demande entrepôt est créée, un employé affecté dans l'entrepôt 
 
 ## <a name="to-create-an-inventory-put-away-based-on-the-source-document"></a>Pour créer un rangement stock sur la base du document origine
 Maintenant que la demande est créée, le magasinier peut créer un nouveau rangement stock sur la base du document origine lancé.   
-1.  Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Rangement stock**, puis sélectionnez le lien connexe.  
+1.  Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), entrez **Rangements stock**, puis sélectionnez le lien connexe.  
 2. Sélectionnez l'action **Nouveau**.  
 3. Dans le champ **Document origine**, sélectionnez le type de document origine que vous rangez.  
 4. Dans le champ **N° origine**, sélectionnez le document origine.  

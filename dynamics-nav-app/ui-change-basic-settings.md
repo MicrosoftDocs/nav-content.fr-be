@@ -12,10 +12,10 @@ ms.search.keywords: change Role Center, notification, change company, change wor
 ms.date: 03/29/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1fd559bd0bf213a745f0c567c2b2d5721071c553
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: cf5a74cea6d7906845a0e087576ab090c319f297
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="changing-basic-settings"></a>Modification des paramètres de base
@@ -24,9 +24,9 @@ Dans la fenêtre **Mes paramètres**, vous pouvez afficher et modifier les param
 ## <a name="role-center"></a>Tableau de bord
 Le Tableau de bord représente la page d'accueil, une page de démarrage conçue pour les exigences du rôle. Sur la page d'accueil, vous bénéficiez d'une vue d'ensemble de l'entreprise. Sur la gauche, une barre de navigation vous donne un accès facile aux clients, fournisseurs, articles, etc..
 
-Au centre se trouvent les mosaïques Activités. Les activités affichent les données actuelles. Vous pouvez cliquer ou appuyer sur celles-ci pour accéder facilement au document sélectionné. Les indicateurs de performance clés peuvent être configurés de sorte à afficher un graphique sélectionné pour une représentation visuelle, par exemple, de la trésorerie ou des revenus et des dépenses.
+Au centre se trouvent les mosaïques Activités. Les mosaïques Activités affichent les données actuelles. Vous pouvez choisir ou appuyer sur celles-ci pour accéder facilement au document sélectionné. Les indicateurs de performance clés peuvent être configurés de sorte à afficher un graphique sélectionné pour une représentation visuelle, par exemple, de la trésorerie ou des revenus et des dépenses.
 
-Vous pouvez également générer la liste des Clients favoris sur la page d'accueil pour les comptes avec lesquels vous travaillez souvent ou auxquels vous devez accorder une attention particulière. Utilisez les flèches pour réduire une partie de la page et faire de la place afin d'afficher des données spécifiques. Au sommet de la page d'accueil, vous trouverez toutes les actions qui peuvent être appliquées au contenu actuel. Cette zone peut également être réduite et il vous suffit de cliquer ou d'appuyer à l'intérieur de la zone réduite afin de l'afficher à nouveau.
+Vous pouvez également générer la liste des Clients favoris sur la page d'accueil pour les comptes avec lesquels vous travaillez souvent ou auxquels vous devez accorder une attention particulière. Utilisez les flèches pour réduire une partie de la page et faire de la place afin d'afficher des données spécifiques. Au sommet de la page d'accueil, vous trouverez toutes les actions qui peuvent être appliquées au contenu actuel. Cette zone peut également être réduite et il vous suffit de choisir ou d'appuyer à l'intérieur de la zone réduite afin de l'afficher à nouveau.
 
 Le Tableau de bord par défaut est **Gestionnaire d'activité**, mais vous pouvez sélectionner un autre Tableau de bord qui correspond mieux à vos besoins mieux. Pour plus d'informations, reportez-vous à [Procédure : changer de Tableau de bord](change-role.md).
 

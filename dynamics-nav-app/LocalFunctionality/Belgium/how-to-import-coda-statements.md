@@ -1,6 +1,6 @@
 ---
 title: "Comment importer les relevés CODA"
-description: "Lorsque vous recevez un relevé CODA de votre banque, vous devez l'importer dans ADD INCLUDE<!--[!INCLUDE[navnow](how-to-set-up-bank-accounts-for-coda.md)."
+description: "Lorsque vous recevez un relevé CODA de votre banque, vous devez l'importer dans [!INCLUDE[navnow](../../includes/navnow_md.md)]."
 documentationcenter: 
 author: SorenGP
 ms.prod: dynamics-nav-2017
@@ -12,25 +12,23 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 71300667f06fc83206a82d20944779e482d48987
+ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
+ms.openlocfilehash: c193d774ab2cc460f65ad049f0085d9a3ea0943d
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/23/2017
 
 ---
 # <a name="how-to-import-coda-statements"></a>Comment importer les relevés CODA
-Lorsque vous recevez un relevé CODA de votre banque, vous devez l'importer dans ADD INCLUDE<!--[!INCLUDE[navnow](how-to-set-up-bank-accounts-for-coda.md).  
-  
-### <a name="to-import-a-coda-statement"></a>Pour importer un relevé CODA  
-  
-1.  Sélectionnez l'icône ![Rechercher une page ou un état](media/ui-search/search_small.png "icône Rechercher une page ou un état"), entrez **Comptes bancaires**, puis sélectionnez le lien correspondant.  
-  
-2.  Sélectionnez le compte bancaire, puis, dans l'onglet **Accueil**, dans le groupe **Progression**, sélectionnez **Importer fichier CODA**.  
-  
+Lorsque vous recevez un relevé CODA de votre banque, vous devez l'importer dans [!INCLUDE[navnow](../../includes/navnow_md.md)]. Pour plus d'informations, voir [Comment configurer des comptes bancaires pour CODA](how-to-set-up-bank-accounts-for-coda.md).  
+
+## <a name="to-import-a-coda-statement"></a>Pour importer un relevé CODA  
+
+1.  Choisissez l'icône ![Page ou état pour la recherche](../../media/ui-search/search_small.png "icône Page ou état pour la recherche"), entrez **Comptes bancaires**, puis sélectionnez le lien correspondant.  
+2.  Sélectionnez le compte bancaire, puis choisissez l'action **Importer fichier CODA**.  
 3.  Entrez le nom du fichier à importer, puis cliquez sur le bouton **OK**.  
-  
- L'importation du relevé CODA démarre. Ensuite, vous devez traiter les lignes relevé CODA. Pour plus d'informations, voir [Comment lettrer des relevés CODA](how-to-apply-coda-statements.md).  
-  
+
+L'importation du relevé CODA démarre. Ensuite, vous devez traiter les lignes relevé CODA. Pour plus d'informations, voir [Comment lettrer des relevés CODA](how-to-apply-coda-statements.md).  
+
 ## <a name="see-also"></a>Voir aussi  
  [Relevés bancaires CODA](coda-bank-statements.md)   
  [Comment configurer les comptes bancaires pour CODA](how-to-set-up-bank-accounts-for-coda.md)   
@@ -39,3 +37,4 @@ Lorsque vous recevez un relevé CODA de votre banque, vous devez l'importer dans
  [Comment créer des feuilles financières](how-to-create-financial-journals.md)   
  [Comment transférer et valider automatiquement les relevés CODA](how-to-automatically-transfer-and-post-coda-statements.md) .   
  [Comment transférer et valider manuellement les relevés CODA](how-to-manually-transfer-and-post-coda-statements.md).
+
