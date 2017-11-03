@@ -45,5 +45,5 @@ Lorsque vous effectuez une validation dans la fenêtre **Modèles feuille compta
 
 ## <a name="see-also"></a>Voir aussi  
  [Fonctionnalité locale pour la Belgique](belgium-local-functionality.md)   
- [Comment spécifier des périodes de validation](../France/how-to-specify-posting-periods.md)
+ [Comment spécifier des périodes de validation](../../finance-how-specify-posting-periods.md)
 
