@@ -12,28 +12,28 @@ ms.search.keywords: contact, prospect, client
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: bf85a4fd44590eea3b4866d63601f0b2aa3fcfb2
+ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
+ms.openlocfilehash: e48a11b73cd844b4eacf157bb90228617d4dc53d
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 10/26/2017
 
 ---
-# <a name="managing-relationships"></a><span data-ttu-id="a0153-103">Gestion des relations</span><span class="sxs-lookup"><span data-stu-id="a0153-103">Managing Relationships</span></span>
-<span data-ttu-id="a0153-104">Les fonctionnalités de gestion des relations de [!INCLUDE[d365fin](includes/d365fin_md.md)] vous aident à gérer et prendre en charge vos efforts de vente.</span><span class="sxs-lookup"><span data-stu-id="a0153-104">The relationship management features of [!INCLUDE[d365fin](includes/d365fin_md.md)] help you manage and support your sales efforts.</span></span> <span data-ttu-id="a0153-105">Grâce à elles, vous avez accès à des informations complètes et pertinentes qui vous permettent de focaliser vos interactions sur les segments client/contact favoris.</span><span class="sxs-lookup"><span data-stu-id="a0153-105">With these features, you have access to complete and accurate information so you can focus your interactions on preferred customer/contact segments.</span></span>
+# <a name="managing-relationships"></a><span data-ttu-id="3bcb5-103">Gestion des relations</span><span class="sxs-lookup"><span data-stu-id="3bcb5-103">Managing Relationships</span></span>
+<span data-ttu-id="3bcb5-104">Les fonctionnalités de gestion des relations de [!INCLUDE[d365fin](includes/d365fin_md.md)] vous aident à gérer et prendre en charge vos efforts de vente.</span><span class="sxs-lookup"><span data-stu-id="3bcb5-104">The relationship management features of [!INCLUDE[d365fin](includes/d365fin_md.md)] help you manage and support your sales efforts.</span></span> <span data-ttu-id="3bcb5-105">Grâce à elles, vous avez accès à des informations complètes et pertinentes qui vous permettent de focaliser vos interactions sur les segments client/contact favoris.</span><span class="sxs-lookup"><span data-stu-id="3bcb5-105">With these features, you have access to complete and accurate information so you can focus your interactions on preferred customer/contact segments.</span></span>
 
-<span data-ttu-id="a0153-106">Les pratiques recommandées en matière de vente et de marketing reposent toutes sur la prise de décisions appropriées au bon moment.</span><span class="sxs-lookup"><span data-stu-id="a0153-106">Good sales and marketing practices are all about how to make the best decisions at the right time.</span></span> [!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="a0153-107"> fournit une vue d'ensemble précise et opportune de vos informations de contact afin d'offrir des services à vos prospects de manière plus efficace et d'accroître la satisfaction de la clientèle.</span><span class="sxs-lookup"><span data-stu-id="a0153-107"> provides a precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction.</span></span>
+<span data-ttu-id="3bcb5-106">Les pratiques recommandées en matière de vente et de marketing reposent toutes sur la prise de décisions appropriées au bon moment.</span><span class="sxs-lookup"><span data-stu-id="3bcb5-106">Good sales and marketing practices are all about how to make the best decisions at the right time.</span></span> [!INCLUDE[d365fin](includes/d365fin_md.md)]<span data-ttu-id="3bcb5-107"> fournit une vue d'ensemble précise et opportune de vos informations de contact afin d'offrir des services à vos prospects de manière plus efficace et d'accroître la satisfaction de la clientèle.</span><span class="sxs-lookup"><span data-stu-id="3bcb5-107"> provides a precise and timely overview of your contact information so that you can serve your prospective customers more efficiently and increase customer satisfaction.</span></span>
 
-<span data-ttu-id="a0153-108">Pour démarrer, reportez-vous aux rubriques suivantes :</span><span class="sxs-lookup"><span data-stu-id="a0153-108">To get started, see the following topics:</span></span>
+<span data-ttu-id="3bcb5-108">Pour démarrer, reportez-vous aux rubriques suivantes :</span><span class="sxs-lookup"><span data-stu-id="3bcb5-108">To get started, see the following topics:</span></span>
 
-[<span data-ttu-id="a0153-109">Gestion de contacts</span><span class="sxs-lookup"><span data-stu-id="a0153-109">Managing Contacts</span></span>](marketing-contacts.md)  
-[<span data-ttu-id="a0153-110">Gestion des segments</span><span class="sxs-lookup"><span data-stu-id="a0153-110">Managing Segments</span></span>](marketing-segments.md)  
-[<span data-ttu-id="a0153-111">Enregistrement d'interactions</span><span class="sxs-lookup"><span data-stu-id="a0153-111">Recording Interactions</span></span>](marketing-interactions.md)  
-[<span data-ttu-id="a0153-112">Gestion de campagnes marketing</span><span class="sxs-lookup"><span data-stu-id="a0153-112">Managing Marketing Campaigns</span></span>](marketing-campaigns.md)  
-[<span data-ttu-id="a0153-113">Gestion des opportunités de ventes</span><span class="sxs-lookup"><span data-stu-id="a0153-113">Managing Sales Opportunities</span></span>](marketing-manage-sales-opportunities.md)
+[<span data-ttu-id="3bcb5-109">Gestion de contacts</span><span class="sxs-lookup"><span data-stu-id="3bcb5-109">Managing Contacts</span></span>](marketing-contacts.md)  
+[<span data-ttu-id="3bcb5-110">Gestion des segments</span><span class="sxs-lookup"><span data-stu-id="3bcb5-110">Managing Segments</span></span>](marketing-segments.md)  
+[<span data-ttu-id="3bcb5-111">Enregistrement d'interactions</span><span class="sxs-lookup"><span data-stu-id="3bcb5-111">Recording Interactions</span></span>](marketing-interactions.md)  
+[<span data-ttu-id="3bcb5-112">Gestion de campagnes marketing</span><span class="sxs-lookup"><span data-stu-id="3bcb5-112">Managing Marketing Campaigns</span></span>](marketing-campaigns.md)  
+[<span data-ttu-id="3bcb5-113">Gestion des opportunités de ventes</span><span class="sxs-lookup"><span data-stu-id="3bcb5-113">Managing Sales Opportunities</span></span>](marketing-manage-sales-opportunities.md)
 
-## <a name="see-also"></a><span data-ttu-id="a0153-114">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="a0153-114">See Also</span></span>
-[<span data-ttu-id="a0153-115">Ventes</span><span class="sxs-lookup"><span data-stu-id="a0153-115">Sales</span></span>](sales-manage-sales.md)  
-[<span data-ttu-id="a0153-116">Paramétrage de la Gestion des relations</span><span class="sxs-lookup"><span data-stu-id="a0153-116">Setting Up Relationship Management</span></span>](marketing-setup-marketing.md)  
-<span data-ttu-id="a0153-117">[Gestion de vos relations client à l'aide de Dynamics 365 for Sales à partir de [!INCLUDE[d365fin](includes/d365fin_md.md)]](marketing-integrate-dynamicscrm.md)</span><span class="sxs-lookup"><span data-stu-id="a0153-117">[Managing your Customer Relationships Using Dynamics 365 for Sales from Inside [!INCLUDE[d365fin](includes/d365fin_md.md)]](marketing-integrate-dynamicscrm.md)</span></span>  
-<span data-ttu-id="a0153-118">[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="a0153-118">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
+## <a name="see-also"></a><span data-ttu-id="3bcb5-114">Voir aussi</span><span class="sxs-lookup"><span data-stu-id="3bcb5-114">See Also</span></span>
+[<span data-ttu-id="3bcb5-115">Ventes</span><span class="sxs-lookup"><span data-stu-id="3bcb5-115">Sales</span></span>](sales-manage-sales.md)  
+[<span data-ttu-id="3bcb5-116">Paramétrage de la Gestion des relations</span><span class="sxs-lookup"><span data-stu-id="3bcb5-116">Setting Up Relationship Management</span></span>](marketing-setup-marketing.md)  
+[<span data-ttu-id="3bcb5-117">Gestion des clients et des ventes créés dans Dynamics 365 for Sales</span><span class="sxs-lookup"><span data-stu-id="3bcb5-117">Managing Customers and Sales Created in Dynamics 365 for Sales</span></span>](marketing-integrate-dynamicscrm.md)  
+<span data-ttu-id="3bcb5-118">[Utilisation de [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span><span class="sxs-lookup"><span data-stu-id="3bcb5-118">[Working with [!INCLUDE[d365fin](includes/d365fin_md.md)]](ui-work-product.md)</span></span>  
 
