@@ -1,6 +1,6 @@
 ---
 title: Utilisation de l'extension GetAddress.io UK Postcodes
-description: "RÃ©cupÃ©rez les adresses d'entitÃ©s comme les clients, les fournisseurs, les salariÃ©s, et les banques du Royaume-Uni auprÃ¨s du service GetAddress.io."
+description: "Récupérez les adresses d'entités comme les clients, les fournisseurs, les salariés, et les banques du Royaume-Uni auprès du service GetAddress.io."
 documentationcenter: 
 author: bholtorf
 ms.prod: dynamics-nav-2017
@@ -20,20 +20,18 @@ ms.lasthandoff: 10/16/2017
 ---
 
 # <a name="the-getaddressio-uk-postcodes-extension-to-microsoft-dynamics-nav"></a>L'extension GetAddress.io UK Postcodes pour Microsoft Dynamics NAV
-L'extension GetAddress.io UK Postcodes permet de gagner du temps et d'Ã©viter des erreurs lorsque vous saisissez des adresses pour des entitÃ©s comme des clients, des fournisseurs, des comptes bancaires, et des salariÃ©s. Par exemple, lorsque vous crÃ©ez un client, il suffit de choisir un code postal et [!INCLUDE[d365fin](includes/d365fin_md.md)] affiche une liste d'adresses. Choisissez l'adresse de votre choix, et les champs d'adresse sont aussitÃ´t renseignÃ©s.  
+L'extension GetAddress.io UK Postcodes permet de gagner du temps et d'éviter des erreurs lorsque vous saisissez des adresses pour des entités comme des clients, des fournisseurs, des comptes bancaires, et des salariés. Par exemple, lorsque vous créez un client, il suffit de choisir un code postal et [!INCLUDE[d365fin](includes/d365fin_md.md)] affiche une liste d'adresses. Choisissez l'adresse de votre choix, et les champs d'adresse sont aussitôt renseignés.  
 
 ##<a name="to-use-the-getaddressio-uk-postcodes-extension-when-you-enter-an-address"></a>Pour utiliser l'extension GetAddress.io UK Postcodes lorsque vous saisissez une adresse
-1. Sous **Adresse**, choisissez **Rechercher l'adresse Ã  partir du code postal**.  
+1. Sous **Adresse**, choisissez **Rechercher l'adresse à partir du code postal**.  
 
     > [!NOTE]  
->   L'option **Rechercher l'adresse Ã  partir du code postal** est uniquement disponible si le champ **Code pays/rÃ©gion** est vide ou s'il contient **GB**.
-2. Dans la fenÃªtre **Recherche code postal**, dans le champ **Code postal**, entrez ou choisissez le code postal.  
-3. Choisissez l'adresse dans la fenÃªtre **SÃ©lection de lâ€™adresse**.  
+>   L'option **Rechercher l'adresse à partir du code postal** est uniquement disponible si le champ **Code pays/région** est vide ou s'il contient **GB**.
+2. Dans la fenêtre **Recherche code postal**, dans le champ **Code postal**, entrez ou choisissez le code postal.  
+3. Choisissez l'adresse dans la fenêtre **Sélection de l’adresse**.  
 
 > [!TIP]  
->   Si vous connaissez le numÃ©ro de la rue, vous pouvez filtrer les adresses en saisissant certains ou tous les numÃ©ros dans le champ **Point de livraison**.
+>   Si vous connaissez le numéro de la rue, vous pouvez filtrer les adresses en saisissant certains ou tous les numéros dans le champ **Point de livraison**.
 
 
-## <a name="see-also"></a>Voir aussi
-[Configurer l'extension GetAddress.io UK Postal Code](LocalFunctionality/UnitedKingdom/uk-setup-postal-code-service.md)
 
