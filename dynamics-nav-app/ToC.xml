@@ -379,10 +379,4 @@
     <Node Name="" DisplayName="Détails de conception : traçabilité" Page="design-details-item-tracking.html"/>
     <Node Name="" DisplayName="Détails de conception : Ligne validation de feuille comptabilité" Page="design-details-general-journal-post-line.html"/>
   </Node>
-  <Node Name="" DisplayName="Fonctionnalités locales" Page="index.html">
-    <Node Name="" DisplayName="Canada" Page="LocalFunctionality/Canada/canada-local-functionality.html"/>
-    <Node Name="" DisplayName="Danemark" Page="LocalFunctionality/Denmark/denmark-local-functionality.html"/>
-    <Node Name="" DisplayName="Anglais (Royaume-Uni)" Page="LocalFunctionality/UnitedKingdom/united-kingdom-local-functionality.html"/>
-    <Node Name="" DisplayName="États-Unis" Page="LocalFunctionality/UnitedStates/united-states-local-functionality.html"/>
-  </Node>
 </Node>
