@@ -57,5 +57,3 @@ Certaines zones nécessitent que vous soyez un administrateur dans votre abonnem
 [Configuration et administration dans [!INCLUDE[d365fin](includes/d365fin_md.md)]](admin-setup-and-administration.md)  
 [Bienvenue dans [!INCLUDE[d365fin](includes/d365fin_md.md)]](index.md)  
 
-##
-
