@@ -1,1 +1,1 @@
-Microsoft Dynamics NAV 2018
+Microsoft Dynamics NAV 2018
