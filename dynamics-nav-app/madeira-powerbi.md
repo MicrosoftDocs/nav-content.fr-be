@@ -2,7 +2,7 @@
 title: "Packs de contenu Dynamics NAV et Power BI"
 description: "Il est facile d'obtenir des informations exploitables, de la veille économique et des KPI de vos données Dynamics NAV grâce à Power BI et aux packs de contenu Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

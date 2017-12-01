@@ -3,7 +3,7 @@ title: "Comment prélever des articles avec les prélèvements stock"
 description: "Si un magasin est défini pour exiger un traitement des prélèvements mais pas un traitement des expéditions, vous utilisez les documents prélèvement stock pour enregistrer et valider les informations de prélèvement et d'expédition pour vos documents origine."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : Activer des workflows"
 description: "Lorsque vous avez créé un workflow et que vous êtes sûr qu'il est prêt à démarrer, vous devez l'activer."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

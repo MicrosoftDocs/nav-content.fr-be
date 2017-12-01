@@ -3,7 +3,7 @@ title: "Mise à jour d'une présentation d'état"
 description: "Vous pouvez être amené à mettre à jour une présentation d'état personnalisée qui est utilisée dans un état. Cela est nécessaire si une modification de conception a été apportée à l'ensemble de données de l'état, par exemple, si un champ utilisé dans la présentation a été supprimé de l'ensemble de données de l'état."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

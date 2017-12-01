@@ -3,7 +3,7 @@ title: "Procédure : expédier des articles"
 description: "En fonction de votre configuration de stockage, vous pouvez enregistrer l'expédition sur le document d'entreprise sortant associé, comme une commande vente, directement, ou vous pouvez utiliser les documents expédition entrepôt qui respectent un flux et s'intègrent à différentes activités entrepôt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

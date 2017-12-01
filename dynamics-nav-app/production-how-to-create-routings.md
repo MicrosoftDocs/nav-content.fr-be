@@ -3,7 +3,7 @@ title: "Comment créer des gammes"
 description: "Une gamme contient les données de base qui capturent les exigences du traitement correspondant à un article produit donné. Après la création d'un ordre de fabrication pour cet article, sa gamme gouvernera le calendrier des opérations tels que représenté dans la fenêtre **Gamme O.F.** sous l'ordre de fabrication."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

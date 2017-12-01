@@ -2,7 +2,7 @@
 title: "Aperçu des tâches permettant de paramétrer Dynamics NAV"
 description: "Décrit les tâches permettant de paramétrer, d'initialiser et de configurer Dynamics NAV selon vos besoins."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

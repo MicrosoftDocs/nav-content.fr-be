@@ -3,7 +3,7 @@ title: Configurer le reporting panne dans la gestion des services
 description: "Découvrez comment configurer les processus de reporting panne."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

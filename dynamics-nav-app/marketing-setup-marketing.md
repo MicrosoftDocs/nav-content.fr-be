@@ -3,7 +3,7 @@ title: Informations sur la configuration de la gestion du marketing et des conta
 description: "Vous pouvez configurer la gestion du marketing et des contacts dans Dynamics NAV pour optimiser les relations avec les prospects ou les clients, et améliorer des campagnes ou des promotions."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

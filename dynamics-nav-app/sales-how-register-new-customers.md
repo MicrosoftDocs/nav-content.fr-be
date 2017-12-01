@@ -3,7 +3,7 @@ title: "Créer une fiche client pour enregistrer de nouveaux clients"
 description: "Décrit comment créer une fiche client pour enregistrer des informations sur chaque nouveau client ou client auquel vous vendez."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

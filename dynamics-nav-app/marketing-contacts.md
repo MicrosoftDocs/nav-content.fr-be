@@ -3,7 +3,7 @@ title: "Création et gestion de contacts de société"
 description: "Paramétrez tous les entités externes avec lesquelles vous avez une relation d'affaires (par exemple les prospects, les clients, les fournisseurs, et les consultants) comme contacts."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

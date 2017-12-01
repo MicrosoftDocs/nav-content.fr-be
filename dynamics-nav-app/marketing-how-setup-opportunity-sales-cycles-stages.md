@@ -3,7 +3,7 @@ title: "Configurer des cycles de vente opportunité et des étapes de cycle"
 description: "Décrit comment définir des étapes de ventes, du contact initial à la clôture, créer un cycle de vente et l'affecter aux opportunités dans Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

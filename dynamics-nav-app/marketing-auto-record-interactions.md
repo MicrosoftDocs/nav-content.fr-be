@@ -3,7 +3,7 @@ title: Configuration de l'enregistrement automatique d'interactions
 description: "Vous pouvez enregistrer automatiquement les interactions client, par exemple, pour les documents ventes, achat et service ou les appels téléphoniques."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

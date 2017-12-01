@@ -3,7 +3,7 @@ title: "Détails de conception - Comptes de la comptabilité"
 description: "Pour rapprocher le stock et les écritures comptables de capacité en comptabilité, les écritures valeur associées sont validées dans différents comptes en comptabilité."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

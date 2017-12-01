@@ -3,7 +3,7 @@ title: "Utiliser Dynamics NAV sur votre périphérique mobile"
 description: "Vous pouvez afficher et modifier vos données Dynamics NAV sur votre téléphone ou tablette."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Paramétrage de la messagerie"
 description: "Décrit l'utilisation du serveur SMTP de la société pour envoyer et recevoir des e-mails dans Dynamics NAV. Décrit également comment utiliser les paramètres du serveur de messagerie créés lors de l'abonnement à Office 365."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

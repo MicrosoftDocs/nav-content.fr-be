@@ -3,7 +3,7 @@ title: "Comment transférer les écritures comptables vers les écritures de co�
 description: "Vous pouvez transférer les écritures comptables aux écritures de coûts."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

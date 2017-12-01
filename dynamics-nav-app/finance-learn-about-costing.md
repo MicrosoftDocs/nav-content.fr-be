@@ -3,7 +3,7 @@ title: "À propos de l'évaluation des coûts de stock"
 description: "La gestion des coûts ajustés fait référence à l'enregistrement et la déclaration des coûts d'exploitation de l'entreprise. Cette activité inclut la déclaration des coûts de fabrication et de stock qui constituent la valeur des articles."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

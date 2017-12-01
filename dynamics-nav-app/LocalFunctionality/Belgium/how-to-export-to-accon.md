@@ -3,7 +3,7 @@ title: Comment exporter vers Accon
 description: "L'état **Lien avec Accon** vous permet de créer un fichier qui peut être importé dans ACCON Plus pour générer un compte de résultats annuel. L'état exporte les soldes finaux des comptes généraux pour une période spécifique."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

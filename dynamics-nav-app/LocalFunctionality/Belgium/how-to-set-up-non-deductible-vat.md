@@ -3,7 +3,7 @@ title: "Comment configurer la TVA non déductible"
 description: "Vous pouvez calculer les montants de TVA pour des types spécifiques de dépenses qui peuvent être partiellement déclarés comme soumis à la TVA."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

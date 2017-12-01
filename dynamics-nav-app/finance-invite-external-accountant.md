@@ -2,7 +2,7 @@
 title: "Ajouter votre comptable externe à votre Dynamics NAV"
 description: "Découvrez comment inviter votre comptable externe dans votre Dynamics NAV."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

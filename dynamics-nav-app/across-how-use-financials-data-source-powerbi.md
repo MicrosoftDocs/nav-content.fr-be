@@ -2,7 +2,7 @@
 title: "Créer une source de données Power BI avec votre Dynamics NAV"
 description: "Vous pouvez rendre vos données Dynamics NAV disponibles sous forme de source de données dans Power BI et créer des rapports puissants sur l'état de votre activité."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Créer une facture vente ou une commande vente"
 description: "Décrit comment créer une facture vente ou une commande vente, enregistrer votre contrat avec un client pour vendre des produits dans des conditions spécifiques."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : configurer des transporteurs"
 description: "Vous pouvez définir un code pour chacun de vos transporteurs et saisir les informations qui les concernent."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

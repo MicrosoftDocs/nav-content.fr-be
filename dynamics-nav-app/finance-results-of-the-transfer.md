@@ -3,7 +3,7 @@ title: "Résultats du transfert"
 description: "Cette rubrique décrit ce qui se produit après le transfert des écritures comptables vers les écritures de coûts."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

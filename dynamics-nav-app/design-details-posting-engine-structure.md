@@ -3,7 +3,7 @@ title: "Détails de conception - Structure du moteur de validation"
 description: "L'interface de validation et certaines autres fonctions dans le codeunit 12 utilisent des fonctions de moteur de validation pour préparer et insérer l'écriture comptable et les enregistrements d'écriture TVA. Le moteur de validation est également chargé de la création de registre du grand livre."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

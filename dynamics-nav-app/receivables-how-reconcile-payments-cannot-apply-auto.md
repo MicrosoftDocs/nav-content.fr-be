@@ -2,7 +2,7 @@
 title: "Utilisation de la fonction Transférer la différence vers un compte pour rapprocher les paiements"
 description: "Décrit comment traiter les paiements qui ne peuvent pas être lettrés dans un document, par exemple lorsqu'un taux de change entraîne un changement de montants."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

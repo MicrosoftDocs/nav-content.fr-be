@@ -3,7 +3,7 @@ title: "Aperçu de la ligne validation de feuille comptabilité"
 description: "Cette rubrique décrit les modifications du codeunit 12, **Groupe compta. - Ligne validation**, qui est l'objet d'application majeur pour la validation de la comptabilité et est le seul emplacement pour insérer des écritures comptables, la TVA et les écritures comptables client et fournisseur."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

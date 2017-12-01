@@ -3,7 +3,7 @@ title: "Réorganisation des données à l'aide de la fonction de tri"
 description: "La fonction de tri vous permet d'avoir un aperçu de vos données. Par exemple, vous pouvez trier les clients par code devise pour obtenir un certain exemple de clients."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Configuration de meilleures pratiques : mode évaluation stock"
 description: "Le champ **Mode évaluation stock** de la fiche article spécifie la manière dont le flux des coûts de l'article est enregistré et si une valeur réelle ou budgétée est capitalisée et utilisée dans le calcul des coûts."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Détails de conception - Gestion d'entrepôt"
 description: "Cette rubrique donne un aperçu de la conception, des concepts et des principes associés aux fonctionnalités de gestion d'entrepôt dans [!INCLUDE[d365fin](includes/d365fin_md.md)]."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

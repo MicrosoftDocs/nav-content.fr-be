@@ -2,7 +2,7 @@
 title: Mappage de champ pour exporter des fichiers de paiement bancaire
 description: "Lorsque vous exportez des fichiers de paiement à l'aide de la fonction Service conversion données bancaires, les données que vous exportées sont exposées au fournisseur du service conversion données bancaires."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

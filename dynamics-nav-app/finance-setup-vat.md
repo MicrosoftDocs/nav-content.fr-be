@@ -3,7 +3,7 @@ title: "À propos de la configuration de la TVA"
 description: "Assurez-vous de calculer, de valider et de déclarer correctement la TVA pour les ventes et les achats."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : Gérer les absences des salariés"
 description: "Décrit comment enregistrer les absences des salariés et analyser les statistiques d'indisponibilité."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

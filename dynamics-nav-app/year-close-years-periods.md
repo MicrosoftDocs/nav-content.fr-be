@@ -3,7 +3,7 @@ title: "Aperçu des tâches permettant de clôturer un exercice fiscal et des p�
 description: "Décrit les tâches permettant de clôturer un exercice fiscal ou une période comptable, par exemple, en vérifiant que les documents et les feuilles sont validés et en vérifiant les soldes bancaires."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

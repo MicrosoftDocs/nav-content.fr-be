@@ -3,7 +3,7 @@ title: Approuver ou rejeter des documents dans les flux
 description: "Demander, rejeter, ou déléguer une approbation de, par exemple, un document achat ou vente, dans le cadre d'un flux de travail."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

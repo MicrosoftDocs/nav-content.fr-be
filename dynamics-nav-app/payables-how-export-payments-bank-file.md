@@ -3,7 +3,7 @@ title: "Exporter des paiements vers un fichier de paiement électronique"
 description: "Pour traiter les paiements fournisseur, vous autorisez un service de conversion de données bancaires, exportez un fichier bancaire et téléchargez le fichier sur votre banque électronique pour transférer les fonds."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

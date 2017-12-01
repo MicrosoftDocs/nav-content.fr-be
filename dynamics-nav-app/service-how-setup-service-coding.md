@@ -3,7 +3,7 @@ title: Configurer des codes prestations standards
 description: "Découvrez comment configurer des codes pour les activités de service que vous effectuez souvent."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

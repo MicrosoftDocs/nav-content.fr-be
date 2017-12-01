@@ -3,7 +3,7 @@ title: "Réévaluer les immobilisations"
 description: "Apprenez comment modifier la valeur des immobilisations, enregistrer de nouveaux montants comme dépréciation ou réévaluation, et valider les coûts d'acquisition supplémentaires."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Détails de conception - Écart"
 description: "L'écart est défini comme la différence entre le coût réel et le coût standard, telle que décrite dans la formule suivante."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : utiliser des contrats de service et des devis contrat de s
 description: "Vous pouvez créer un contrat de service manuellement ou à partir d'un devis contrat de service. Vous pouvez créer un contrat en fonction d'un devis contrat de service."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Gestion des coûts ajustés et des coûts de fabrication"
 description: "Bien que la comptabilité analytique soit constituée de processus ne nécessitant pas d'interaction utilisateur, telle que le lettrage d'écritures et l'ajustement automatique des coûts, un certain nombre de champs, fenêtres et états sont destinés aux utilisateurs qui gèrent directement ou indirectement le coût des articles ou opérations."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

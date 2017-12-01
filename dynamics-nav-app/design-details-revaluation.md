@@ -3,7 +3,7 @@ title: "Détails de conception - Réévaluation"
 description: "Vous pouvez réévaluer le stock en fonction de la base d'évaluation reflétant le plus précisément la valeur de stock. Vous pouvez également antidater une réévaluation, afin que le coût des biens vendus (COGS) soit correctement mis à jour pour les articles qui ont déjà été vendus. Les articles utilisant le mode évaluation stock standard qui n'ont pas été entièrement facturés peuvent également être réévalués."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

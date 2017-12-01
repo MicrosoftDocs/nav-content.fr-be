@@ -3,7 +3,7 @@ title: "Afficher des états Power BI personnalisés"
 description: "Vous pouvez utiliser des états Power BI pour obtenir des informations supplémentaires sur les données dans les listes dans Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

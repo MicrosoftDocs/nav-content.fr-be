@@ -3,7 +3,7 @@ title: "Procédure : prélever pour la fabrication dans les configurations de s
 description: "Lorsque l'entrepôt appelle un traitement de prélèvement sans appeler de traitement d'expédition, vous pouvez utiliser la fenêtre **Prélèvement stock** pour organiser et enregistrer le prélèvement des composants."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

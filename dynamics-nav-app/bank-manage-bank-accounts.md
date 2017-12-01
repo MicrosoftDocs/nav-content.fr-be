@@ -3,7 +3,7 @@ title: "Gérer les comptes bancaires"
 description: "Vous devez régulièrement rapprocher les écritures comptables bancaires dans Dynamics NAV avec les transactions bancaires associées à vos comptes bancaires."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

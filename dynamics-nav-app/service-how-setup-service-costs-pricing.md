@@ -3,7 +3,7 @@ title: "Configurer la tarification et les coûts des services"
 description: "Découvrez comment configurer les prix et les frais supplémentaires des services."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Détails de conception - Arrondi"
 description: "Des reliquats d'arrondi peuvent se produire lorsque vous évaluez le coût d'une sortie de stock qui est mesurée dans une quantité différente de l'entrée de stock correspondante. Les reliquats d'arrondi sont calculés pour tous les modes d'évaluation du stock lorsque vous exécutez le traitement par lots **Ajuster &coûts - Écr. article**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

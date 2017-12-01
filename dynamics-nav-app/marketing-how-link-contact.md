@@ -3,7 +3,7 @@ title: Lier les contacts avec les clients et les fournisseurs
 description: "Décrit comment lier un contact avec un client, un fournisseur, ou un compte bancaire de la même société, afin de pouvoir synchroniser les données communes."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

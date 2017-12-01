@@ -3,7 +3,7 @@ title: "Transfert et validation des écritures de coûts"
 description: "Avant de définir des affectations de coûts, vous devez comprendre d'où proviennent les écritures de coûts."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

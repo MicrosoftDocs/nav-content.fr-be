@@ -3,7 +3,7 @@ title: "Détails de conception - Le rôle du point de commande"
 description: "Cette rubrique met l'accent sur l'importance de définir un point de commande, afin de déterminer quand commander plus de stock."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

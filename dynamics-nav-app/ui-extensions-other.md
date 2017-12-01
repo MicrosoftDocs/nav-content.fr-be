@@ -3,7 +3,7 @@ title: "Extensions pour Dynamics NAV fournies par d'autres sociétés"
 description: "Répertorie les applications et les extensions permettant de personnaliser  Dynamics NAV et fournies par d'autres sociétés."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

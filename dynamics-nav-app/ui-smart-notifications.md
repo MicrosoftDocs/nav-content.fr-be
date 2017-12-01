@@ -3,7 +3,7 @@ title: "Utiliser des notifications intelligentes et spécifier quand elles doive
 description: "Vous pouvez recevoir des notifications qui vous informent sur les modifications de statut ou les événements, par exemple, un solde échu ou un stock bas."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

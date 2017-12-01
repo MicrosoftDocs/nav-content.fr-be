@@ -3,7 +3,7 @@ title: "Enregistrer et rembourser les frais personnels des salariés pour les ac
 description: "Validez les dépenses des employés avec la feuille comptabilité sur le compte de l'employé et validez par la suite un paiement sur le compte bancaire de l'employé pour rembourser les frais liés à l'entreprise."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

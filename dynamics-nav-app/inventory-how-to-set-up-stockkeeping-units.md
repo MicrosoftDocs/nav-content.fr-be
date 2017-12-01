@@ -3,7 +3,7 @@ title: Comment configurer des points de stock
 description: "Vous pouvez utiliser des points de stock pour enregistrer des informations relatives à vos articles pour un code magasin ou variante donné."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,12 +18,12 @@ ms.contentlocale: fr-be
 ms.lasthandoff: 10/16/2017
 
 ---
-# Comment configurer des points de stock
+# <a name="how-to-set-up-stockkeeping-units"></a>Comment configurer des points de stock
 Vous pouvez utiliser des points de stock pour enregistrer des informations relatives à vos articles pour un code magasin ou variante donné.  
 
  Les points de stock représentent un supplément des fiches article. Ils ne les remplacent pas, bien qu'ils soient liés à ces documents. Les points de stock vous permettent de différencier des informations relatives à un article pour un magasin donné, comme un entrepôt ou un centre de distribution, ou une variante donnée, comme plusieurs numéros d'étagère et plusieurs informations de réapprovisionnement, pour un même article.  
 
-## Pour configurer un point de stock  
+## <a name="to-set-up-a-stockkeeping-unit"></a>Pour configurer un point de stock  
 
 1.  Sélectionnez l'icône ![Page ou état pour la recherche](media/ui-search/search_small.png "Page ou état pour la recherche"), saisissez **Points de stock**, puis sélectionnez le lien connexe.  
 2.  Sélectionnez l'action **Nouveau**.  
@@ -36,7 +36,7 @@ Pour créer plusieurs points de stock pour un article, utilisez le traitement pa
 > [!NOTE]  
 >  Les informations de la fiche **Point de stock** sont prioritaires par rapport à celles de la fiche **Article**.  
 
-## Voir aussi  
+## <a name="see-also"></a>Voir aussi  
 [Procédure : enregistrer de nouveaux articles](inventory-how-register-new-items.md)  
 [Configuration de la gestion des entrepôts](warehouse-setup-warehouse.md)  
 [Gestion d'entrepôt](warehouse-manage-warehouse.md)  

@@ -3,7 +3,7 @@ title: "Procédure : planifier des prélèvements dans la feuille"
 description: "Lorsque l'entrepôt est configuré pour appeler un traitement de prélèvement et d'expédition, le fonctionnement de l'entrepôt peut être établi de telle sorte que les lignes des documents expédition ne soient pas automatiquement transformées en instructions de prélèvement, mais soient plutôt activées sur la feuille prélèvement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

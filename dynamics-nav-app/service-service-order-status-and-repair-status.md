@@ -3,7 +3,7 @@ title: "Statut commande service et statut réparation"
 description: "Le champ **Statut** de la fenêtre **Commande service** et le statut réparation de l'article de service, qui est représenté par le champ **Code du statut de réparation** dans la fenêtre **Commande service** ont une certaine relation dans le module Service management. Le statut commande service reflète l'état réparation de tous les articles de service de la commande service."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

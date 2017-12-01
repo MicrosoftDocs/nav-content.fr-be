@@ -2,7 +2,7 @@
 title: "Paramétrer les prix de vente spéciaux et les remises client"
 description: "Décrit comment définir les accords secondaires de tarifs et de remises à appliquer aux documents vente lors de la vente à différents clients."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

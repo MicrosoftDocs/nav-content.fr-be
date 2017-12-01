@@ -3,7 +3,7 @@ title: "Comment archiver les écritures journal IBS"
 description: "Les lignes journal IBS dont le statut de processus est **Traitées** peuvent être archivées. Les journaux IBS contiennent des informations sur les fichiers de banque électronique créés au cours des transferts par banque électronique via Isabel."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

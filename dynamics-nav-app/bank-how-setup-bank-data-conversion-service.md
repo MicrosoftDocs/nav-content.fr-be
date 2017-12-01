@@ -3,7 +3,7 @@ title: "Configurer le service de conversion de données bancaires"
 description: Vous pouvez configurer des comptes bancaires pour suivre les transactions et importer ou exporter des flux bancaires.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

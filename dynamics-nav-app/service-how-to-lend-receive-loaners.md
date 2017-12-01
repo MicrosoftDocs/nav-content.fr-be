@@ -3,7 +3,7 @@ title: "Comment prêter des articles de service de substitution"
 description: "Vous pouvez prêter aux clients des articles de prêt pour remplacer temporairement les articles de service en cours de maintenance."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

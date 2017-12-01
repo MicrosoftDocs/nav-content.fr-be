@@ -3,7 +3,7 @@ title: "Créer une fiche suiveuse pour un projet et spécifier des tâches"
 description: "Pour un nouveau projet, vous créez une fiche projet qui contient les tâches projet et les lignes planning, pour vous aider à gérer la progression et les budgets."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

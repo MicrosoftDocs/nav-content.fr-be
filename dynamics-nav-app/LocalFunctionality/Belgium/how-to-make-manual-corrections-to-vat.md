@@ -3,7 +3,7 @@ title: "Comment apporter des corrections manuelles à la TVA"
 description: "Vous pouvez apporter des corrections à des écritures TVA validées sans valider la correction dans les écritures TVA ou les écritures comptables. Cette option est utile si vous devez apporter une modification aux montants totaux TVA vente ou achat sans modifier la base TVA. Par exemple, vous pouvez corriger manuellement la TVA si vous recevez une facture d'un fournisseur qui a mal calculé la TVA."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

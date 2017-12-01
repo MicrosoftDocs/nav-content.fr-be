@@ -3,7 +3,7 @@ title: "Procédure : valider par lots la production et les temps d'exécution"
 description: "La quantité produite représente l'avancée des travaux en prenant en compte la quantité achevée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

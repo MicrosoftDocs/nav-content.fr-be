@@ -3,7 +3,7 @@ title: Comment valider le rebut manuellement
 description: "Si le traitement produit un rebut, vous pouvez entrer ce rebut dans la feuille production. Remarquez que la quantité perte n'augmente pas la quantité produite."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

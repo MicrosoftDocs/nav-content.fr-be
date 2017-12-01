@@ -3,7 +3,7 @@ title: Synchroniser les contacts avec les clients et les fournisseurs
 description: "Vous couplez ou synchronisez les coordonnées des contacts qui sont également des clients, des fournisseurs, ou des comptes bancaires, afin de mettre uniquement à jour les informations à un emplacement."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

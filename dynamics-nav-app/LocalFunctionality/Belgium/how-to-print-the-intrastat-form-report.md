@@ -3,7 +3,7 @@ title: "Comment imprimer l'état D.E.B. : Formulaire"
 description: "L'état **D.E.B. : Formulaire** doit être utilisé à des fins de compte-rendu à Intrastat. En Belgique, vous devez rendre compte de tout transfert de marchandises aux autorités douanières chaque mois. Cet état doit être envoyé aux administrations fiscales."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

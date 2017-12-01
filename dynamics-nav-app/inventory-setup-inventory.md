@@ -3,7 +3,7 @@ title: Configuration de stock
 description: "Décrit comment configurer les processus de stock et d'inventaire, y compris les acheminements pour le transfert et les magasins, tels que des entrepôts."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

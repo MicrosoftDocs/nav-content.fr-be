@@ -3,7 +3,7 @@ title: "Procédure : créer des factures d'acompte"
 description: "Découvrez comment gérer les situations où votre fournisseur ou vous-même exigez un acompte."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

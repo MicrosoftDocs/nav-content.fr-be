@@ -3,7 +3,7 @@ title: Gestion des budgets des immobilisations
 description: "Vous paramétrez les informations sur de futurs investissements, cessions, et amortissements d'immobilisations pour préparer les budgets et les prévisions."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

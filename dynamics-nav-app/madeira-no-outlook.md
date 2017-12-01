@@ -3,7 +3,7 @@ title: Utilisation de Dynamics NAV sans Outlook
 description: "Vous pouvez utiliser Dynamics NAV comme boîte de réception professionnelle dans Outlook, car il est intégré à Office 365, cependant, vous pouvez également l'utiliser sans Outlook dans un navigateur ou sur votre périphérique mobile."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

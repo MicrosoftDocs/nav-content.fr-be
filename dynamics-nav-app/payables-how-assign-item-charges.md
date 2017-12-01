@@ -3,7 +3,7 @@ title: Affecter les frais annexes aux ventes et aux achats
 description: "Si vous voulez que vos articles de stock comptabilisent les coûts ajoutés, tels que le fret, la manutention, les assurances, et transport, que vous encourez lorsque vous achetez ou vendez des articles, vous pouvez utiliser la fonction Frais annexes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

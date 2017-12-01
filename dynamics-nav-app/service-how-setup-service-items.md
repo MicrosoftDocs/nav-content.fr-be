@@ -3,7 +3,7 @@ title: "Aperçu des paramètres des articles de service et des composants articl
 description: "Découvrez les éléments que vous devez configurer avant de pouvoir utiliser des articles de service, notamment les valeurs par défaut telles que le délai de réponse, le pourcentage remise contrat et le groupe tarifs service."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

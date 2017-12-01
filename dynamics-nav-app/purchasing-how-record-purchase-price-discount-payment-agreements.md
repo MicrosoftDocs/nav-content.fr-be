@@ -3,7 +3,7 @@ title: "Paramétrer des tarifs et remises spéciaux et secondaires pour les four
 description: "Vous pouvez définir des accords de prix et de remises différents ou secondaires et les lettrer dans les documents achat pour les fournisseurs."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

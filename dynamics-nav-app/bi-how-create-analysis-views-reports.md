@@ -3,7 +3,7 @@ title: "Créer des rapports d'analyse"
 description: "Décrit comment créer de nouveaux rapports d'analyse pour les ventes, les achats et le stock, et configurer des modèles d'analyse."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

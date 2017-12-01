@@ -3,7 +3,7 @@ title: Comment configurer les comptes bancaires pour CODA
 description: "Avant de pouvoir utiliser la fonctionnalité de banque électronique pour les relevés CODA, vous devez configurer certains codes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

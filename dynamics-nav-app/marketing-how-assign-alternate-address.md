@@ -3,7 +3,7 @@ title: Affecter une autre adresse de contact
 description: "Décrit comment affecter une adresse secondaire à vos contacts ou prospects, où ils reçoivent parfois des informations."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

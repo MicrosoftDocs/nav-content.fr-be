@@ -3,7 +3,7 @@ title: "Méthodes TEC pour calculer et enregistrer la progression d'un projet"
 description: "Décrit les différentes méthodes de travaux en cours (TEC) qui peuvent être utilisées pour valider, surveiller et calculer les données financières des projets en cours."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

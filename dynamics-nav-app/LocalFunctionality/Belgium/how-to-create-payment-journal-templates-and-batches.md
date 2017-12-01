@@ -3,7 +3,7 @@ title: "Comment créer des modèles et lots feuille paiement"
 description: "Dans [!INCLUDE[navnow](../../includes/navnow_md.md)], des propositions de paiement sont générées et validées dans les feuilles paiement. La structure de la feuille paiement est semblable à celle des autres types de feuilles."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

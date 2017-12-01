@@ -3,7 +3,7 @@ title: "Pratiques de configuration recommandées : planification de l'approvisi
 description: "La planification des approvisionnements est un domaine d'activité critique. Lorsqu'elle est configurée et utilisée correctement, la planification des approvisionnements évite les rupture de stocks et minimise les coûts de commande et de stockage."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

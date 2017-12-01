@@ -3,7 +3,7 @@ title: "Détails de conception - Lot pour lot"
 description: "Découvrez comment utiliser la méthode lot pour lot pour déterminer la quantité de commande en fonction de la demande."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

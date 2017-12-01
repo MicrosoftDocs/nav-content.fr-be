@@ -3,7 +3,7 @@ title: Configurer les informations pour les contacts
 description: "Décrit les tâches pour spécifier les informations et les codes, par exemple, sur les secteurs d'activité et les relations d'affaires, avant de paramétrer des contacts."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

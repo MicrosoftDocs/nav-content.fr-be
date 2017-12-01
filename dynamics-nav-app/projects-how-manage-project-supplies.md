@@ -3,7 +3,7 @@ title: "Acheter des articles ou des services pour un projet et gérer les fourni
 description: "Décrit comment gérer l'approvisionnement et l'achat de matériel et de services pour les projets."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Traiter les documents entrants
 description: "Pour enregistrer un document externe, comme un PDF, dans Dynamics NAV, vous devez d'abord créer ou terminer un enregistrement de document externe."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

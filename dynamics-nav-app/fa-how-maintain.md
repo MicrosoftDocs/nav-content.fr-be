@@ -3,7 +3,7 @@ title: "Mettre à jour des immobilisations"
 description: "Vous conservez un enregistrement de maintenance de toutes les réparations et entretiens des immobilisations."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

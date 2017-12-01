@@ -3,7 +3,7 @@ title: "Détails de conception - Clôture de la demande et de l'approvisionnem
 description: "Cette rubrique suggère des tâches à effectuer une fois les procédures d'équilibrage d'approvisionnement exécutées."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

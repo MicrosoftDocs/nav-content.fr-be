@@ -3,7 +3,7 @@ title: "Comment exporter les déclarations intracommunautaires de tiers"
 description: "En Belgique, vous devez demander à un déclarant tiers de remplir la déclaration intracommunautaire. Le déclarant tiers doit être une personne ou une société externe."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

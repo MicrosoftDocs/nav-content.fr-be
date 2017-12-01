@@ -3,7 +3,7 @@ title: "Aperçu des tâches permettant de gérer vos achats"
 description: "Décrit les tâches permettant de gérer vos processus d'achat ou d'approvisionnement, y compris le fonctionnement des factures achat et des commandes achat."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

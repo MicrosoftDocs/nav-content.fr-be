@@ -3,7 +3,7 @@ title: "Créer des opportunités de vente"
 description: "Décrit comment créer des opportunités avec un commercial ou un contact dans Dynamics NAV."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

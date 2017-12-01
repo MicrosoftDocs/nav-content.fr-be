@@ -3,7 +3,7 @@ title: "Gérer les opportunités de ventes et les prospects"
 description: "Décrit la gestion d'un prospect ou d'une opportunité de ventes entrant dans Dynamics NAV, et l'association de l'opportunité à un vendeur pour effectuer le suivi des ventes potentielles."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

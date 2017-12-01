@@ -3,7 +3,7 @@ title: "Procédure : créer un rangement à partir du rangement interne"
 description: "Lorsque les articles ont été rangés et avant d'être prélevés pour répondre aux besoins d'un ordre de fabrication ou d'une expédition, ils sont stockés dans l'entrepôt comme faisant partie du stock disponible."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

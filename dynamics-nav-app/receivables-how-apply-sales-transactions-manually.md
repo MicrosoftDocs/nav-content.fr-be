@@ -2,7 +2,7 @@
 title: "Lettrer des écritures comptables client pour rapprocher manuellement les paiements client"
 description: "Décrit comment lettrer des règlements ou des remboursements client dans une ou plusieurs écritures comptables client ouvertes et rapprocher les paiements client."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

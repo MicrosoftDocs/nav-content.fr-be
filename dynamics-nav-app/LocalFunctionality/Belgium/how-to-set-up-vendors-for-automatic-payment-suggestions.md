@@ -3,7 +3,7 @@ title: Comment configurer les fournisseurs pour les propositions de paiement aut
 description: "Vous pouvez configurer chaque fournisseur pour que les factures impayées de ce fournisseur soient automatiquement incluses dans les propositions de paiement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

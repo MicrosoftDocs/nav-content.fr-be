@@ -3,7 +3,7 @@ title: "Comment télécharger des fichiers CODA à partir d'un serveur Isabel"
 description: "Les fichiers CODA peuvent être téléchargés manuellement ou en mode interactif."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

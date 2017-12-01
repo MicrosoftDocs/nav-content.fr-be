@@ -3,7 +3,7 @@ title: "Rapprocher des comptes bancaires séparément"
 description: "Décrit la manière dont la valeur du stock fait l'objet d'un rapprochement avec la comptabilité."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

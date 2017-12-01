@@ -3,7 +3,7 @@ title: "Procédure : configurer des articles de prêt"
 description: "Vous pouvez configurer les articles de prêt que vous pouvez prêter aux clients afin de remplacer les articles de service lors de leur maintenance."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

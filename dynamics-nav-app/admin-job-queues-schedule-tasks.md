@@ -2,7 +2,7 @@
 title: "Planifier des projets à exécuter automatiquement"
 description: "Les tâches planifiées sont gérées par la file d'attente des travaux. Ces projets exécutent des états et des codeunits. Vous pouvez définir des projets à exécuter une fois, ou sur une base récurrente."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

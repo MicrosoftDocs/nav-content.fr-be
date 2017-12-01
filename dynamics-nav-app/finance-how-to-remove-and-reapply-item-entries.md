@@ -3,7 +3,7 @@ title: "Procédure : supprimer et relettrer des écritures article"
 description: "Vous pouvez visualiser et modifier manuellement certaines écritures lettrage article qui sont créées automatiquement lors des mouvements de stock."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

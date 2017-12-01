@@ -3,7 +3,7 @@ title: Gestion des relations
 description: "Les fonctions de gestion des relations dans Dynamics NAV prennent en charge vos efforts en matière de vente et vous permettent d'accéder à des informations sur les contacts et les prospects afin de pouvoir servir vos clients efficacement."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

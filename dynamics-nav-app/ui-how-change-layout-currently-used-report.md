@@ -3,7 +3,7 @@ title: "Modifier l'aspect d'un état en sélectionnant une présentation différ
 description: "Vous pouvez utiliser différentes présentations d'un état, et passer d'une présentation à l'autre pour modifier l'aspect d'un état."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

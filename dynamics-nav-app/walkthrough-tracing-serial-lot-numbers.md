@@ -3,7 +3,7 @@ title: "Procédure pas à pas : suivi des numéros de série et des numéros de
 description: "En cas de produit défectueux, vous devez identifier les erreurs et empêcher les articles concernés d'être vendus. Si des articles défectueux ont déjà été expédiés, vous devez procéder au suivi des destinataires et, au besoin, de rappeler les articles."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

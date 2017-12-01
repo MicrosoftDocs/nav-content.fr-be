@@ -3,7 +3,7 @@ title: "Procédure : ajouter des champs à une présentation de rapport Word"
 description: "Décrit comment ajouter des champs d'un ensemble de données de rapport à une présentation de rapport Word existante pour un rapport."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

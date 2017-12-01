@@ -3,7 +3,7 @@ title: Planification avec/sans magasin.
 description: il est important de comprendre le fonctionnement de la planification avec/sans codes magasin sur les lignes demande.
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

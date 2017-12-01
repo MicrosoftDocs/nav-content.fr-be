@@ -3,7 +3,7 @@ title: "Analyse des trésoreries"
 description: "Décrit comment utiliser les graphiques Cycle trésorerie, Revenus et dépenses, Trésorerie et Prévision de trésorerie pour analyser les flux de trésorerie passés et futurs, entrants et sortants de votre société."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

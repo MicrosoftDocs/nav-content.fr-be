@@ -3,7 +3,7 @@ title: Comment configurer les codes transaction IBLC/BLWI
 description: "Pour pouvoir traiter les paiements électroniques, vous devez configurer des codes transaction en fonction des exigences du Belgian-Luxembourg Exchange Institute."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

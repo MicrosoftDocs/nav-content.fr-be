@@ -2,7 +2,7 @@
 title: "Procédure : créer des commandes spéciales"
 description: "Vous pouvez créer une commande spéciale pour un article spécifique non présent en stock à expédier à un client particulier. Le fournisseur expédie l'article à votre entrepôt et vous pouvez ensuite l'expédier à votre client seul ou avec d'autres articles issus d'autres commandes."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

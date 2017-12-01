@@ -2,7 +2,7 @@
 title: Mappage de champs lors de l'importation de fichiers SEPA CAMT
 description: "Dans les marchés européens, vous pouvez importer des fichiers de relevé bancaire selon les normes régionales SEPA (Espace unique de paiement en euros)."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

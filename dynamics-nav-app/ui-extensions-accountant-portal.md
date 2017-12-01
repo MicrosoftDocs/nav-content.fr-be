@@ -2,7 +2,7 @@
 title: Utilisation du portail comptable
 description: Fournit des informations sur l'extension du portail Comptable.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

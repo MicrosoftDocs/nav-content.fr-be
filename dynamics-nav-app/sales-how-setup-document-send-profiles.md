@@ -3,7 +3,7 @@ title: "Paramétrer les méthodes préférées d'envoi des documents vente"
 description: "Décrit comment configurer la méthode préférée de chaque client pour l'envoi de documents vente, par exemple par e-mail, au format PDF, sous forme de document électronique, etc."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Création des budgets des coûts"
 description: "Cette rubrique décrit l'emplacement où créer et analyser les budgets des coûts."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Comment prélever des articles pour l'expédition entrepôt"
 description: "Lorsque le magasin est configuré pour appeler un traitement de prélèvement entrepôt et un traitement d'expédition entrepôt, vous pouvez utiliser les documents prélèvement entrepôt pour créer et traiter les informations préalables à la validation de l'expédition entrepôt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

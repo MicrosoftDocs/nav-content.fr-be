@@ -3,7 +3,7 @@ title: "Procédure : utiliser la TVA sur les ventes et les achats"
 description: "Cette rubrique décrit comment effectuer des tâches telles que la correction de la TVA validée. Dans les pays/régions de l'UE, chaque transaction de vente et d'achat est soumise à des calculs de TVA. Elle décrit la procédure à suivre."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

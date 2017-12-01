@@ -3,7 +3,7 @@ title: "Soldes entre le type de coût, un centre de coûts et les coûts associ�
 description: "Lorsque vous configurez la comptabilité analytique, vous devez vous assurer que toutes les écritures sont affectées à un type de coût, ainsi qu'à un centre de coûts ou des coûts associés. En d'autres termes, un type de coût, un code de centre de coûts ou un coût associé doivent être affectés à chaque écriture de coûts. Cette règle garantit que chaque écriture de coûts s'affiche dans les centres de coûts ou les coûts associés, mais jamais dans les deux à la fois."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Lettrer des paiements avec des documents vente échus"
 description: "Vous lettrez les montants payés par les clients avec des documents vente associés et validez le paiement pour mettre à jour le client, la comptabilité, et les écritures comptables bancaires."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

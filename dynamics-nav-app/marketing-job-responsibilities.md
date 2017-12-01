@@ -3,7 +3,7 @@ title: "Configuration des responsabilités pour les contacts"
 description: "Vous pouvez définir un code de responsabilité et l'affecter à un contact pour indiquer les tâches dont votre contact est en charge dans sa société, par exemple, l'informatique ou la production."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

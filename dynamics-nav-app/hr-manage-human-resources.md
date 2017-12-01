@@ -3,7 +3,7 @@ title: "Utilisation de la fonctionnalité Ressources Humaines"
 description: "Vous pouvez enregistrer de nouveaux employés, modifier des informations sur le personnel existant, et enregistrer et analyser les absences."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

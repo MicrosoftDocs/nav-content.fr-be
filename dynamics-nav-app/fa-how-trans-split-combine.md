@@ -3,7 +3,7 @@ title: Reclassification d'immobilisations
 description: "Vous reclassez une immobilisation pour la transférer vers un autre service, la fractionner, ou la combiner avec d'autres immobilisations."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

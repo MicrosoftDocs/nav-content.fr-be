@@ -3,7 +3,7 @@ title: "Détails de conception - Structure de validation de traçabilité"
 description: "Découvrez comment utiliser les écritures comptables article comme principal opérateur des numéros traçabilité."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

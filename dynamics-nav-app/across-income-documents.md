@@ -3,7 +3,7 @@ title: Utiliser des documents entrants
 description: "Vous pouvez gérer les documents commerciaux externes entrants, tels que des réceptions de paiement ou des fichiers PDF, gérer des tâches OCR, et convertir des dossiers en documents électroniques et enregistrements dans Dynamics NAV."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

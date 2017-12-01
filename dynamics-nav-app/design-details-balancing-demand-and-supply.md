@@ -3,7 +3,7 @@ title: "Détails de conception - équilibrage de la demande et de l'approvisio
 description: "Pour comprendre le fonctionnement du système de planification, il est nécessaire de comprendre les objectifs prioritaires du système de planification."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

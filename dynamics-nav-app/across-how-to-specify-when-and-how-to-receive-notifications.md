@@ -3,7 +3,7 @@ title: "Procédure : spécifier quand et comment recevoir des notifications"
 description: "Lorsque vous paramétrez des utilisateurs dans des workflows d'approbation, vous devez spécifier dans les fenêtres Paramètres de notification et Tableau de notification quand et comment chaque utilisateur reçoit des notifications sur les étapes du workflow d'approbation. Les utilisateurs individuels peuvent également modifier leur paramètre de notification en choisissant le bouton Changer les paramètres de notification sur toute notification."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

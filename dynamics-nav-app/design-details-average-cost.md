@@ -2,7 +2,7 @@
 title: "Détails de conception - Coût moyen"
 description: "Le coût moyen d'un article est calculé avec une moyenne pondérée périodique, selon la période coût moyen qui est paramétrée dans Dynamics NAV."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

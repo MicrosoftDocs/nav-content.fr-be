@@ -3,7 +3,7 @@ title: Statistiques service
 description: "Obtenez un aperçu rapide du contenu des documents service comme les commandes, devis, factures ou avoirs, ainsi que les détails des lignes service spécifiques et les articles de service."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

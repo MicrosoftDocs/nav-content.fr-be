@@ -3,7 +3,7 @@ title: "Procédure : Vente d'articles à assembler pour commande"
 description: "Si l'article est paramétré pour l'assemblage pour commande, alors l'article ne devrait pas être en stock, et doit être assemblé spécifiquement à une commande vente. Lorsque vous entrez l'article dans une ligne commande vente, un ordre d'assemblage est automatiquement créé et lié à la commande vente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

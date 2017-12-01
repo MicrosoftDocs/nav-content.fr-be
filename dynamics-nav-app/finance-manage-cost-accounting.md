@@ -3,7 +3,7 @@ title: "Comptabilité pour les coûts"
 description: "La comptabilité analytique vous permet de cerner les coûts liés à l'exploitation d'un activité. Pour vous familiariser avec la comptabilité analytique, reportez-vous aux rubriques suivantes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

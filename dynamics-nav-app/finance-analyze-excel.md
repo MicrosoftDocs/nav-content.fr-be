@@ -2,7 +2,7 @@
 title: "Utiliser des états financiers et des aperçus dans Excel"
 description: "En savoir plus sur la manière dont vous pouvez ouvrir des états financiers dans Microsoft Excel à partir de Dynamics NAV pour une meilleure analyse."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

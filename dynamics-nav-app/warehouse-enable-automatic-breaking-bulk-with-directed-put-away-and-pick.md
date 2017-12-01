@@ -3,7 +3,7 @@ title: "Rupture de charge automatique avec prélèvement et rangement dirigé"
 description: "En cas d'utilisation d'un prélèvement et d'un rangement suggérés dans les entrepôts, vous pouvez diviser une unité en unités plus petites lors de la création des instructions entrepôt répondant aux exigences de documents origine, d'ordres de fabrication ou de prélèvements et de rangements internes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

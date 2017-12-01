@@ -3,7 +3,7 @@ title: "Détails de conception - Qté fixe de commande"
 description: "La méthode Qté fixe de commande est liée à la planification du stock des articles C courants (coûts de stock faible, faible risque d'obsolescence, et/ou plusieurs articles). Cette méthode est généralement utilisée conjointement avec un point de commande reflétant la demande anticipée lors du délai de l'article."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

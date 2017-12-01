@@ -2,7 +2,7 @@
 title: Exposer des objets en tant que services Web
 description: "Lorsque vous publiez des objets [!INCLUDE[d365fin](includes/d365fin_md.md)] en tant que services Web, ils sont immédiatement disponibles sur le réseau."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

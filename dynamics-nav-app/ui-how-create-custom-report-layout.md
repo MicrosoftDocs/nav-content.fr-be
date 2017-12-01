@@ -3,7 +3,7 @@ title: "Créer et modifier des présentations personnalisées pour les rapports 
 description: "Découvrez comment créer vos propres présentations personnalisées qui vous permettent de personnaliser l'apparence d'un rapport lorsqu'il est consulté, imprimé ou enregistré."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

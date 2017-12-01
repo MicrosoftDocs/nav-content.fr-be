@@ -3,7 +3,7 @@ title: "Comment lettrer et délettrer des écritures comptables"
 description: "Le lettrage d'écritures comptables permet aux sociétés de travailler avec des comptes temporaires et de transfert dans la comptabilité. Les comptes temporaires et de transfert sont utilisés pour répertorier les écritures comptables en attente de traitement dans la comptabilité."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

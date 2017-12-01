@@ -3,7 +3,7 @@ title: "Détails de conception - Fenêtre Lignes traçabilité"
 description: "Découvrez comment gérer le flux de numéros de série et de lot dans votre stock."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

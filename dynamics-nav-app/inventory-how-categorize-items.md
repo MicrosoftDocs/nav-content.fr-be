@@ -3,7 +3,7 @@ title: "Organiser les articles en catégories"
 description: "Pour vous aider à rechercher et à trouver des articles, vous pouvez affecter des attributs d'article et organiser les articles en catégories."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

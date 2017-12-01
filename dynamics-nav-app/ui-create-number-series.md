@@ -3,7 +3,7 @@ title: "Procédure : création des souches de numéros "
 description: "Découvrez comment configurer des souches de numéros qui affectent les codes d'identification uniques aux comptes et aux documents dans Dynamics NAV."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

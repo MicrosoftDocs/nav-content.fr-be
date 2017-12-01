@@ -3,7 +3,7 @@ title: Comment configurer des magasins de sorte qu'ils utilisent des emplacement
 description: "Les emplacements représentent la structure d'entrepôt de base et sont utilisés pour faire des propositions relatives à l'emplacement des articles. Lorsque vous avez créé vos emplacements, vous pouvez définir précisément le contenu que vous souhaitez placer dans chacun d'entre eux, ou l'emplacement peut être utilisé en tant qu'emplacement dynamique sans contenu spécifié."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

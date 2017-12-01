@@ -3,7 +3,7 @@ title: "Procédure : déplacer des articles ad hoc dans les configurations de s
 description: "Vous pouvez être amené à déplacer des articles d'un emplacement interne vers un autre (et non vers des emplacements de réception ou d'expédition) sans demande spécifique issue d'un document origine. Vous pouvez exécuter ces mouvements ad hoc, par exemple, pour réorganiser l'entrepôt, pour acheminer des articles vers une zone d'inspection, ou pour déplacer des articles supplémentaires vers et depuis une zone de production sans qu'il existe une relation système avec le document origine de l'ordre de fabrication."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

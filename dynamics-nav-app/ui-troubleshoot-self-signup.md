@@ -3,7 +3,7 @@ title: "Moyens de résoudre des problèmes d'inscription en self-service"
 description: "En savoir plus sur les motifs classiques pour lesquels vous ne pouvez pas terminer l'inscription à Dynamics NAV, et des manières de les résoudre."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

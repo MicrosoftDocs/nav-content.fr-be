@@ -3,7 +3,7 @@ title: Comment tester les domiciliations
 description: "Pour tester les lignes feuille domiciliation, vous pouvez utiliser l'état **FS domicil. - Impression test**. Cet état imprime un aperçu de toutes les lignes feuille ainsi que des éventuelles erreurs, comme les champs manquants ou les comptes bancaires incorrects."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Définir les documents originaux à afficher"
 description: "Ajustez la vue par défaut des documents entrants, tels que des factures électroniques, afin d'améliorer votre vue d'ensemble des enregistrements traités et non-traités."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

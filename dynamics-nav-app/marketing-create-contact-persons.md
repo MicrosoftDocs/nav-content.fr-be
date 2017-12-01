@@ -3,7 +3,7 @@ title: "Création de personnes contact"
 description: "Décrit les tâches visant à créer une fiche contact pour une personne, par exemple, un prospect ou un fournisseur, afin de définir les relations et personnaliser la communication."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

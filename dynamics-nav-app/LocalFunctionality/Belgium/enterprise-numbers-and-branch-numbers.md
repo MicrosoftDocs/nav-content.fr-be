@@ -3,7 +3,7 @@ title: "Numéros d'entreprise et numéros d'établissement"
 description: "Les sociétés reçoivent un numéro d'entreprise unique et un ou plusieurs numéros d'établissement de la Banque-Carrefour des Entreprises belge. Ces numéros sont utilisés dans tous les échanges afin de simplifier la communication avec l'administration et les autorités juridiques belges."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

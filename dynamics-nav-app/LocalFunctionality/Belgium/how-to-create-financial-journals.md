@@ -3,7 +3,7 @@ title: "Comment créer des feuilles financières"
 description: "Les feuilles financières sont utilisées pour enregistrer des transactions de compte bancaire. La feuille financière vous permet d'entrer un solde de début et un solde final, puis de calculer automatiquement la différence afin de vérifier que toutes les transactions ont été enregistrées."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

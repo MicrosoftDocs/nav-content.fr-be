@@ -3,7 +3,7 @@ title: "Clôturer les comptes de gestion"
 description: "À la clôture d'exercice, vous devez exécuter le traitement par lots Clôture comptes de gestion afin de clôturer les périodes comptables de l'exercice fiscal."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

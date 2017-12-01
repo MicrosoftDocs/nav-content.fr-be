@@ -2,7 +2,7 @@
 title: "Utilisation des systèmes de saisie automatisée (ADCS)"
 description: "Vous pouvez utiliser votre système de saisie automatisée pour enregistrer le mouvement des articles de l'entrepôt et certaines activités de la feuille, notamment les ajustements de quantité de la feuille article entrepôt et les inventaires."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

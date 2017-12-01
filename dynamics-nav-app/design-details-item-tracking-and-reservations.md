@@ -3,7 +3,7 @@ title: "Détails de conception : traçabilité et réservations"
 description: "Cette rubrique présente la traçabilité et les réservations, et décrit les concepts qui leur sont associés."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

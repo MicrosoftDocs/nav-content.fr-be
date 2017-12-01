@@ -3,7 +3,7 @@ title: Configurer la comptabilisation des immobilisations
 description: "Avant d'utiliser des immobilisations, vous devez paramétrer des comptes généraux par défaut, des groupes de validation, des clés de ventilation, des feuilles et des modèles feuille, ainsi que les codes classe."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

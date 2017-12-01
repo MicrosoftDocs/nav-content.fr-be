@@ -2,7 +2,7 @@
 title: "Procédure de saisie de données dans les champs"
 description: "Il existe un grand nombre de fonctions générales qui vous permettent d’entrer des données de façon rapide et simple. Les fonctions générales d’entrée des données sont décrites dans cette rubrique."
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

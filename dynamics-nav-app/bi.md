@@ -3,7 +3,7 @@ title: "Veille économique"
 description: "Capturez et analysez des données métier, par exemple les chiffres de vente de l'organisation, les achats, les dépenses opérationnelles, les salaires des employés et les budgets, peuvent être des informations précieuses, pour la veille économique ou pour les décisionnaires."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

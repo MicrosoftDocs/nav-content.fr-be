@@ -3,7 +3,7 @@ title: "Procédure : configurer des heures de travail et des heures de service"
 description: "Vous pouvez spécifier les heures de travail service habituelles de votre société. Ces heures de service sont utilisées pour calculer la date et l'heure de réponse des commandes et des devis service, et envoyer des alertes relatives au délai de réponse."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

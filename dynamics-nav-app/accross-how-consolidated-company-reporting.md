@@ -3,7 +3,7 @@ title: "Consolider les données de plusieurs sociétés"
 description: "Obtenez une vue récapitulative de la santé financière de vos entreprises."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

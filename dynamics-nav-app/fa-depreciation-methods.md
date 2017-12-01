@@ -3,7 +3,7 @@ title: "Méthodes d'amortissement"
 description: "En savoir plus sur les différentes méthodes pour amortir ou déprécier des immobilisations."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

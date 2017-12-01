@@ -3,7 +3,7 @@ title: "Utiliser les nomenclatures pour gérer les composants"
 description: "Vous créez une nomenclature d'assemblage ou une nomenclature de production pour spécifier les composants ou ressources nécessaires pour assembler l'article que la nomenclature représente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

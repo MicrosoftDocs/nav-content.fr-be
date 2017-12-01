@@ -3,7 +3,7 @@ title: Description des processus Assembler pour commande et Assembler pour stock
 description: "Les éléments d'assemblage peuvent être fournis soit en les assemblant lors de leur commande ou en les assemblant pour les conserver en stock jusqu'à ce qu'ils soient nécessaires pour une commande vente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,13 +18,13 @@ ms.contentlocale: fr-be
 ms.lasthandoff: 10/16/2017
 
 ---
-# Description des processus Assembler pour commande et Assembler pour stock
+# <a name="understanding-assemble-to-order-and-assemble-to-stock"></a>Description des processus Assembler pour commande et Assembler pour stock
 Les éléments d'assemblage peuvent être fournis dans le cadre des deux processus suivants :  
 
 -   Assembler pour commande.  
 -   Assembler pour stock.  
 
-## Assembler pour commande  
+## <a name="assemble-to-order"></a>Assembler pour commande  
 En règle générale, vous utilisez *l'assemblage pour commande* pour les articles que vous ne souhaitez pas stocker parce que vous comptez les personnaliser en fonction des demandes des clients ou parce que vous voulez réduire les frais de transport associés au stock. La fonctionnalité de prise en charge inclut les points suivants :  
 
 -   Possibilité de personnaliser les éléments d'assemblage lors d'une prise de commande vente.  
@@ -44,7 +44,7 @@ Lorsque vous entrez un article à assembler pour commande sur une ligne vente, u
 
  Pour activer ce processus, il faut que le champ **Stratégie d'assemblage** de la fiche article contienne la valeur **Assembler pour commande**.  
 
-## Assembler pour stock  
+## <a name="assemble-to-stock"></a>Assembler pour stock  
  En règle générale, vous utilisez *l'assemblage pour stock* pour les articles que vous souhaitez assembler avant les ventes (par exemple, pour préparer des articles pour une campagne de kit et les conserver dans le stock jusqu'à ce qu'ils soient commandés). Ces articles sont généralement des articles standard tels que les kits emballés qui ne peuvent pas être personnalisés en fonction des demandes des clients.  
 
  Dans le processus d'assemblage pour stock, l'article est assemblé sans demande vente immédiate puis il est stocké dans l'entrepôt en tant qu'article de stock en vue d'une vente ultérieure ou d'une consommation en tant que produit semi-fini. Pour plus d'informations, voir [Procédure : assembler des articles](assembly-how-to-assemble-items.md). À ce stade, l'article est prélevé et traité en tant qu'article unique. Il est considéré comme un article fini.  
@@ -56,7 +56,7 @@ Lorsque vous entrez un article à assembler pour commande sur une ligne vente, u
 
  Pour activer ce processus, il faut que le champ **Stratégie d'assemblage** de la fiche article contienne la valeur **Assembler pour stock**.  
 
-## Scénarios de combinaison  
+## <a name="combination-scenarios"></a>Scénarios de combinaison  
  Un principe général de la gestion nomenclature d'assemblage stipule qu'une fois regroupées sur une ligne commande vente, les quantités à assembler pour commande doivent être expédiées avant les quantités de stock.  
 
  Si un ordre d'assemblage est lié à une ligne commande vente, la valeur du champ **Qté vers Assembler pour commande** sur la ligne commande vente est copiée dans le champ **Quantité à assembler** via le champ **Quantité** dans l'en\-tête d'ordre d'assemblage. Pour plus d'informations sur le paramétrage des éléments d'assemblage, voir [Procédure : Vente d'articles à assembler pour commande](assembly-how-to-sell-items-assembled-to-order.md).  
@@ -84,7 +84,7 @@ Lorsque vous entrez un article à assembler pour commande sur une ligne vente, u
 -   La quantité minimum que vous pouvez saisir est 1. En effet, vous devez assembler au moins une unité pour pouvoir vendre les quatre, en supposant que les trois autres soient disponibles dans le stock.  
 -   La quantité maximum que vous pouvez saisir est 4. Cela permet de s'assurer que vous n'assemblez pas une quantité d'articles assemblés pour commande supérieure à celle requise pour la vente.  
 
-## Voir aussi  
+## <a name="see-also"></a>Voir aussi  
 [Gestion des assemblages](assembly-assemble-items.md)  
 [Procédure : utiliser les nomenclatures](inventory-how-work-BOMs.md)  
 [STOCKS ET EN-COURS](inventory-manage-inventory.md)  

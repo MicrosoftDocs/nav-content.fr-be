@@ -3,7 +3,7 @@ title: "Détails de conception - Ajustement des coûts"
 description: "L'objet principal de l'ajustement des coûts est de transférer les changements depuis les coûts des sources de coût aux destinataires de coût, selon le mode évaluation stock d'un article, pour fournir une évaluation du stock correcte."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Gérer des immobilisations"
 description: "En savoir plus sur la fonctionnalité d'immobilisations dans Dynamics NAV et afficher un aperçu de l'utilisation des immobilisations."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

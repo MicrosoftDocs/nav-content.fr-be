@@ -2,7 +2,7 @@
 title: "À propos de l'infrastructure d'échange de données"
 description: "Le format des fichiers utilisés pour l'échange de données bancaires, les documents électroniques, les taux de change de devises, et d'autres fichiers utilisés avec les systèmes ERP varie selon le fournisseur du fichier de données ou du flux, et selon le pays ou la région."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Aperçu des états permettant de préparer les états de clôture"
 description: "Fournit un aperçu des états que vous pouvez utiliser pour rassembler les informations pour préparer les états de clôture de votre société à la fin de l'année fiscale."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

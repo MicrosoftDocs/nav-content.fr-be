@@ -2,7 +2,7 @@
 title: "Procédure : modifier le montant annuel du contrat service ou du devis contrat"
 description: "Vous pouvez modifier le montant facturé annuellement sur des contrats de service ou des devis contrat de service."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

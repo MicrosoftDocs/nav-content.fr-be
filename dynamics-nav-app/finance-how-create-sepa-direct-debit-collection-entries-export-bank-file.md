@@ -2,7 +2,7 @@
 title: "Exporter des écritures de collection prélèvement SEPA"
 description: "Créez une collection prélèvement, qui contient des informations sur le compte bancaire du client, les factures vente affectées et le mandat de prélèvement."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Paramétrer du contenu et des pièces jointes spécifiques au document p
 description: "Vous pouvez définir le contenu à insérer dans le corps de l'e-mail, par exemple, un lien Paypal. Vous pouvez également joindre des documents aux e-mails."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

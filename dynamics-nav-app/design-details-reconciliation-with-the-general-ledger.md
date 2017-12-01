@@ -3,7 +3,7 @@ title: "Détails de conception - Rapprochement de comptabilité"
 description: "Cette rubrique décrit le rapprochement de comptabilité lorsque vous validez des mouvements de stock, tels que des expéditions vente, des productions ou des ajustements négatifs."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

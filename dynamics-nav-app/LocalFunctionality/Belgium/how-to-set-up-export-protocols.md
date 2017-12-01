@@ -3,7 +3,7 @@ title: Comment configurer des protocoles d'exportation
 description: "Avant de pouvoir utiliser la banque électronique, vous devez configurer des protocoles d'exportation. Les protocoles d'exportation définissent le format de fichier généré lorsque vous exportez l'historique des paiements à traiter par la banque. Chaque ligne contient un protocole d'exportation identifié par un code et une description. Vous pouvez configurer autant de protocoles d'exportation que vous le souhaitez. Vous devez configurer un protocole d'exportation pour les paiements nationaux, internationaux, SEPA et SEPA non libellés en Euro."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -18,7 +18,7 @@ ms.contentlocale: fr-be
 ms.lasthandoff: 10/23/2017
 
 ---
-# Comment configurer des protocoles d'exportation
+# <a name="how-to-set-up-export-protocols"></a>Comment configurer des protocoles d'exportation
 Avant de pouvoir utiliser la banque électronique, vous devez configurer des protocoles d'exportation. Les protocoles d'exportation définissent le format de fichier généré lorsque vous exportez l'historique des paiements à traiter par la banque. Chaque ligne contient un protocole d'exportation identifié par un code et une description. Vous pouvez configurer autant de protocoles d'exportation que vous le souhaitez. Vous devez configurer un protocole d'exportation pour les paiements nationaux, internationaux, SEPA et SEPA non libellés en Euro.  
 
  Les protocoles d'exportation vous permettent d'attribuer le codeunit qui définit le contrôle à effectuer avant l'exportation des lignes de paiement dans un fichier et l'état qui définit le format de paiement. Par exemple, vous pouvez avoir un protocole d'exportation nommé **DOM1**. Celui-ci contient le codeunit de contrôle **Vérifier les paiements intérieurs** et l'état **Classer les paiements intérieurs**. Chaque protocole d'exportation est associé à un codeunit de contrôle et à un état correspondant, comme indiqué dans le tableau suivant.  
@@ -33,7 +33,7 @@ Avant de pouvoir utiliser la banque électronique, vous devez configurer des pro
 
  Après avoir configuré des protocoles d'exportation, vous pouvez les utiliser dans vos feuilles paiement de banque électronique.  
 
-## Pour configurer un protocole d'exportation  
+## <a name="to-set-up-an-export-protocol"></a>Pour configurer un protocole d'exportation  
 
 1.  Sélectionnez l'icône ![Rechercher une page ou un état](../../media/ui-search/search_small.png "icône Rechercher une page ou un état"), entrez **Protocoles d'exportation**, puis sélectionnez le lien correspondant.  
 2.  Choisissez l'action **Nouveau**.  
@@ -52,7 +52,7 @@ Avant de pouvoir utiliser la banque électronique, vous devez configurer des pro
 
 4.  Cliquez sur le bouton **OK**.  
 
-## Voir aussi  
+## <a name="see-also"></a>Voir aussi  
  [Paiements électroniques belges](belgian-electronic-payments.md)   
  [Comment créer des modèles et lots feuille paiement](how-to-create-payment-journal-templates-and-batches.md)   
  [Comment tester les paiements électroniques](how-to-test-electronic-payments.md)

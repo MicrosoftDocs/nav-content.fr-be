@@ -3,7 +3,7 @@ title: "Utilisation de feuilles comptabilité pour valider directement dans la c
 description: "Découvrez comment utiliser des feuilles comptabilité pour valider des transactions financières dans les comptes généraux et dans d'autres comptes, tels que les comptes bancaires et fournisseur."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

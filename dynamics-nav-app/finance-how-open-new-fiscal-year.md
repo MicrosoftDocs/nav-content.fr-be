@@ -2,7 +2,7 @@
 title: "Créer des périodes et des exercices comptables"
 description: "Vous devez ouvrir un exercice comptable et définir ses périodes comptables avant de pouvoir y effectuer une validation."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

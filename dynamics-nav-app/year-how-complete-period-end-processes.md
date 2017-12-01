@@ -3,7 +3,7 @@ title: "Activités facultatives pour les périodes de clôture"
 description: "Cette rubrique décrit les processus et les activités facultatifs pour la clôture des périodes comptables dans Dynamics NAV."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: Configurer des acheteurs d'articles et les affecter aux fournisseurs
 description: "Si plusieurs acheteurs ou agents d'achat travaillent dans votre société, vous pouvez les planifier pour l'analyse statistique."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Comment imprimer des déclarations de TVA périodiques"
 description: "La fonction de déclaration de TVA vous permet d'imprimer des détails sur les transactions TVA. Vous devez envoyer les déclarations TVA suivantes aux autorités fiscales belges :"
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

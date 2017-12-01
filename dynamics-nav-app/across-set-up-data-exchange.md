@@ -2,7 +2,7 @@
 title: "Configurer un échange de données"
 description: "Configurer l'infrastructure d'échange de données dans Dynamics NAV"
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

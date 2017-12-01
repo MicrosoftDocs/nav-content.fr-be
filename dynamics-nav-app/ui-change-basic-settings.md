@@ -3,7 +3,7 @@ title: "Affichage et modification des paramètres de base dans Dynamics NAV"
 description: "Découvrez comment modifier certains des paramètres de base de Dynamics NAV, par exemple, le Tableau de bord, la société, ou la date de travail."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

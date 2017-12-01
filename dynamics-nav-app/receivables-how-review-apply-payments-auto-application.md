@@ -3,7 +3,7 @@ title: "Vérifier les paiements lettrés automatiquement et relettrer des paieme
 description: "Après le lettrage automatique des paiements, vous pouvez consulter toutes les écritures d'un paiement et relettrer manuellement celles qui ont été mal lettrées."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

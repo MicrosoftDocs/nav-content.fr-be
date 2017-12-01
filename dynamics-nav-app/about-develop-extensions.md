@@ -3,7 +3,7 @@ title: Personnaliser Dynamics NAV
 description: "Concevoir, présenter et promouvoir vos applications et extensions pour Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na

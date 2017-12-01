@@ -3,7 +3,7 @@ title: Configurer des attributs article et les affecter aux articles
 description: "Décrit comment configurer les valeurs d'attributs d'articles, par exemple, qui peuvent être utilisées comme mots recherchés, et les affecter aux articles et aux catégories article."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

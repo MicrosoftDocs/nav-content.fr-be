@@ -3,7 +3,7 @@ title: Comment configurer des domiciliations
 description: "Avant de pouvoir utiliser la banque électronique pour les domiciliations, vous devez entrer le compte bancaire préféré et le numéro de domiciliation du client."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

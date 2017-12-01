@@ -3,7 +3,7 @@ title: "Aperçu des tâches pour clôturer les livres"
 description: "En savoir plus sur le processus de clôture des livres d'un exercice ou d'une période fiscale, et ce qui a lieu après la clôture à la fin d'un exercice."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

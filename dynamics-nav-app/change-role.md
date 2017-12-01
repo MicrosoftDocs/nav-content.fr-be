@@ -3,7 +3,7 @@ title: Modifier de tableau de bord
 description: "Vous pouvez sélectionner un autre profil dans Dynamics NAV pour modifier ce que vous voyez sur votre page Accueil."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

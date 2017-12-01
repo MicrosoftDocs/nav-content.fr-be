@@ -2,7 +2,7 @@
 title: "Procédure : créer des articles de service"
 description: "Lorsque vous recevez en maintenance un article non enregistré, vous pouvez l'enregistrer en tant qu'article de service."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

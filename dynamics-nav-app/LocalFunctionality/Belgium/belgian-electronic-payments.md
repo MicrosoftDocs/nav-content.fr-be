@@ -3,7 +3,7 @@ title: "Paiements électroniques belges"
 description: "Dans le module de banque électronique, dans [!INCLUDE[navnow](../../includes/navnow_md.md)], vous pouvez effectuer des paiements électroniques nationaux, internationaux, SEPA ou SEPA non libellés en Euro."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

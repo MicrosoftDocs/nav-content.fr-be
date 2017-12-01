@@ -3,7 +3,7 @@ title: "Gestion des coûts ajustés"
 description: "La gestion des coûts, aussi appelée comptabilité analytique, se charge de l'enregistrement et de la déclaration des coûts d'exploitation de la société. Cette activité inclut la déclaration des coûts de fabrication et de stock qui constituent la valeur des articles."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Comment définir la date de travail comme date de validation"
 description: "Vous pouvez régler les paramètres de comptabilité pour que la date de travail soit utilisée comme date de validation pour les écritures client ou fournisseur ouvertes sur une facture, un paiement ou un avoir."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

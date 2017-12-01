@@ -3,7 +3,7 @@ title: "Comment affecter des numéros de série et des numéros de lot à des ar
 description: "Vous pouvez ajouter des numéros de série et de lot à n'importe quel document sortant ou entrant, puis afficher les écritures traçabilité validées dans les écritures comptables articles correspondantes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : créer une prévision production"
 description: "Vous pouvez créer des prévisions de vente et de production à l'aide de la fenêtre **Prévision production**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

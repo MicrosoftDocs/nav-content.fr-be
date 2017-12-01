@@ -3,7 +3,7 @@ title: Bienvenue
 description: "Décrit les guides de configuration assistée, les vidéos, les rubriques d'aide, et les pages et fenêtres à utiliser pour vous préparer à faire des affaires dans Dynamics NAV."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

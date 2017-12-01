@@ -3,7 +3,7 @@ title: Isabel 6
 description: "L'organisation Isabel a développé une plateforme appelée Client Isabel Synchronizer (CIS), qui permet l'intégration sécurisée de [!INCLUDE[navnow](../../includes/navnow_md.md)] avec Isabel. CIS traite les échanges de documents depuis et vers le serveur Isabel."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

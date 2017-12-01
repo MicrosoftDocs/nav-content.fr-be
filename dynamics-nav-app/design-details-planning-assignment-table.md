@@ -3,7 +3,7 @@ title: "Détails de conception - Tableau d'affectation de planification"
 description: "Cette rubrique donne un aperçu de ce qui se produit lorsque vous modifiez la planification d'un article."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

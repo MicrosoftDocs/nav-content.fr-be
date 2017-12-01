@@ -3,7 +3,7 @@ title: "Procédure : Vente d'articles en stock dans des flux à assembler pour 
 description: "Si l'article est configuré pour la fiche d'assemblage pour commande, le processus par défaut de commande vente considère que l'article n'est pas en stock et doit être assemblé pour cette commande vente spécifique. Par conséquent, un ordre d'assemblage lié est automatiquement créé lorsque vous ajoutez l'article à une ligne commande vente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

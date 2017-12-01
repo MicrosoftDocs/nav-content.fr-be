@@ -2,7 +2,7 @@
 title: Voir le contenu dans d'autres langues
 description: Vous pouvez visualiser le contenu de l'aide pour Dynamics NAV dans d'autres langues.
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Procédure : valider des commandes service"
 description: "Après avoir créé une commande service, fourni toutes les informations et apporté les éventuelles modifications, vous pouvez valider cette commande. Pour que vous puissiez valider une commande, celle-ci doit contenir au moins une ligne service et une ligne facture service avant. Si la commande contient plusieurs lignes service, toutes les lignes sont validées en même temps."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

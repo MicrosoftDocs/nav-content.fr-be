@@ -3,7 +3,7 @@ title: Comment configurer des nomenclatures produits belges
 description: "Les administrations douanières et fiscales belges ont établi un code article à 8 chiffres pour certains articles de la nomenclature."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

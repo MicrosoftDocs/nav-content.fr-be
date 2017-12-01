@@ -3,7 +3,7 @@ title: "Gérer les segments et sélectionner les contacts à inclure"
 description: "Décrit les tâches pour créer un segment pour sélectionner un groupe de contacts en fonction de critères spécifiques, par exemple, les contacts dans un secteur que vous souhaitez cibler."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

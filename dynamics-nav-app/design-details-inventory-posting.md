@@ -3,7 +3,7 @@ title: "Détails de conception - Comptabilisation stock"
 description: "Chaque mouvement stock, par exemple une réception achat ou une expédition vente, valide deux écritures de différents types."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

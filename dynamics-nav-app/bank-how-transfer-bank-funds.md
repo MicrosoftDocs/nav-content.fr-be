@@ -3,7 +3,7 @@ title: "Transfert de fonds à la banque"
 description: "Vous pouvez transférer des montants d'un compte bancaire à un autre, y compris dans différentes devises, en validant la transaction dans la feuille comptabilité."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

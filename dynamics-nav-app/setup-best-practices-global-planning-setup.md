@@ -2,7 +2,7 @@
 title: "Pratiques recommandées pour la configuration du planning général"
 description: "Le raccourci **Planning** de la fenêtre **Paramètres production** comporte plusieurs champs permettant de définir les règles globales pour la planification des approvisionnements."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

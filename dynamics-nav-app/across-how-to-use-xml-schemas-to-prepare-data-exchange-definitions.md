@@ -2,7 +2,7 @@
 title: "Créer des objets XMLport basés sur des schémas XML"
 description: "Utilisez des schémas XML pour configurer l'infrastructure d'échange de documents."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

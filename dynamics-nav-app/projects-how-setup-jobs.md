@@ -3,7 +3,7 @@ title: "Paramétrer des tarifs de projets et des groupes de comptabilisation de 
 description: "Décrit comment configurer des informations générales de projets, et des prix d'articles de projet, des ressources, ainsi que des comptes généraux et des groupes de comptabilisation projets."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

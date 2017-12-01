@@ -3,7 +3,7 @@ title: "Paramétrage de la gestion des services"
 description: "Aperçu des tâches de paramétrage de la gestion des services en fonction de la manière dont vos partenaires gère leurs services."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

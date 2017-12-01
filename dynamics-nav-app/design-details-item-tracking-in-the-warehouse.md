@@ -3,7 +3,7 @@ title: "Détails de conception - Disponibilité traçabilité"
 description: "Cette rubrique décrit comment les personnes qui traitent les commandes peuvent se baser sur la disponibilité des numéros de série ou de lot."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

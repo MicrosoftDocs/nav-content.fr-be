@@ -3,7 +3,7 @@ title: "Aperçu des tâches permettant de paramétrer vos achats"
 description: "Décrit les tâches permettant de définir les stratégies d'approvisionnement de votre société et de déterminer vos processus d'achat."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

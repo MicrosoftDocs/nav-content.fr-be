@@ -3,7 +3,7 @@ title: "Echelonner les recettes et les dépenses"
 description: "Pour identifier des recettes ou des dépenses dans des période autres que la période de validation de la transaction, vous pouvez utiliser la fonctionnalité pour les échelonner ou les reporter automatiquement selon un calendrier précis."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

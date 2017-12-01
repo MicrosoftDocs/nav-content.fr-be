@@ -2,7 +2,7 @@
 title: "Affecter des autorisations d'utilisateur et créez ou modifiez des ensembles d'autorisations"
 description: "Décrit comment ajouter des utilisateurs d'Office 365 à Dynamics NAV, puis affecter des autorisations, des droits d'accès et des paramètres de sécurité."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

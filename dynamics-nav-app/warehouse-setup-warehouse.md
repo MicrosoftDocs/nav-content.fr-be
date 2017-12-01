@@ -3,7 +3,7 @@ title: "Configuration des processus entrepôt"
 description: "La stratégie de distribution d'une société se reflète dans la configuration de ses processus entrepôt : cela inclut la définition de la manière dont différents articles sont traités dans différents entrepôts (par exemple, degré de contrôle des emplacements et étendue du flux requis entre les activités entrepôt)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

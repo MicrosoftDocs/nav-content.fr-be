@@ -3,7 +3,7 @@ title: "Création de budgets"
 description: "Décrit la création de budgets pour prévoir différentes activités financières et affecter des axes analytiques à des fins de veille économique."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

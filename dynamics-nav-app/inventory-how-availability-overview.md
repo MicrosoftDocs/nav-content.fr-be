@@ -3,7 +3,7 @@ title: "Obtenir un aperçu des disponibilités"
 description: "Vous obtenez des informations sur la disponibilité des articles ou du stock dans tous les magasins, par événement de vente ou d'achat, par période ou par position de l'article sur une nomenclature d'assemblage ou de production."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

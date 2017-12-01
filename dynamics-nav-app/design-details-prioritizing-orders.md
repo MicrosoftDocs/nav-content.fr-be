@@ -3,7 +3,7 @@ title: "Détails de conception - Affecter une priorité aux commandes"
 description: "Découvrez comment affecter une priorité pour répondre à la demande et l'approvisionnement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

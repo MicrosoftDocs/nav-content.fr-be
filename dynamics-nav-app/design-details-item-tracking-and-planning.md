@@ -3,7 +3,7 @@ title: "Détails de conception - Lettrage article"
 description: "Cette rubrique décrit le lettrage article lorsque vous validez un mouvement de stock."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Utilisation de l'extension Prévisions des ventes et des stocks pour gé
 description: "Cette extension vous aide à prévoir les ventes, avoir un aperçu clair des ruptures de stock prévues, et même de vous aider à créer des demandes de réapprovisionnement aux fournisseurs."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

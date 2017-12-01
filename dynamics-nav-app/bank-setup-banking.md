@@ -3,7 +3,7 @@ title: "Configuration des opérations bancaires"
 description: "Utilisez les fiches compte bancaire pour suivre vos comptes bancaires et paramétrer le flux bancaire pour échanger des données."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

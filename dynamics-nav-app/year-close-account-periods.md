@@ -3,7 +3,7 @@ title: "Clôturer des périodes comptables pour un exercice comptable"
 description: "Décrit comment clôturer les périodes comptables de l'exercice comptable."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

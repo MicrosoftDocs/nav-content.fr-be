@@ -3,7 +3,7 @@ title: "Procédure : afficher des instances d'étape de workflow archivées"
 description: "Toutes les instances d'étape de flux de travail terminées sont enregistrées dans la fenêtre **Instances d'étape de flux de travail archivées**."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

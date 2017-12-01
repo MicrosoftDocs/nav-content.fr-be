@@ -3,7 +3,7 @@ title: Paiements SEPA
 description: "Le format SEPA (Single Euro Payments Area) unifie les modes de paiement des pays/régions européens participants. Cela rend les paiements internationaux aussi faciles à traiter que les paiements nationaux. Quel que soit leur emplacement, les citoyens et les sociétés européens peuvent effectuer et recevoir des paiements en euros, dans ou au-delà des frontières nationales, avec les mêmes conditions, droits et obligations de base."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

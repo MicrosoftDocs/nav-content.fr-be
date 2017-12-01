@@ -3,7 +3,7 @@ title: "Procédure : replanifier ou actualiser directement des ordres de fabric
 description: "Les lignes O.F. affichent les articles à produire à l'aide de l'ordre de fabrication."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

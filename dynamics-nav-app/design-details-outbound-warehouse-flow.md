@@ -3,7 +3,7 @@ title: "Détails de conception - Flux de désenlogement"
 description: "Le flux sortant dans l'entrepôt commence par une demande provenant des documents origine lancés pour amener les articles hors de l'entrepôt, pour les expédier soit à un tiers, soit à un autre magasin de la société. Depuis la zone de stockage, des activités entrepôt sont effectuées à différents niveaux de complexité pour sortir les articles pour les amener au quai d'expédition."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

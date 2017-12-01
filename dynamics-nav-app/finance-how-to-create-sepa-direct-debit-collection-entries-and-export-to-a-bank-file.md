@@ -2,7 +2,7 @@
 title: "Recouvrement prélèvement SEPA"
 description: "Créez un recouvrement prélèvement et exportez un fichier XML que vous envoyez ou chargez vers votre banque électronique en vue de son traitement."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

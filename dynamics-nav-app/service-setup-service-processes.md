@@ -3,7 +3,7 @@ title: Configurer les processus de gestion des services
 description: "Apprenez comment configurer les processus qui permettent de vérifier que les clients sont satisfaits de votre service client."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

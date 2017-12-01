@@ -3,7 +3,7 @@ title: Effectuer le suivi des segments et des interactions correspondantes
 description: "En savoir plus sur la création de segments pour définir des groupes de contacts et spécifier des interactions pour des segments."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

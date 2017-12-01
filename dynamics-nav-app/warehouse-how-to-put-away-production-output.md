@@ -3,7 +3,7 @@ title: "Procédure : rangement de la production"
 description: "Le mode de rangement de la production dépend du mode de configuration de l'entrepôt en tant qu'emplacement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

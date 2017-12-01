@@ -3,7 +3,7 @@ title: "Détails de conception - Composants des coûts"
 description: "Les composants de coût sont différents types de coûts qui constituent la valeur d'une entrée de stock ou d'une sortie."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -3,7 +3,7 @@ title: "Écart de règlement et écart d'escompte"
 description: "Vous pouvez configurer l'écart de règlement de manière à fermer une facture lorsque le paiement ne couvre pas entièrement le montant de la facture."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

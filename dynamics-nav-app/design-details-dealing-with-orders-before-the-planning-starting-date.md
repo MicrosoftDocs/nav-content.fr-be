@@ -3,7 +3,7 @@ title: "Détails de conception - Traiter les commandes avant la date début de
 description: "Cette rubrique décrit les règles appliquées par la planification aux commandes dans la zone gelée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

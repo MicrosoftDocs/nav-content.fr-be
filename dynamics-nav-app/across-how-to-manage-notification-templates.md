@@ -3,7 +3,7 @@ title: "Procédure : Gérer les modèles de notification"
 description: "Des notifications sont envoyées aux utilisateurs du workflow pour les informer des étapes à suivre ou du statut des étapes du workflow. Vous configurez qui reçoit des notifications et quand, en définissant des utilisateurs approbation, le calendrier de notification des utilisateurs, et les réponses de workflow concernées afin de déterminer les destinataires de notifications. Pour plus d'informations, voir [Configuration de notifications de flux de travail] (across-setting-up-workflow-notifications.md)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

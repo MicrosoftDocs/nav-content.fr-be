@@ -3,7 +3,7 @@ title: "Comment configurer les coûts associés"
 description: "Découvrez comment configurer les coûts associés, qui sont similaires aux axes analytiques pour la comptabilité."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

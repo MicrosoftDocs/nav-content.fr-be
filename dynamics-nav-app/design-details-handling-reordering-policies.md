@@ -3,7 +3,7 @@ title: "Détails de conception - Gestion des méthodes de réapprovisionnement
 description: "Aperçu des tâches pour définir une méthode de réapprovisionnement dans la planification des approvisionnements."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

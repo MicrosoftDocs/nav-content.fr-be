@@ -3,7 +3,7 @@ title: "Analyse des données par axe analytique"
 description: "Décrit comment analyser les diverses données métier par axe analytique."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

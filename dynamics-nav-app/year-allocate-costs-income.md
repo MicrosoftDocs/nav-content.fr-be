@@ -3,7 +3,7 @@ title: "Aperçu des tâches de ventilation des coûts et des revenus"
 description: "Décrit les tâches pour ventiler une écriture dans une feuille comptabilité dans différents comptes lorsque vous validez la feuille."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

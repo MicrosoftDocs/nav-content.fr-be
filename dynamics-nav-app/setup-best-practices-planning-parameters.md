@@ -2,7 +2,7 @@
 title: "Configurer des recommandations : paramètres de planification"
 description: "Le raccourci **Planning** de la fiche article est le cœur de la chaîne d'approvisionnement de la société. Définir des paramètres appropriés de planification est très important pour une gestion rentable des stocks et un service client de haute qualité."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

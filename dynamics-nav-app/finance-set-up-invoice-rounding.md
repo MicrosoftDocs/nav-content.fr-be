@@ -3,7 +3,7 @@ title: Configuration de la fonction arrondi facture
 description: "Vous pouvez arrondir les montants des factures lors de la création de celles-ci. De plus, les réglementations ou la douane locale peuvent exiger des factures arrondies d'une certaine manière, par exemple, divisibles par 0,05."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

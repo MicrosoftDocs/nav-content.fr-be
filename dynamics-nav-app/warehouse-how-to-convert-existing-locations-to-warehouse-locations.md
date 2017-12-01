@@ -3,7 +3,7 @@ title: "Comment convertir des magasins existants en magasins entrepôt"
 description: "Vous pouvez activer un emplacement de manière à ce qu'il utilise les zones et emplacements, et qu'il devienne l'entrepôt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

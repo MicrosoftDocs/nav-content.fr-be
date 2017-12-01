@@ -3,7 +3,7 @@ title: "Définir les contacts dans un segment"
 description: "Après avoir créé un segment, vous pouvez y ajouter des contacts, par exemple, dans le cadre d'une campagne marketing visant des clients particuliers."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

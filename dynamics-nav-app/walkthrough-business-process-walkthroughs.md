@@ -3,7 +3,7 @@ title: "Procédures pas à pas liées au processus entreprise"
 description: "Cette sélection de procédures fournit des processus entreprise pas à pas et de bout en bout que vous pouvez suivre avec la société de démonstration CRONUS International Ltd. Elles comportent différentes procédures : certaines d'entre elles sont généralement suivies par un utilisateur, tandis que d'autres impliquent plusieurs rôles utilisateur. Pour simuler l'environnement de travail, certaines procédures pas à pas contiennent les étapes de configuration nécessaires pour effectuer les exercices décrits. Ces étapes indiquent aux utilisateurs le type d'informations qu'ils doivent partager avec les responsables informatiques de leur société."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

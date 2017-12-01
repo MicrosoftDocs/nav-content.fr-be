@@ -3,7 +3,7 @@ title: Comment calculer des dates promesse livraison
 description: "La fonction de configuration des promesses livraison est un outil permettant de calculer la date la plus proche à laquelle un article est disponible pour la livraison ou l'expédition. Cette fonction crée également des lignes demande achat pour les dates que vous acceptez."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

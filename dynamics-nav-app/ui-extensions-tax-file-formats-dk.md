@@ -2,7 +2,7 @@
 title: Utilisation de l'extension Formats de fichier fiscal (DK)
 description: "Cette extension facilite l'exportation de fichiers préformatés pour répondre aux exigences bancaires pour les soumissions électroniques."
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

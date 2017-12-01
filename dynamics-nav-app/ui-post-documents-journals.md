@@ -3,7 +3,7 @@ title: "Aperçu de la validation des documents et des feuilles"
 description: "Décrit la validation des actions et les méthodes vous permettant de valider des documents et des feuilles."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

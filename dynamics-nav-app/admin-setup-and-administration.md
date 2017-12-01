@@ -2,7 +2,7 @@
 title: "Tâches administratives dans Dynamics NAV"
 description: "Certaines tâches dans [!INCLUDE[d365fin](includes/d365fin_md.md)] requièrent une administration centrale et une configuration. Découvrez quelles sont ces tâches et ce que vous devez faire."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

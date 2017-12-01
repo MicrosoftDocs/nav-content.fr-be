@@ -3,7 +3,7 @@ title: "Acquérir des immobilisations"
 description: "Vous pouvez paramétrer une immobilisation, attribuer une loi d'amortissement et enregistrer le coût d'acquisition de l'immobilisation."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

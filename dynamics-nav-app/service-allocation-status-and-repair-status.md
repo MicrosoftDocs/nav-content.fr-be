@@ -3,7 +3,7 @@ title: "Statut affectation et statut réparation"
 description: "Découvrez la relation entre le statut réparation des articles de service et le statut affectation des écritures d'affectation associées."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na

@@ -2,7 +2,7 @@
 title: Configurer un vendeur
 description: "Vous pouvez configurer un identifiant pour chacun de vos vendeurs, afin de pouvoir suivre les performances de la personne ou affecter un vendeur à un contact."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
