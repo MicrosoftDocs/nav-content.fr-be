@@ -3,7 +3,7 @@ title: "Détails de conception - Modes évaluation stock"
 description: "Le mode d'évaluation du stock détermine si une valeur réelle ou budgétée est capitalisée et prise en compte dans le calcul des coûts. Au même titre que la date comptabilisation et la séquence, le mode d'évaluation du stock a une incidence sur l'enregistrement du flux des coûts."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 18f78d44900abcf615cd26e0d1a6a4fd36b27587
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: cc844fd1cbf963bab33aef76934ed22574c41a37
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-costing-methods"></a><span data-ttu-id="801e8-104">Détails de conception : modes évaluation stock</span><span class="sxs-lookup"><span data-stu-id="801e8-104">Design Details: Costing Methods</span></span>

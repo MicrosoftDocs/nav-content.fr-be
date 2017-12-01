@@ -3,7 +3,7 @@ title: Comment imprimer les fichiers paiement
 description: "Après avoir imprimé un test et corrigé toutes les erreurs, vous pouvez imprimer les lignes feuille paiement dans un fichier paiement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 49936b0396a4c52ca78d150feeeeaff96c149ae9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6025c77ba93759930e117f5d748a26d9a1a3230f
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-print-payment-files"></a><span data-ttu-id="2b43e-103">Comment imprimer les fichiers paiement</span><span class="sxs-lookup"><span data-stu-id="2b43e-103">How to: Print Payment Files</span></span>

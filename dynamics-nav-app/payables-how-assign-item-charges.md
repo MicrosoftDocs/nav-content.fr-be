@@ -3,7 +3,7 @@ title: Affecter les frais annexes aux ventes et aux achats
 description: "Si vous voulez que vos articles de stock comptabilisent les coûts ajoutés, tels que le fret, la manutention, les assurances, et transport, que vous encourez lorsque vous achetez ou vendez des articles, vous pouvez utiliser la fonction Frais annexes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: transportation, added cost
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f5eebe7d1837657771d4f3004627be716d4d51bc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 61de0751c1f46349cf876e6aa978fe755d4da83c
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-use-item-charges-to-account-for-additional-trade-costs"></a><span data-ttu-id="da776-103">Procédure : Utiliser Frais annexes pour comptabiliser les coûts commerciaux supplémentaires</span><span class="sxs-lookup"><span data-stu-id="da776-103">How to: Use Item Charges to Account for Additional Trade Costs</span></span>

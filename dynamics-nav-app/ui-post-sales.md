@@ -3,7 +3,7 @@ title: Familiarisation avec la validation des documents vente
 description: "En savoir plus sur les différentes fonctions de validation pour valider des documents vente."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 06/02/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 7261e8faca0c14330e66093f8db3d44935c4d141
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a43c9639592b8249481832cb2b3a89e93638f229
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="posting-sales"></a><span data-ttu-id="32de2-103">Validation des ventes</span><span class="sxs-lookup"><span data-stu-id="32de2-103">Posting Sales</span></span>

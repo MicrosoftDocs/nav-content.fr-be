@@ -3,7 +3,7 @@ title: "Procédure : valider les coûts ajustés dans la comptabilité"
 description: "Décrit comment gérer les biens physiques que vous commercialisez, par exemple, la gestion du stock de votre entrepôt."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: warehouse, stock
 ms.date: 07/05/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d64a70afef173d279a52fc1ca1ed9b9e7777eea6
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fcbf21b5b49e0c75457f1152fb2394a5e9893bc5
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-reconcile-inventory-costs-with-the-general-ledger"></a><span data-ttu-id="6a825-103">Procédure : rapprocher les coûts ajustés avec la comptabilité</span><span class="sxs-lookup"><span data-stu-id="6a825-103">How to: Reconcile Inventory Costs with the General Ledger</span></span>

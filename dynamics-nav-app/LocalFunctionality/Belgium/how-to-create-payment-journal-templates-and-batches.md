@@ -3,7 +3,7 @@ title: "Comment créer des modèles et lots feuille paiement"
 description: "Dans [!INCLUDE[navnow](../../includes/navnow_md.md)], des propositions de paiement sont générées et validées dans les feuilles paiement. La structure de la feuille paiement est semblable à celle des autres types de feuilles."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 2134226936e733f0756249436c5cb77f56a125d4
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 13d9aaf1187e4b5da3f4482ad50b45949a1486d2
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-payment-journal-templates-and-batches"></a><span data-ttu-id="9d43f-104">Comment créer des modèles et lots feuille paiement</span><span class="sxs-lookup"><span data-stu-id="9d43f-104">How to: Create Payment Journal Templates and Batches</span></span>

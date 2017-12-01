@@ -3,7 +3,7 @@ title: "État intracommunautaire belge"
 description: "Des sociétés dans l'Unions européenne (UE) sont nécessaires pour les déclarations d'activités commerciales avec d'autres pays de l'UE. Ce processus de déclaration s'effectue via une déclaration intracommunautaire ou VIES (système d'échange d'informations sur la TVA)."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 787e06f1f64ac1227e80e02e3b1b9f4cb1c7cb55
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 43954f17b20521c71dadb23b0213c89c0e597a01
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="belgian-intrastat-reporting"></a><span data-ttu-id="bcaf2-104">État intracommunautaire belge</span><span class="sxs-lookup"><span data-stu-id="bcaf2-104">Belgian Intrastat Reporting</span></span>

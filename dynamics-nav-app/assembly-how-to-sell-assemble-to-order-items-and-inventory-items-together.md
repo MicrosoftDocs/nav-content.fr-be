@@ -3,7 +3,7 @@ title: "Procédure : Vente simultanée d'articles à assembler pour commande et
 description: "Si l'élément d'assemblage est configuré pour l'assemblage pour stock, le processus par défaut de commande vente se base sur l'hypothèse que l'article est déjà assemblé et peut être prélevé du stock, s'il est disponible. Mais si une partie (ou la totalité) de la quantité n'est pas disponible, vous avez la possibilité de créer un ordre d'assemblage pour la quantité restante à la volée."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/15/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3c03adc34e009bada13f0f4ff36267d39a987749
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6c8e7ab02a6e50f7de5d2d2dee21456608a0c7b9
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-sell-assemble-to-order-items-and-inventory-items-together"></a><span data-ttu-id="76dc5-104">Procédure : Vente simultanée d'articles à assembler pour commande et d'articles en stock</span><span class="sxs-lookup"><span data-stu-id="76dc5-104">How to: Sell Assemble-to-Order Items and Inventory Items Together</span></span>

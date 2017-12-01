@@ -3,7 +3,7 @@ title: "Paramétrer des tarifs de projets et des groupes de comptabilisation de 
 description: "Décrit comment configurer des informations générales de projets, et des prix d'articles de projet, des ressources, ainsi que des comptes généraux et des groupes de comptabilisation projets."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project management
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6a1c4c6f6b90d3e721d545f86841472ba3a71388
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2e560f5b1852208ec81c19e06742b4a572d684d2
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-jobs"></a><span data-ttu-id="0fbcd-103">Procédure : configurer des projets</span><span class="sxs-lookup"><span data-stu-id="0fbcd-103">How to: Set Up Jobs</span></span>

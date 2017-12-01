@@ -3,7 +3,7 @@ title: Gestion des services
 description: "Apprenez à utiliser des fonctions conçues pour prendre en charge les opérations de l'atelier de réparation et du service clientèle."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 05a8666fdc120313bd55f45e32607fa3e5233728
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 453e1efba2e99fb259f998bc3b1d8aa9166383aa
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="service-management"></a><span data-ttu-id="8a3c4-103">Gestion des services</span><span class="sxs-lookup"><span data-stu-id="8a3c4-103">Service Management</span></span>

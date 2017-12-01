@@ -3,7 +3,7 @@ title: Comment imprimer un avis de remise
 description: "Vous pouvez aider vos fournisseurs à effectuer des rapprochements en imprimant des avis de remise avant d'afficher une feuille de paiement et après avoir validé un règlement."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 10/26/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: 71c84b4a7bad83e6008c0fa34f908e133b014a59
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7c7004ac5ded9436861bf5034f59a9c2bcd99dd0
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 

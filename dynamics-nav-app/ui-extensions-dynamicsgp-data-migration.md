@@ -3,7 +3,7 @@ title: "Migrer des données de Dynamics GP avec l'extension Data Migration"
 description: Utilisez l'extension Dynamics GP Data Migration pour migrer des clients, des fournisseurs, des articles en stock, et des comptes de Dynamics GP vers Dynamics NAV.
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms. search.keywords: app, add-in, manifest, customize, import, implement
 ms.date: 03/29/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0156ec040b96f007674161361e4368b81f7c42d9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4c505f475851ab7c71793bc1077612a1f344aadb
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="the-dynamics-gp-data-migration-extension-for-dynamics-nav"></a><span data-ttu-id="49832-103">L'extension Dynamics GP Data Migration pour Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="49832-103">The Dynamics GP Data Migration Extension for Dynamics NAV</span></span>

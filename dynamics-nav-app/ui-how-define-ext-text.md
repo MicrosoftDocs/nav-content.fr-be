@@ -3,7 +3,7 @@ title: "Ajouter des lignes supplémentaires pour définir le texte étendu d'une
 description: "Vous pouvez ajouter des lignes supplémentaires pour étendre le texte standard qui décrit un article."
 documentationcenter: 
 author: SusanneWindfeldPedersen
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.workload: na
 ms.date: 01/16/2017
 ms.author: solsen
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 25667e524253bfd122919af7a1089b4e323ffbb0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 93cc5b946094935287c5faf164a3cdd95cfeb10e
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-extended-item-text"></a><span data-ttu-id="35cef-103">Procédure : configurer du texte d'article étendu</span><span class="sxs-lookup"><span data-stu-id="35cef-103">How to: Set Up Extended Item Text</span></span>

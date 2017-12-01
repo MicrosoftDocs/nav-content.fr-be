@@ -3,7 +3,7 @@ title: "Vérifier les paiements lettrés automatiquement et relettrer des paieme
 description: "Après le lettrage automatique des paiements, vous pouvez consulter toutes les écritures d'un paiement et relettrer manuellement celles qui ont été mal lettrées."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: payment process, reconcile payment, expenses, cash receipts
 ms.date: 03/29/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 336dd02d1f29e5f80209961eae164a6faeaf65bc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1289f4650596e31b6ef7f2d7df5b9a311335692c
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-review-or-apply-payments-manually-after-automatic-application"></a><span data-ttu-id="ada84-103">Procédure : réviser ou lettrer les paiements manuellement après un lettrage automatique</span><span class="sxs-lookup"><span data-stu-id="ada84-103">How to: Review or Apply Payments Manually After Automatic Application</span></span>

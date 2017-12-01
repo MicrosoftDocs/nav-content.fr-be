@@ -3,7 +3,7 @@ title: TVA belge
 description: "Les améliorations belges de la fonction de déclaration de TVA vous permettent d'imprimer des détails sur les transactions TVA."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: fd7b0932f9e6e42dc43aed52382b4cfef7a98056
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7c2f011968e12ae2463f26ed383ebeb5f2f25a09
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="belgian-vat"></a><span data-ttu-id="9727e-103">TVA belge</span><span class="sxs-lookup"><span data-stu-id="9727e-103">Belgian VAT</span></span>

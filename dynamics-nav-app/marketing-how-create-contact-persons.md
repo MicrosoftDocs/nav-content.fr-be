@@ -3,7 +3,7 @@ title: "Création de personnes contact"
 description: "Décrit comment créer une fiche contact pour chaque nouvelle personne ou nouveau prospect avec lequel vous collaborez ou entretenez des relations professionnelles."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d7b4d46c8e6921983c319249983f16c70afa0a74
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c75097822a075bf8f1f40e1e0f5b78908cc42d74
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-create-contact-persons"></a><span data-ttu-id="45d28-103">Procédure : créer des personnes contact</span><span class="sxs-lookup"><span data-stu-id="45d28-103">How to: Create Contact Persons</span></span>

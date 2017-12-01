@@ -3,7 +3,7 @@ title: "Paramétrer des feuilles de temps et leur approbation"
 description: "Vous paramétrez des feuilles de temps pour suivre le temps consacré aux projets et l'utilisation des ressources, vous aider à gérer des projets, à recruter du personnel, et à anticiper vos capacités"
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project management, capacity, staff, resource
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 636bf45213ab4adf33244cb97dd1328733bf27ad
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0af59577029e1eac78bc3410c692dbd292185220
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-time-sheets"></a><span data-ttu-id="9cfca-103">Procédure : paramétrer des feuilles de temps</span><span class="sxs-lookup"><span data-stu-id="9cfca-103">How to: Set Up Time Sheets</span></span>

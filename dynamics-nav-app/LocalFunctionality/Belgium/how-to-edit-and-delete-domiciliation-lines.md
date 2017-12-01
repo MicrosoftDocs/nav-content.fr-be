@@ -3,7 +3,7 @@ title: Comment modifier et supprimer des lignes domiciliation
 description: "Après avoir généré des propositions de domiciliation, vous devrez peut-être modifier les lignes domiciliation. Par exemple, vous devrez peut-être réaffecter un compte bancaire ou empêcher le paiement pour un client ou une écriture comptable client spécifique."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 86a5a951886f90bd749e5cad9fb967edd2b4b02b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: defeca9d927591db5a2f1b718f503cdb35c3849c
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-edit-and-delete-domiciliation-lines"></a><span data-ttu-id="726ee-104">Comment modifier et supprimer des lignes domiciliation</span><span class="sxs-lookup"><span data-stu-id="726ee-104">How to: Edit and Delete Domiciliation Lines</span></span>

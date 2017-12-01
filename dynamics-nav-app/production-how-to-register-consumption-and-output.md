@@ -3,7 +3,7 @@ title: "Procédure : enregistrer la consommation et la production pour un ordre
 description: "Cette tâche d'exécution est réalisée dans la fenêtre **Feuille production**. La feuille combine en une seule feuille les fonctions des feuilles distinctes consommation et production. Vous accédez directement à la feuille combinée depuis un ordre de fabrication lancé. Son objectif principal est de valider manuellement la consommation de composants, la quantité d'articles finis produits et le temps passé dans les opérations."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e912412475c8b62404d7c417b9ae3ebbddeb9a17
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c00642bd9dca7c41971c4a7068b8f603a6e6a2b9
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-register-consumption-and-output-for-one-released-production-order-line"></a><span data-ttu-id="e3b3e-106">Procédure : enregistrer la consommation et la production pour une ligne ordre de fabrication lancé</span><span class="sxs-lookup"><span data-stu-id="e3b3e-106">How to: Register Consumption and Output for One Released Production order line</span></span>

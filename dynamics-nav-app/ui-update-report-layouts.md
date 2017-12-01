@@ -3,7 +3,7 @@ title: "Mise à jour d'une présentation d'état"
 description: "Vous pouvez être amené à mettre à jour une présentation d'état personnalisée qui est utilisée dans un état. Cela est nécessaire si une modification de conception a été apportée à l'ensemble de données de l'état, par exemple, si un champ utilisé dans la présentation a été supprimé de l'ensemble de données de l'état."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ca0bb5b30a6fded7f36f1380c5d73edb3f0a4ff0
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 09d0a665894363577f59dd97b49a7736ad700153
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="updating-report-or-document-layouts"></a><span data-ttu-id="88b12-104">Mise à jour des présentations de rapport ou de document</span><span class="sxs-lookup"><span data-stu-id="88b12-104">Updating Report or Document Layouts</span></span>

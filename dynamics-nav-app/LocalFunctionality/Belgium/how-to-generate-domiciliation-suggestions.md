@@ -3,7 +3,7 @@ title: "Comment générer des propositions de domiciliation"
 description: "Après avoir configuré des domiciliations, vous pouvez commencer à générer des propositions de domiciliation. Dans [!INCLUDE[navnow](../../includes/navnow_md.md)], vous pouvez uniquement créer des propositions de domiciliation pour des clients nationaux."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 20006ba794abeffeaecc7d36d1113469a464c3ab
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 7ee00c582069a77a16b382be868a3aa2e34dafc7
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-generate-domiciliation-suggestions"></a><span data-ttu-id="951e1-104">Comment générer des propositions de domiciliation</span><span class="sxs-lookup"><span data-stu-id="951e1-104">How to: Generate Domiciliation Suggestions</span></span>

@@ -3,7 +3,7 @@ title: Informations sur la configuration de la gestion du marketing et des conta
 description: "Vous pouvez configurer la gestion du marketing et des contacts dans Dynamics NAV pour optimiser les relations avec les prospects ou les clients, et améliorer des campagnes ou des promotions."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect, client, customer, campaign, promo
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9ff95940c7418bf7cc1265eb128e0c9ccf4fb6c4
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 206fb640f74fbfbcd9948be3d383ed0e50f08d62
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-relationship-management"></a><span data-ttu-id="4602d-103">Paramétrage de la Gestion des relations</span><span class="sxs-lookup"><span data-stu-id="4602d-103">Setting Up Relationship Management</span></span>

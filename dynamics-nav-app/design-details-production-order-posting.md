@@ -3,7 +3,7 @@ title: "Détails de conception - Validation d'ordre de fabrication"
 description: "Comme pour la validation d'ordre d'assemblage, les composants consommés et le temps du poste utilisé sont convertis et sortis en tant qu'article produit lorsque l'ordre de fabrication est terminé."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d3d63a4584689c0a87865b2ce1c627cfacd1fadd
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6875c6e9d6208aeffd9a3b9ab12d2f9f6ba8f19d
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-production-order-posting"></a><span data-ttu-id="6bb8b-103">Détails de conception : validation d'ordre de fabrication</span><span class="sxs-lookup"><span data-stu-id="6bb8b-103">Design Details: Production Order Posting</span></span>

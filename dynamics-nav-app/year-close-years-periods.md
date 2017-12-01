@@ -3,7 +3,7 @@ title: "Aperçu des tâches permettant de clôturer un exercice fiscal et des p�
 description: "Décrit les tâches permettant de clôturer un exercice fiscal ou une période comptable, par exemple, en vérifiant que les documents et les feuilles sont validés et en vérifiant les soldes bancaires."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: year closing, close accounting period, close fiscal year, ba
 ms.date: 06/07/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 867def80de4cc83a6f27698c6ac79c40701245aa
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 175967770fbd7af8b67949edb10d77047a84d36d
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="closing-years-and-periods"></a><span data-ttu-id="103ac-103">Clôture des exercices et des périodes</span><span class="sxs-lookup"><span data-stu-id="103ac-103">Closing Years and Periods</span></span>

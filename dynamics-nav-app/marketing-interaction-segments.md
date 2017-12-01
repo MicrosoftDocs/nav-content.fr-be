@@ -3,7 +3,7 @@ title: Effectuer le suivi des segments et des interactions correspondantes
 description: "En savoir plus sur la création de segments pour définir des groupes de contacts et spécifier des interactions pour des segments."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b4fb4abfdfe69856d0e26e20d30f3adcaf2fd665
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 0d5fbfa252b7592645baa7de9f2e840b37292aca
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="managing-interactions-for-segments"></a><span data-ttu-id="1bedb-103">Gestion des interactions pour des segments</span><span class="sxs-lookup"><span data-stu-id="1bedb-103">Managing Interactions for Segments</span></span>

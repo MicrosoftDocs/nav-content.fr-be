@@ -3,7 +3,7 @@ title: "Banque électronique belge"
 description: "La banque électronique vous permet d'échanger des données par voie électronique avec des institutions financières belges. Les données peuvent être échangées sur disquette, par un modem ou via Isabel (Interbanks Standards Association Belgium). Vous profitez ainsi d'un traitement plus rapide et évitez les erreurs causées par le traitement ou la saisie manuels des données."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 93807ae8da99f5d6077f8b4c239da790f841d90b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1ae2842851ab30369e9e17781aeeb52c7b6b73cf
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="belgian-electronic-banking"></a><span data-ttu-id="7a67f-105">Banque électronique belge</span><span class="sxs-lookup"><span data-stu-id="7a67f-105">Belgian Electronic Banking</span></span>

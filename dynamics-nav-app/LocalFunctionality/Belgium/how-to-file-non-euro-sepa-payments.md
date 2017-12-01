@@ -3,7 +3,7 @@ title: "Comment classer les paiements SEPA non libellés en Euro"
 description: "Dans [!INCLUDE[navnow](../../includes/navnow_md.md)], vous pouvez classer les paiements SEPA non libellés en Euro avec la banque. Cette fonction est utile lorsque vous effectuez des paiements vers d'autres pays qui n'utilisent pas le format SEPA et pour des devises autres que l'euro."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 6fc38866ebc02ef0873e94fc00c2e54c268e840c
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 41cab9c783e348ead8c3910f1c0e47b13f829be2
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-file-non-euro-sepa-payments"></a><span data-ttu-id="b021a-104">Comment classer les paiements SEPA non libellés en Euro</span><span class="sxs-lookup"><span data-stu-id="b021a-104">How to: File Non-Euro SEPA Payments</span></span>

@@ -3,7 +3,7 @@ title: "Comment lettrer les relevés CODA"
 description: "Après l'importation d'un relevé CODA, vous pouvez accéder aux lignes relevé à partir de la fenêtre **Fiche compte bancaire**. Le statut lettrage de chaque ligne sera vide, car les montants du relevé n'ont pas été lettrés à des écritures comptables en attente."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 9c22f28cf9693bc0fec118d4783d496ac38f8187
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b0248052d5f2e68edfd66415a64fb5dce7b415a0
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-apply-coda-statements"></a><span data-ttu-id="2b8ae-104">Comment lettrer les relevés CODA</span><span class="sxs-lookup"><span data-stu-id="2b8ae-104">How to: Apply CODA Statements</span></span>

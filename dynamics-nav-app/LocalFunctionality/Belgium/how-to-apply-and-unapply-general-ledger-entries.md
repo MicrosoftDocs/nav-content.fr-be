@@ -3,7 +3,7 @@ title: "Comment lettrer et délettrer des écritures comptables"
 description: "Le lettrage d'écritures comptables permet aux sociétés de travailler avec des comptes temporaires et de transfert dans la comptabilité. Les comptes temporaires et de transfert sont utilisés pour répertorier les écritures comptables en attente de traitement dans la comptabilité."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 29083566208a58727ba07d0a19a04c4dec1929cf
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8efa18d7aa9dabd13cbe57ca9113ada8076a49b4
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-apply-and-unapply-general-ledger-entries"></a><span data-ttu-id="3dc01-104">Comment lettrer et délettrer des écritures comptables</span><span class="sxs-lookup"><span data-stu-id="3dc01-104">How to: Apply and Unapply General Ledger Entries</span></span>

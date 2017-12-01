@@ -3,7 +3,7 @@ title: "Génération des coûts et rapprochement en comptabilité"
 description: "À la fin de la période comptable (mensuelle, annuelle, etc.), une série de tâches de contrôle des coûts et d'audit doivent être effectuées pour déclarer une valeur en stock correcte et équilibrée au département Finances. Outre les tâches habituelles de validation qui transfèrent les écritures valeur de chaque article vers les comptes généraux appropriés, l'auditeur ou le contrôleur responsable de cette tâche critique a accès à plusieurs états et fonctions de suivi, ainsi qu'à un outil de rapprochement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: e65d9613e3d0c71528649d9c69811bf0c6eb086e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 410e8b7cf6955509718b7cd653f31789c516a82f
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="reporting-costs-and-reconciling-with-the-general-ledger"></a><span data-ttu-id="74181-104">Génération des coûts et rapprochement en comptabilité</span><span class="sxs-lookup"><span data-stu-id="74181-104">Reporting Costs and Reconciling with the General Ledger</span></span>

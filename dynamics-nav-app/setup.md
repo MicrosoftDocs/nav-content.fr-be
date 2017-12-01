@@ -2,7 +2,7 @@
 title: "Aperçu des tâches permettant de paramétrer Dynamics NAV"
 description: "Décrit les tâches permettant de paramétrer, d'initialiser et de configurer Dynamics NAV selon vos besoins."
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -11,10 +11,10 @@ ms.search.keywords: configure, initialize
 ms.date: 09/01/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 2261b148d6f557a7e44e7db8d10b96c0387a5539
-ms.openlocfilehash: ff5b4dcb779745336feb1ba4f23979b9911bdf1e
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fe48d5477851bc79c29c0a918470439894b93b7b
 ms.contentlocale: fr-be
-ms.lasthandoff: 11/22/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-dynamics-nav"></a><span data-ttu-id="62a51-103">Configuration de Dynamics NAV</span><span class="sxs-lookup"><span data-stu-id="62a51-103">Setting Up Dynamics NAV</span></span>

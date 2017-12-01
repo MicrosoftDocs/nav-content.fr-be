@@ -3,7 +3,7 @@ title: "Procédure : configurer les centres de charge et les postes de charge"
 description: "Les fiches **Centre de charge** organisent les exigences et les valeurs fixes des ressources de production, et régissent ainsi la production des centres de charge."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/19/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: ba71815bc7d099b7f600ab828dec579ddbf2265a
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 4b91fd62228f857e391b6b2bf522746d3d893be9
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-work-centers-and-machine-centers"></a><span data-ttu-id="49f72-103">Procédure : configurer les centres de charge et les postes de charge</span><span class="sxs-lookup"><span data-stu-id="49f72-103">How to: Set Up Work Centers and Machine Centers</span></span>

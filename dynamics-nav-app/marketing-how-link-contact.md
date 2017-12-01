@@ -3,7 +3,7 @@ title: Lier les contacts avec les clients et les fournisseurs
 description: "Décrit comment lier un contact avec un client, un fournisseur, ou un compte bancaire de la même société, afin de pouvoir synchroniser les données communes."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: relationship, prospect
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 9e77d890117a6c6ae4dae502e6de48b7b8e53985
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 156312e68f82f51ade4832557cbea96a80f08ebf
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-link-contacts-with-customers-vendors-and-bank-accounts"></a><span data-ttu-id="bac4c-103">Procédure : liaison de contacts avec des clients, des fournisseurs et des comptes bancaires</span><span class="sxs-lookup"><span data-stu-id="bac4c-103">How to: Link Contacts With Customers, Vendors, and Bank Accounts</span></span>

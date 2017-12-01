@@ -3,7 +3,7 @@ title: "Transfert de fonds à la banque"
 description: "Vous pouvez transférer des montants d'un compte bancaire à un autre, y compris dans différentes devises, en validant la transaction dans la feuille comptabilité."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: bank account transfer, multiple currencies
 ms.date: 06/02/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 5cb652df51fc5b24088bb5cc6a41d8d3f067cfd4
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8625fa7648de96b2269f6150f8dfe383fed6645c
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-transfer-bank-funds"></a><span data-ttu-id="787fa-103">Procédure : Transfert de fonds à la banque</span><span class="sxs-lookup"><span data-stu-id="787fa-103">How to: Transfer Bank Funds</span></span>

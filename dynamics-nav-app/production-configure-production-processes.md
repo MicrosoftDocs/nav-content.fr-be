@@ -3,7 +3,7 @@ title: Configuration des processus de production
 description: "Pour convertir des matières en articles finis produits, vous devez configurer des ressources de production, telles que les nomenclatures, les gammes, les opérateurs machines et les machines, dans le système."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/04/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: b22fe53cc9a9ce6bb357f9eaf54fc37c4e1242b9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: d3d873409a2e03fa51f3637453e9ac60dfbce522
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-manufacturing"></a><span data-ttu-id="d9784-103">Paramétrage de la production</span><span class="sxs-lookup"><span data-stu-id="d9784-103">Setting Up Manufacturing</span></span>

@@ -3,7 +3,7 @@ title: "Procédure : déplacer des articles ad hoc dans les configurations de s
 description: "Vous pouvez être amené à déplacer des articles d'un emplacement interne vers un autre (et non vers des emplacements de réception ou d'expédition) sans demande spécifique issue d'un document origine. Vous pouvez exécuter ces mouvements ad hoc, par exemple, pour réorganiser l'entrepôt, pour acheminer des articles vers une zone d'inspection, ou pour déplacer des articles supplémentaires vers et depuis une zone de production sans qu'il existe une relation système avec le document origine de l'ordre de fabrication."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6178f14d7436e7545eacfbf7462ca1c7cdb3d9ef
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 8502b182198015cfc584be31ce36db9956bc6bd1
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-move-items-ad-hoc-in-basic-warehouse-configurations"></a><span data-ttu-id="770da-104">Procédure : déplacer des articles ad hoc dans les configurations de stockage de base.</span><span class="sxs-lookup"><span data-stu-id="770da-104">How to: Move Items Ad Hoc in Basic Warehouse Configurations</span></span>

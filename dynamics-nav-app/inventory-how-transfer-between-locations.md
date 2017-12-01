@@ -3,7 +3,7 @@ title: "Transfert d'articles entre des magasins entrepôt"
 description: "Décrit comment déplacer un stock d'un emplacement ou d'un entrepôt à un autre soit avec la feuille reclassement soit à l'aide des ordres de transfert."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: move, warehouse
 ms.date: 06/02/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f2be3ef1613356bb2b0d1a02c355e09a546de62d
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 06f7b6d5efdd895383be8bbed82a3e9f5f8e071e
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-transfer-inventory-between-locations"></a><span data-ttu-id="7c491-103">Procédure : Transfert de stock entre des magasins</span><span class="sxs-lookup"><span data-stu-id="7c491-103">How to: Transfer Inventory Between Locations</span></span>

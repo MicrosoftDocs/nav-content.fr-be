@@ -3,7 +3,7 @@ title: Comment configurer les comptes bancaires pour CODA
 description: "Avant de pouvoir utiliser la fonctionnalité de banque électronique pour les relevés CODA, vous devez configurer certains codes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: a16640e014e157d4dbcaabc53d0df2d3e063f8f9
-ms.openlocfilehash: d7b962958dd07ea391805b68dd0ed21043af5776
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 1c02b0be932510f99e3854c09f9864a36e17ed90
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/26/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-bank-accounts-for-coda"></a><span data-ttu-id="92810-103">Comment configurer les comptes bancaires pour CODA</span><span class="sxs-lookup"><span data-stu-id="92810-103">How to: Set Up Bank Accounts for CODA</span></span>

@@ -3,7 +3,7 @@ title: Utilisation de feuilles de temps pour des projets
 description: "Décrit comment créer une feuille de temps pour un projet, copier des lignes planning dans celle-ci, définir les types de travaux, renseigner la feuille de temps, et la soumettre pour approbation."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project management, capacity, staff, resource
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c4a2bc57833af88038d022e2a13cb8a50a4a61f3
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fb0afd32ba2f03e1af85d476b433e5c94cd97801
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-use-time-sheets-for-jobs"></a><span data-ttu-id="6a415-103">Procédure : Utiliser des feuilles de temps pour des projets</span><span class="sxs-lookup"><span data-stu-id="6a415-103">How to: Use Time Sheets for Jobs</span></span>

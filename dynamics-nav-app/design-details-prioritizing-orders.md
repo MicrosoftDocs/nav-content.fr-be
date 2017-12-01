@@ -3,7 +3,7 @@ title: "Détails de conception - Affecter une priorité aux commandes"
 description: "Découvrez comment affecter une priorité pour répondre à la demande et l'approvisionnement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: design, priority, prioritize, order, sku, demand, supply
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: c01ad1bb74e01ff81f35159865eddf14e9a34910
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: cf38aa12bca1b1f52073f3febd95a0a0b24d4ef6
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-prioritizing-orders"></a><span data-ttu-id="aa711-103">Détails de conception : Affecter une priorité aux commandes</span><span class="sxs-lookup"><span data-stu-id="aa711-103">Design Details: Prioritizing Orders</span></span>

@@ -3,7 +3,7 @@ title: "Détails de conception - Évaluation du stock"
 description: "Inventory valuation XE L'évaluation du stock est la détermination du coût qui est affecté à un article du stock, comme exprimé par l'équation suivante."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: ab8f7606bf88e208a358b90fe8a9b30460201f63
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 2c54fd3a10461a2e17834bb2165a1ea0425e2d19
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-inventory-valuation"></a><span data-ttu-id="36b2f-103">Détails de conception : évaluation du stock</span><span class="sxs-lookup"><span data-stu-id="36b2f-103">Design Details: Inventory Valuation</span></span>

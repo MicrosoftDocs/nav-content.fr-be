@@ -3,7 +3,7 @@ title: "Spécifier des indicateurs en couleur pour personnaliser les signaux vis
 description: "En tant qu'administrateur, vous pouvez définir des piles apparaissant sur les Tableaux de bord des utilisateurs comprenant un indicateur qui modifie la couleur en fonction des valeurs de données dans les piles."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: a9eaefecbae77183bdf24c22c0b4c6af2622278b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: a6b9fc8305354fa1544b29731e135b1b8487a924
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-a-colored-indicator-on-cues-for-the-company-or-individual-users"></a><span data-ttu-id="98aef-103">Procédure : Configurer un indicateur coloré sur les piles pour la société ou les utilisateurs individuelles</span><span class="sxs-lookup"><span data-stu-id="98aef-103">How to: Set Up a Colored Indicator on Cues for the Company or Individual Users</span></span>

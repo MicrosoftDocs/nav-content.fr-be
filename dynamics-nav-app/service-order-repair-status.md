@@ -3,7 +3,7 @@ title: "Paramétrer les statuts des commandes service et des réparations"
 description: "Vous devez paramétrer neuf états réparation qui identifient la progression de la réparation et de la maintenance des articles de service des commandes service."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d7dbc4cfc06d4c74476a04512bd368a0ab26f837
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 5aff326d35350a4bbda144a9778ee515995e4a5e
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-statuses-for-service-orders-and-repairs"></a><span data-ttu-id="f5f47-103">Procédure : paramétrer les statuts des commandes service et des réparations</span><span class="sxs-lookup"><span data-stu-id="f5f47-103">How to: Set Up Statuses for Service Orders and Repairs</span></span>

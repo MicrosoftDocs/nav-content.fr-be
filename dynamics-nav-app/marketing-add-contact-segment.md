@@ -3,7 +3,7 @@ title: "Définir les contacts dans un segment"
 description: "Après avoir créé un segment, vous pouvez y ajouter des contacts, par exemple, dans le cadre d'une campagne marketing visant des clients particuliers."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: marketing, campaign, promo, prospect, contact, client, custo
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: f77963080e3bd01b0854e45396174801a92e30b9
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 3718061f09a13ad317d4d504926066513b8662d0
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-add-contacts-to-segments"></a><span data-ttu-id="6cfbd-103">Procédure : ajouter des contacts à des segments</span><span class="sxs-lookup"><span data-stu-id="6cfbd-103">How to: Add Contacts to Segments</span></span>

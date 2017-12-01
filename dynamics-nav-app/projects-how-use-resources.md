@@ -3,7 +3,7 @@ title: Enregistrer et ajuster l'utilisation et les prix des ressources
 description: "Décrit la manière dont vous pouvez enregistrer l'utilisation ou la consommation ressource associée à un projet, de garder la trace et de gérer les coûts, les prix, ainsi que les types de travaux."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: project management, capacity, staff
 ms.date: 06/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3ee2af302aa75f091d85a2667e53d69ea8ed9ea8
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 9a7c07cb791dde896b5dd086ed05ef760ed7a8ab
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-use-resources-for-jobs"></a><span data-ttu-id="7dde6-103">Procédure : Utiliser des ressources pour des projets</span><span class="sxs-lookup"><span data-stu-id="7dde6-103">How to: Use Resources for Jobs</span></span>

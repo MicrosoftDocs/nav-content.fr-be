@@ -3,7 +3,7 @@ title: "Détails de conception - Validation du coût prévu"
 description: "Les coûts prévus représentent l'estimation, par exemple, du coût d'un article acheté que vous enregistrez avant la réception de la facture de cet article."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 0b14943e1bb214c26dfbae765a2467df1d06e50b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: b893849830c1e89be148efe6c5bc165d82a683f6
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="design-details-expected-cost-posting"></a><span data-ttu-id="ba792-103">Détails de conception : validation du coût prévu</span><span class="sxs-lookup"><span data-stu-id="ba792-103">Design Details: Expected Cost Posting</span></span>

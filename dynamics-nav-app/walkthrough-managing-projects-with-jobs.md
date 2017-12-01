@@ -3,7 +3,7 @@ title: "Procédure pas à pas : gestion des projets"
 description: "Cette procédure pas-à-pas présente les fonctionnalités de gestion de projets dans les projets. Les projets vous permettent de planifier l'utilisation des ressources de votre société et de suivre les différents coûts associés à l'utilisation des ressources sur un projet spécifique. Les projets impliquent la consommation d'heures salarié, d'heures machines, d'articles en stock et d'autres types d'activité pouvant faire l'objet d'un suivi au fur et à mesure de l'avancée du projet."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/07/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 75d0c1648b152717c6ceff69f37b399c8cc3ae26
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: eddfe34026a0c3fa5dc57c5612fa19e5f97d6b44
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="walkthrough-managing-projects-with-jobs"></a><span data-ttu-id="33590-105">Procédure pas à pas : gestion des projets</span><span class="sxs-lookup"><span data-stu-id="33590-105">Walkthrough: Managing Projects with Jobs</span></span>

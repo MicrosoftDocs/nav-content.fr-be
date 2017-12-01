@@ -3,7 +3,7 @@ title: "Importation et exportation d'une présentation de rapport et de document
 description: "Vous pouvez importer et exporter une présentation de rapport personnalisée existante sous forme de fichier depuis ou vers un emplacement sur votre ordinateur et le réseau."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 1aee8a288f2eddde3e4f54de2bd611a7c1a393b5
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c80244f5632e63b2b4f1076c5896a6d68d2f1bb9
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-import-and-export-a-report-or-document-layout"></a><span data-ttu-id="50df9-103">Procédure : importer et exporter une présentation de rapport ou de document</span><span class="sxs-lookup"><span data-stu-id="50df9-103">How to: Import and Export a Report or Document Layout</span></span>

@@ -3,7 +3,7 @@ title: "Domiciliation européenne"
 description: "Une domiciliation est un accord financier entre vous et vos clients, qui vous permet de collecter automatiquement les paiements pour les factures du client via un compte bancaire préféré. Les domiciliations peuvent uniquement être traitées pour les clients nationaux qui ont des comptes bancaires nationaux."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 10925476f685c3b81133bc6f445aa82d3886941f
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: c23a6ea36a8168c2907e082b85e8efbf59578836
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="direct-debit-using-domiciliation"></a><span data-ttu-id="5e58a-104">Domiciliation européenne</span><span class="sxs-lookup"><span data-stu-id="5e58a-104">Direct Debit Using Domiciliation</span></span>

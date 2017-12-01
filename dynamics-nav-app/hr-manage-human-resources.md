@@ -3,7 +3,7 @@ title: "Utilisation de la fonctionnalité Ressources Humaines"
 description: "Vous pouvez enregistrer de nouveaux employés, modifier des informations sur le personnel existant, et enregistrer et analyser les absences."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: personnel, people, employee, staff, HR
 ms.date: 08/09/2017
 ms.author: SorenGP
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6d23e1c4ae20db6276ef300dde831a90e8094573
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 95cfc3c2d17920911101a078feb865f1f87a635c
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="manage-human-resources"></a><span data-ttu-id="9969a-103">Gérer les ressources humaines</span><span class="sxs-lookup"><span data-stu-id="9969a-103">Manage Human Resources</span></span>

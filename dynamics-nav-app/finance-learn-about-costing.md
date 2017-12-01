@@ -3,7 +3,7 @@ title: "À propos de l'évaluation des coûts de stock"
 description: "La gestion des coûts ajustés fait référence à l'enregistrement et la déclaration des coûts d'exploitation de l'entreprise. Cette activité inclut la déclaration des coûts de fabrication et de stock qui constituent la valeur des articles."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 3b265e86751060b75b9f37580923469612cd1b56
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: ad343de8e54e8cd0b2ad5c625a4d0808d95db906
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="about-inventory-costing"></a><span data-ttu-id="7884f-104">À propos de l'évaluation des coûts de stock</span><span class="sxs-lookup"><span data-stu-id="7884f-104">About Inventory Costing</span></span>

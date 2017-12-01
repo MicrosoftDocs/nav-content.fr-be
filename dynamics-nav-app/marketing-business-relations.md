@@ -3,7 +3,7 @@ title: "Définir les codes des relations d'affaires dans les contacts"
 description: "Utilisez les relations d'affaires dans Dynamics NAV pour vous aider avec le marketing et désigner les rapports établis avec vos prospects, clients, notamment les banques ou les prestataires de services."
 documentationcenter: 
 author: jswymer
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: marketing, prospect, contact, client, customer
 ms.date: 06/06/2017
 ms.author: jswymer
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 36e77c794e7aa92d5d323d93a7703359018efd39
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 6d0f157502eb9d82875c8585ab43d48cfd9e8ffb
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="setting-up-business-relations-on-contact-companies"></a><span data-ttu-id="331d6-103">Configuration des relations d'affaires sur des sociétés contact</span><span class="sxs-lookup"><span data-stu-id="331d6-103">Setting Up Business Relations on Contact Companies</span></span>

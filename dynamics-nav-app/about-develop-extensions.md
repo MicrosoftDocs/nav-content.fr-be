@@ -3,7 +3,7 @@ title: Personnaliser Dynamics NAV
 description: "Concevoir, présenter et promouvoir vos applications et extensions pour Dynamics NAV."
 documentationcenter: 
 author: edupont04
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: get-started-article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords: app, add-in, manifest, customize
 ms.date: 06/02/2017
 ms.author: edupont
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 6de3c94885cb37a73eceb7aa139dc055e0575418
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 543ff306cbbea459483e3ba46745f9a45baef43a
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="extending-included365finlongincludesd365finlongmdmd"></a><span data-ttu-id="b101c-103">Extension de [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</span><span class="sxs-lookup"><span data-stu-id="b101c-103">Extending [!INCLUDE[d365fin_long](includes/d365fin_long_md.md)]</span></span>

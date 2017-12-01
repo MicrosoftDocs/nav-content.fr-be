@@ -3,7 +3,7 @@ title: "Procédure : contrepasser la validation de production"
 description: "Il arrive qu'une validation de production doive être contrepassée. C'est le cas, par exemple, si une erreur de saisie de données a été commise et qu'une quantité de production incorrecte a été validée pour un ordre de fabrication."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/06/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: 21eda3d822ca162b2d97f34eddc21f745e34f561
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: fab5b0a19467422736cda25fc4c087655dff532a
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-reverse-output-posting"></a><span data-ttu-id="3eba1-104">Procédure : contrepasser la validation de production</span><span class="sxs-lookup"><span data-stu-id="3eba1-104">How to: Reverse Output Posting</span></span>

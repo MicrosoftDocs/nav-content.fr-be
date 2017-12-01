@@ -3,7 +3,7 @@ title: "Comment configurer des entrepôts de base avec les zones d'opérations"
 description: "Si les zones Opérations internes telles que la production ou l'assemblage existent dans les configurations entrepôt de base dans lesquelles les magasins utilisent le champ de configuration **Emplacement obligatoire** et éventuellement les champs **Prélèvement requis** et **Rangement requis**, vous pouvez utiliser trois documents d'entrepôt de base suivants pour enregistrer vos activités entrepôt pour des zones Opérations internes."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 09/08/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d141fcb9f5357355272f6a34d71b88f50129985b
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 30b4f824925255ca3afa6ddb831aef45884c85da
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-set-up-basic-warehouses-with-operations-areas"></a><span data-ttu-id="344a1-103">Comment configurer des entrepôts de base avec les zones d'opérations</span><span class="sxs-lookup"><span data-stu-id="344a1-103">How to: Set Up Basic Warehouses with Operations Areas</span></span>

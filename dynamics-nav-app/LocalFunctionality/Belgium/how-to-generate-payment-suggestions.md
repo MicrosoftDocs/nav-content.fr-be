@@ -3,7 +3,7 @@ title: "Comment générer des propositions de paiement"
 description: "Après avoir configuré la banque électronique, vous pouvez commencer à générer des propositions de paiement. Vous pouvez le faire dans la feuille paiement."
 documentationcenter: 
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 07/01/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 8eff5304474e2ed22ab7d9774d824b13b40cefef
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: 60800c6279b3aa314cf4d0229569ce5f7e3fd528
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-generate-payment-suggestions"></a><span data-ttu-id="31c65-104">Comment générer des propositions de paiement</span><span class="sxs-lookup"><span data-stu-id="31c65-104">How to: Generate Payment Suggestions</span></span>

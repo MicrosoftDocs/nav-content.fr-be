@@ -3,7 +3,7 @@ title: "Procédure : établir rapidement des factures achat"
 description: "Si vous devez payer le fournisseur en liquide ou par chèque, vous pouvez effectuer toutes les opérations nécessaires lorsque vous validez la facture."
 documentationcenter: 
 author: bholtorf
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +12,10 @@ ms.search.keywords:
 ms.date: 08/16/2017
 ms.author: bholtorf
 ms.translationtype: HT
-ms.sourcegitcommit: 4fefaef7380ac10836fcac404eea006f55d8556f
-ms.openlocfilehash: d39e85904420eb6ba94408f676f36b248f6f33dc
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: e2f3325281cbc48191e134bc7a9392e64e534dd0
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/16/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-settle-purchase-invoices-promptly"></a><span data-ttu-id="8f5c6-103">Procédure : établir rapidement des factures achat</span><span class="sxs-lookup"><span data-stu-id="8f5c6-103">How to: Settle Purchase Invoices Promptly</span></span>
