@@ -1,9 +1,8 @@
 ---
-title: "Utilisez OCR pour convertir les fichiers PDF en factures électroniques"
-description: "Décrit la manière dont vous pouvez utiliser un service OCR pour convertir des fichiers PDF ou image entrant en documents électroniques dans Dynamics NAV."
-documentationcenter: 
+title: "Utilisez OCR pour convertir les fichiers PDF en factures électroniques| Microsoft Docs"
+description: "Décrit la manière dont vous pouvez utiliser un service OCR pour convertir des fichiers PDF ou image entrant en documents électroniques dans Financials."
 author: SorenGP
-ms.prod: dynamics-nav-2017
+ms.prod: dynamics-nav-2018
 ms.topic: article
 ms.devlang: na
 ms.tgt_pltfrm: na
@@ -12,10 +11,10 @@ ms.search.keywords: electronic document, e-invoice, incoming document, OCR, ecom
 ms.date: 11/09/2017
 ms.author: sgroespe
 ms.translationtype: HT
-ms.sourcegitcommit: b9b1f062ee6009f34698ea2cf33bc25bdd5b11e4
-ms.openlocfilehash: 5d8949516771dbd1736ea6fd9472f975dd431669
+ms.sourcegitcommit: 1dfba8b14019991c95f40ffd5f7fbaed5df414eb
+ms.openlocfilehash: f002a3975ecb6efe851cc9ac9774626f63bf760b
 ms.contentlocale: fr-be
-ms.lasthandoff: 10/23/2017
+ms.lasthandoff: 12/01/2017
 
 ---
 # <a name="how-to-use-ocr-to-turn-pdf-and-image-files-into-electronic-documents"></a>Procédure : Utiliser un service OCR pour convertir des fichiers PDF et image en documents électroniques
@@ -58,7 +57,7 @@ Si vous n'utilisez pas de file d'attente des travaux, ou si vous souhaitez recev
 1. Dans le champ **Statut OCR**, sélectionnez le lien hypertexte **En attente de vérification**. Sinon, optez pour la mosaïque **En attente de vérification** de la page d'accueil.
 2. Sur le site Web du service OCR, connectez-vous à l'aide des identifiants de votre compte de service OCR. Il s'agit des identifiants que vous avez également utilisés lors de la configuration de ce service. Pour en savoir plus, consultez la section « Configurer un service OCR » dans [Procédure : configurer les documents entrants](across-how-setup-income-documents.md).
 
-    Si vous accédez au site Web à partir du champ **Statut OCR**, le document en question s'affiche immédiatement après votre connexion. Si vous accédez au site Web en sélectionnant la mosaïque de la page d'accueil, sur la première page du service OCR qui s'ouvre, vous devez choisir le bouton **Démarrer** sur l'onglet **Vérifier** ou choisir deux fois le document que vous souhaitez vérifier.
+    Si vous accédez au site Web à partir du champ **Statut OCR**, le document en question s'affiche immédiatement après votre connexion. Si vous accédez au site Web en sélectionnant la mosaïque de la page d'accueil, sur la première page du service OCR qui s'ouvre, vous devez choisir le bouton **Démarrer** sur l'onglet **Vérifier** ou double-cliquer sur le document que vous souhaitez vérifier.
 
     Les informations concernant le document OCR sont affichées, vous présentant à la fois le contenu source du fichier PDF ou image ainsi que les valeurs de champ OCR correspondantes.
 3. Examinez les différentes valeurs de champ et modifiez ou saisissez des valeurs dans les champs identifiés comme à vérifier par le service OCR.
@@ -70,23 +69,34 @@ Si vous n'utilisez pas de file d'attente des travaux, ou si vous souhaitez recev
 Désormais, vous pouvez poursuivre la création d'enregistrements de documents pour les documents électroniques reçus dans [!INCLUDE[d365fin](includes/d365fin_md.md)], manuellement ou automatiquement. Pour plus d'informations, voir la procédure suivante. Vous pouvez également connecter le nouvel enregistrement de document entrant à un document validé ou non validé existant afin que le fichier source soit facilement accessible dans [!INCLUDE[d365fin](includes/d365fin_md.md)]. Pour plus d'informations, voir la section [Traiter les documents entrants](across-process-income-documents.md).
 
 ## <a name="to-create-a-purchase-invoice-from-an-electronic-document-received-from-the-ocr-service"></a>Pour créer une facture achat à partir d'un document électronique réceptionné depuis le service OCR
-La procédure suivante décrit comment créer un enregistrement facture achat à partir d'une facture fournisseur reçue en pièce jointe provenant du service OCR. La procédure est identique lorsque vous créez, par exemple, une ligne feuille comptabilité à partir d'un justificatif de frais.
+La procédure suivante décrit comment créer un enregistrement facture achat à partir d'une facture fournisseur reçue en pièce jointe provenant du service OCR. La procédure est identique lorsque vous créez, par exemple, une ligne feuille comptabilité à partir d'un justificatif de frais ou un retour vente d'un client.
 
 > [!NOTE]  
->   Les champs **Description** et **N°** des lignes document créées ne seront pas complétées tant que vous n'aurez pas mappé tout d'abord le texte trouvé sur le document OCR avec les deux champs dans [!INCLUDE[d365fin](includes/d365fin_md.md)]. Vous pouvez le faire en tant que références externes article, pour les lignes document de type Article, ou en tant que mappages de texte à compte, pour les lignes document ou les feuilles comptabilité de type Compte général. Pour en savoir plus, voir l'info-bulle pour l'action **Références externes** sur les fiches article et la procédure associée [Procédure : mapper le texte sur les paiements récurrents vers les comptes pour rapprochement automatique](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
+>   Les champs **Description** et **N°** des lignes document créées ne seront pas complétées tant que vous n'aurez pas mappé tout d'abord le texte trouvé sur le document OCR avec les deux champs dans [!INCLUDE[d365fin](includes/d365fin_md.md)]. Vous pouvez effectuer ce mappage en tant que références externes article, pour les lignes document de type Article. Vous pouvez également utiliser la fonction Correspondance texte et compte. Pour plus d'informations, reportez-vous à la section « Pour mapper du texte sur un document entrant à un fournisseur, une comptabilité ou un compte bancaire spécifique ».
 
+Pour mapper les numéros d'article sur le document avec vos descriptions des articles du fournisseur, ouvrez la fiche de chaque article, puis choisissez l'action **Références externes** afin de configurer les références externes entre vos descriptions d'article et celles du fournisseur. Pour plus d'informations, voir l'info-bulles de l'action **Références externes** sur les fiches article.
+
+1. Sélectionnez la ligne du document entrant, puis sélectionnez l'action **Créer document**.
+
+Une facture achat sera créée dans [!INCLUDE[d365fin](includes/d365fin_md.md)] selon les informations disponibles sur le document électronique du fournisseur provenant du service OCR. Ces informations sont insérées dans la nouvelle facture achat en fonction du mappage que vous avez défini comme référence externe ou sous forme de mappage texte et compte.
+
+Les erreurs de validation, généralement associées à des données de base erronées ou manquantes dans [!INCLUDE[d365fin](includes/d365fin_md.md)], seront affichées sur le raccourci **Erreurs et avertissements**. Pour plus d'informations, reportez-vous à la section « Gérer les erreurs lors de la réception de documents électroniques ».
+
+### <a name="to-map-text-on-an-incoming-document-to-a-specific-vendor-account"></a>Pour associer du texte sur un document entrant à un compte fournisseur spécifique
 Pour les documents entrants, vous utilisez généralement l'action **Mapper le texte avec le compte** pour définir qu'un certain texte sur une facture fournisseur en provenance du service OCR est mappé avec un certain compte fournisseur. En outre, toute partie de la description du document entrant qui existe comme texte de mappage signifie que le champ **N°** sur le document résultant ou les lignes feuille de type Compte général sont complétées par le fournisseur en question.
 
 Outre le mappage avec un compte fournisseur ou des comptes généraux, vous pouvez également effectuer un mappage avec un compte bancaire. Ceci est utile, par exemple, pour les documents électroniques des dépenses qui sont déjà payées lorsque vous souhaitez créer une ligne feuille comptabilité qui est prête à être validée sur un compte bancaire.
 
-1. Sélectionnez la ligne document entrant pour le document électronique fournisseur provenant du service OCR.
-2. Pour mapper le texte sur le document avec le compte Fournisseur, compte de débit, sélectionnez l'option **Mapper le texte avec le compte**, puis complétez la fenêtre **Mappage de texte à compte** avec les informations qui s'appliqueront, par la suite, au fournisseur. Pour plus d'informations, reportez-vous à [Procédure : mapper du texte sur les paiements récurrents aux comptes pour un rapprochement automatique](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
-3. Pour mapper les numéros d'article sur le document avec vos descriptions des articles du fournisseur, ouvrez la fiche de chaque article, puis choisissez l'action **Références externes** afin de configurer les références externes entre vos descriptions d'article et celles du fournisseur.
-4. Dans la fenêtre **Documents entrants**, sélectionnez l'action **Créer un document**.
+1. Sélectionnez la ligne document entrant appropriée, puis choisissez l'action **Mapper le texte avec le compte**. La fenêtre **Correspondance texte et compte** s'affiche.
+3. Dans le champ **Correspondance texte**, entrez le texte affiché sur les factures fournisseur pour lesquelles vous souhaitez créer des documents achat ou des lignes feuille. Vous pouvez entrer jusqu'à 50 caractères.
+4. Dans le champ **N° fournisseur**, entrez le fournisseur pour lequel le document achat ou la ligne feuille sera créée.
+5. Dans le champ **N° cpte débit**, entrez le compte général de type débit qui sera inséré sur le document achat ou la ligne feuille qui en résulte de type Compte général.
+6. Dans le champ **N° cpte crédit**, entrez le compte général de type crédit qui sera inséré sur le document achat ou la ligne feuille qui en résulte de type Compte général.
 
-Une facture achat sera créée dans [!INCLUDE[d365fin](includes/d365fin_md.md)] selon les informations disponibles sur le document électronique du fournisseur provenant du service OCR.
+    > [!NOTE]
+    > N'utilisez pas **Type origine solde** et les champs **N° origine solde** en relation avec les documents entrants. Ils sont utilisés à des fins de rapprochement de paiement automatique uniquement. Pour plus d'informations, reportez-vous à [Procédure : mapper du texte sur les paiements récurrents aux comptes pour un rapprochement automatique](receivables-how-map-text-recurring-payments-accounts-auto-reconcilliation.md).
 
-Les erreurs de validation, généralement associées à des données de base erronées ou manquantes dans [!INCLUDE[d365fin](includes/d365fin_md.md)], seront affichées sur le raccourci **Erreurs et avertissements**. Pour plus d'informations, reportez-vous à la section « Gérer les erreurs lors de la réception de documents électroniques ».
+7. Répétez les étapes 2 à 5 pour tout le texte des documents entrants pour lesquels vous souhaitez créer automatiquement des documents.
 
 ## <a name="to-handle-errors-when-receiving-electronic-documents"></a>Gérer les erreurs lors de la réception de documents électroniques
 1. Dans la fenêtre **Documents entrants** , sélectionnez la ligne pour un document électronique en provenance du service OCR et contenant des erreurs. Elle est indiquée par la valeur Erreur dans le champ **Statut OCR**.
